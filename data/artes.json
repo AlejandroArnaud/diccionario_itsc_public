@@ -1,0 +1,933 @@
+[
+    {
+        "termino_formal": "Composición artística",
+        "dominicanismo": "Arreglo creativo",
+        "definicion": "Organización de elementos visuales, sonoros o literarios para crear una obra de arte.",
+        "ejemplo_uso": "El arreglo creativo de esta pintura muestra un gran dominio de la técnica.",
+        "categoria": "Artes Visuales"
+    },
+    {
+        "termino_formal": "Perspectiva lineal",
+        "dominicanismo": "Profundidad en el dibujo",
+        "definicion": "Técnica de representación gráfica que simula la profundidad y el volumen en una superficie plana.",
+        "ejemplo_uso": "Para que el paisaje se vea real hay que dominar la profundidad en el dibujo.",
+        "categoria": "Artes Visuales"
+    },
+    {
+        "termino_formal": "Claroscuro",
+        "dominicanismo": "Juego de luces",
+        "definicion": "Técnica artística que utiliza contrastes fuertes entre luz y sombra.",
+        "ejemplo_uso": "El juego de luces en este retrato le da mucho dramatismo a la obra.",
+        "categoria": "Artes Visuales"
+    },
+    {
+        "termino_formal": "Paleta cromática",
+        "dominicanismo": "Combinación de colores",
+        "definicion": "Selección específica de colores utilizados en una obra artística.",
+        "ejemplo_uso": "La combinación de colores que usó el artista transmite mucha tranquilidad.",
+        "categoria": "Artes Visuales"
+    },
+    {
+        "termino_formal": "Escultura en relieve",
+        "dominicanismo": "Tallado que sobresale",
+        "definicion": "Técnica escultórica donde las figuras sobresalen de una superficie plana.",
+        "ejemplo_uso": "En la iglesia hay un tallado que sobresale muy bonito de la época colonial.",
+        "categoria": "Artes Visuales"
+    },
+    {
+        "termino_formal": "Técnica mixta",
+        "dominicanismo": "Mezcla de materiales",
+        "definicion": "Uso de diferentes medios y materiales en una sola obra artística.",
+        "ejemplo_uso": "Esta obra está hecha con mezcla de materiales: óleo, acrílico y collage.",
+        "categoria": "Artes Visuales"
+    },
+    {
+        "termino_formal": "Bodegón",
+        "dominicanismo": "Naturaleza muerta",
+        "definicion": "Género artístico que representa objetos inanimados en un espacio determinado.",
+        "ejemplo_uso": "En la clase de pintura estamos practicando con naturaleza muerta usando frutas.",
+        "categoria": "Artes Visuales"
+    },
+    {
+        "termino_formal": "Grabado en linóleo",
+        "dominicanismo": "Impresión tallada",
+        "definicion": "Técnica de grabado que utiliza linóleo como matriz para crear impresiones.",
+        "ejemplo_uso": "El taller de impresión tallada es muy popular entre los estudiantes de arte.",
+        "categoria": "Artes Visuales"
+    },
+    {
+        "termino_formal": "Aplomo",
+        "dominicanismo": "El entalle, la caída, cómo arma",
+        "definicion": "Ajuste y caída de una prenda de vestir sobre el cuerpo.",
+        "ejemplo_uso": "Ese vestido tiene un entalle perfecto, te arma muy bien el cuerpo.",
+        "categoria": "Diseño de Modas"
+    },
+    {
+        "termino_formal": "Bies",
+        "dominicanismo": "Al bies o sesgado",
+        "definicion": "Corte diagonal en la tela para proporcionar mayor elasticidad y caída.",
+        "ejemplo_uso": "Córtame esa falda al bies para que tenga más caída.",
+        "categoria": "Diseño de Modas"
+    },
+    {
+        "termino_formal": "Boceto",
+        "dominicanismo": "El dibujo, el diseño, un borrón",
+        "definicion": "Dibujo preliminar que plasma la idea inicial de un diseño.",
+        "ejemplo_uso": "Déjame hacerte un dibujo rápido de la idea que tengo para tu vestido.",
+        "categoria": "Diseño de Modas"
+    },
+    {
+        "termino_formal": "Cannesú",
+        "dominicanismo": "La pechera, el corte de arriba",
+        "definicion": "Pieza superior de una blusa o vestido que cubre los hombros y el pecho.",
+        "ejemplo_uso": "Vamos a ponerle un bordado a la pechera de la blusa.",
+        "categoria": "Diseño de Modas"
+    },
+    {
+        "termino_formal": "Colección Cápsula",
+        "dominicanismo": "Una colección chiquita, una colección especial",
+        "definicion": "Colección de moda pequeña y limitada, generalmente lanzada entre temporadas.",
+        "ejemplo_uso": "La diseñadora sacó una colección chiquita solo para el verano.",
+        "categoria": "Diseño de Modas"
+    },
+    {
+        "termino_formal": "Costura Francesa",
+        "dominicanismo": "Costura escondida, costura empaquetada",
+        "definicion": "Técnica de costura que encierra los bordes de la tela para un acabado limpio.",
+        "ejemplo_uso": "Hazle una costura escondida para que quede más fino por dentro.",
+        "categoria": "Diseño de Modas"
+    },
+    {
+        "termino_formal": "Drapeado",
+        "dominicanismo": "Drapeado o los pliegues",
+        "definicion": "Técnica que consiste en formar pliegues en la tela para crear volumen y movimiento.",
+        "ejemplo_uso": "El vestido lleva unos pliegues en la cintura que lo hacen ver elegante.",
+        "categoria": "Diseño de Modas"
+    },
+    {
+        "termino_formal": "Entretela",
+        "dominicanismo": "Pellón",
+        "definicion": "Material textil que se coloca entre las telas para dar cuerpo, rigidez o estabilidad.",
+        "ejemplo_uso": "Hay que ponerle pellón al cuello de la camisa para que quede duro.",
+        "categoria": "Diseño de Modas"
+    },
+    {
+        "termino_formal": "Escandallo",
+        "dominicanismo": "La hoja de costos, sacar los costos",
+        "definicion": "Proceso de calcular el costo total de producción de una prenda de vestir.",
+        "ejemplo_uso": "Saca los costos de esa chaqueta para saber a cómo la vamos a vender.",
+        "categoria": "Diseño de Modas"
+    },
+    {
+        "termino_formal": "Ficha Técnica",
+        "dominicanismo": "La hoja de detalles, las especificaciones",
+        "definicion": "Documento con todas las especificaciones para la confección de una prenda.",
+        "ejemplo_uso": "Mándale la hoja de detalles al taller para que no se equivoquen.",
+        "categoria": "Diseño de Modas"
+    },
+    {
+        "termino_formal": "Figurín",
+        "dominicanismo": "El dibujo, la muñequita",
+        "definicion": "Dibujo estilizado de una figura humana para ilustrar diseños de moda.",
+        "ejemplo_uso": "Me encantó el último dibujo que subiste con la nueva colección.",
+        "categoria": "Diseño de Modas"
+    },
+    {
+        "termino_formal": "Fornituras",
+        "dominicanismo": "Avíos, accesorios, los botones y la cosa",
+        "definicion": "Conjunto de materiales secundarios utilizados en la confección (botones, cremalleras, etc.).",
+        "ejemplo_uso": "Ve a la mercería y compra todos los avíos para esos pantalones.",
+        "categoria": "Diseño de Modas"
+    },
+    {
+        "termino_formal": "Fruncir",
+        "dominicanismo": "Arruchar",
+        "definicion": "Técnica de recoger o plisar la tela para reducir su longitud y añadir volumen.",
+        "ejemplo_uso": "Vamos a arrucharle las mangas a esa blusa para darle volumen.",
+        "categoria": "Diseño de Modas"
+    },
+    {
+        "termino_formal": "Georgette",
+        "dominicanismo": "Georgette o Yoryé",
+        "definicion": "Tejido fino y ligero, de aspecto mate y ligeramente crepado.",
+        "ejemplo_uso": "Esa blusa es de yoryé, por eso es tan fresquecita.",
+        "categoria": "Diseño de Modas"
+    },
+    {
+        "termino_formal": "Hilo (Dirección del)",
+        "dominicanismo": "Al hilo de la tela, por el lao del hilo",
+        "definicion": "Sentido longitudinal de los hilos que determina la correcta caída de la prenda.",
+        "ejemplo_uso": "Corta la falda siempre por el lao del hilo para que no se tuerza.",
+        "categoria": "Diseño de Modas"
+    },
+    {
+        "termino_formal": "Jareta",
+        "dominicanismo": "Pasacinta, canalito, la fundita",
+        "definicion": "Dobladillo tubular cosido en una prenda para pasar un cordón o cinta.",
+        "ejemplo_uso": "Hazle un pasacinta en la cintura para meterle un cordón.",
+        "categoria": "Diseño de Modas"
+    },
+    {
+        "termino_formal": "Maniquí",
+        "dominicanismo": "Maniquí o busto",
+        "definicion": "Figura con forma de cuerpo humano para probar, ajustar y exhibir prendas.",
+        "ejemplo_uso": "Prueba esa chaqueta en el maniquí a ver cómo se ve.",
+        "categoria": "Diseño de Modas"
+    },
+    {
+        "termino_formal": "Moulage",
+        "dominicanismo": "Diseñar sobre el maniquí, montar en el busto",
+        "definicion": "Técnica de diseño que consiste en crear una prenda directamente sobre un maniquí.",
+        "ejemplo_uso": "Aprendí a montar la ropa directo en el busto, es más creativo.",
+        "categoria": "Diseño de Modas"
+    },
+    {
+        "termino_formal": "Patronaje",
+        "dominicanismo": "Hacer los patrones",
+        "definicion": "Proceso de crear plantillas o patrones que sirven de guía para cortar la tela.",
+        "ejemplo_uso": "Ella es una dura haciendo los patrones, la ropa le queda perfecta.",
+        "categoria": "Diseño de Modas"
+    },
+    {
+        "termino_formal": "Pinza",
+        "dominicanismo": "Pinza",
+        "definicion": "Pliegue cosido en forma triangular que sirve para ajustar una prenda al cuerpo.",
+        "ejemplo_uso": "Hay que cogerle una pinza a ese pantalón para que te ajuste mejor.",
+        "categoria": "Diseño de Modas"
+    },
+    {
+        "termino_formal": "Plano de Corte",
+        "dominicanismo": "El trazo, la marcada, el plan de tizada",
+        "definicion": "Diagrama que muestra la disposición de los patrones sobre la tela para minimizar desperdicio.",
+        "ejemplo_uso": "Optimiza bien la marcada en la tela para que no se desperdicie.",
+        "categoria": "Diseño de Modas"
+    },
+    {
+        "termino_formal": "Prêt-à-Porter",
+        "dominicanismo": "Ropa de tienda, ropa hecha",
+        "definicion": "Ropa de moda producida en serie y lista para llevar.",
+        "ejemplo_uso": "Yo no mando a hacer ropa, prefiero comprarla hecha en la tienda.",
+        "categoria": "Diseño de Modas"
+    },
+    {
+        "termino_formal": "Termofijado",
+        "dominicanismo": "Pegar el pellón, fusionar",
+        "definicion": "Proceso de adherir entretelas a la tela mediante calor y presión.",
+        "ejemplo_uso": "Pégale el pellón al cuello con la plancha para que quede nítido.",
+        "categoria": "Diseño de Modas"
+    },
+    {
+        "termino_formal": "Tizada",
+        "dominicanismo": "Marcar la tela, pasar la tiza",
+        "definicion": "Acción de marcar las líneas de corte de los patrones sobre la tela.",
+        "ejemplo_uso": "Ya marqué toda la tela con la tiza, ahora solo falta cortar.",
+        "categoria": "Diseño de Modas"
+    },
+    {
+        "termino_formal": "Urdimbre y Trama",
+        "dominicanismo": "El hilo a lo largo y a lo ancho",
+        "definicion": "Conjunto de hilos longitudinales (urdimbre) y transversales (trama) que forman un tejido.",
+        "ejemplo_uso": "Fíjate en el hilo a lo largo de la tela para que cortes derecho.",
+        "categoria": "Diseño de Modas"
+    },
+    {
+        "termino_formal": "Briefing",
+        "dominicanismo": "El brief, los requerimientos, lo que quiere el cliente",
+        "definicion": "Documento o reunión que define los objetivos y requisitos de un proyecto de diseño.",
+        "ejemplo_uso": "Mándame el brief por correo para empezar a trabajar en eso.",
+        "categoria": "Diseño Gráfico"
+    },
+    {
+        "termino_formal": "CMYK",
+        "dominicanismo": "CMYK, los colores de impresión, full color",
+        "definicion": "Modelo de color (Cian, Magenta, Amarillo y Negro) utilizado en la impresión.",
+        "ejemplo_uso": "Ese arte tiene que estar en CMYK, si no, la imprenta lo va a rebotar.",
+        "categoria": "Diseño Gráfico"
+    },
+    {
+        "termino_formal": "Contraste",
+        "dominicanismo": "Contraste, que resalte bien, que se lea claro",
+        "definicion": "Diferencia notable entre elementos visuales para mejorar la legibilidad y el impacto.",
+        "ejemplo_uso": "Súbele el contraste a eso, que el texto casi no se lee con ese fondo.",
+        "categoria": "Diseño Gráfico"
+    },
+    {
+        "termino_formal": "DPI",
+        "dominicanismo": "DPI, la resolución",
+        "definicion": "Acrónimo de 'Dots Per Inch' (Puntos por Pulgada), medida de la resolución de una imagen impresa.",
+        "ejemplo_uso": "La foto que me mandaste está en baja, tiene que estar a 300 DPI para que no se pixelee.",
+        "categoria": "Diseño Gráfico"
+    },
+    {
+        "termino_formal": "Espacio Negativo",
+        "dominicanismo": "El espacio en blanco, el aire, el respiro",
+        "definicion": "Área vacía alrededor y entre los elementos de un diseño.",
+        "ejemplo_uso": "No pegues tanto el logo del borde, dale un poco de aire para que respire.",
+        "categoria": "Diseño Gráfico"
+    },
+    {
+        "termino_formal": "Grilla o Retícula",
+        "dominicanismo": "La grilla, las guías, el esqueleto",
+        "definicion": "Estructura de líneas guía utilizada para alinear y organizar el contenido de un diseño.",
+        "ejemplo_uso": "Usa las guías para que todo quede bien alineado, no lo hagas al ojo.",
+        "categoria": "Diseño Gráfico"
+    },
+    {
+        "termino_formal": "Identidad Visual",
+        "dominicanismo": "La línea gráfica, la identidad de la marca",
+        "definicion": "Conjunto de elementos gráficos que definen y representan una marca.",
+        "ejemplo_uso": "Tenemos que seguir la línea gráfica, no puedes usar un color que no sea de la marca.",
+        "categoria": "Diseño Gráfico"
+    },
+    {
+        "termino_formal": "Isotipo",
+        "dominicanismo": "El simbolito, el muñequito, el ícono del logo",
+        "definicion": "Parte icónica o simbólica de un logotipo que funciona sin texto.",
+        "ejemplo_uso": "Me gusta el simbolito de Apple, lo reconoces donde sea sin que diga el nombre.",
+        "categoria": "Diseño Gráfico"
+    },
+    {
+        "termino_formal": "Kerning",
+        "dominicanismo": "El kerning, pegar o despegar las letras",
+        "definicion": "Ajuste del espacio entre pares de caracteres específicos en una tipografía.",
+        "ejemplo_uso": "Ajústale el kerning a la V y la A, que se ven muy separadas.",
+        "categoria": "Diseño Gráfico"
+    },
+    {
+        "termino_formal": "Logotipo",
+        "dominicanismo": "El logo (se usa para todo tipo de logos)",
+        "definicion": "Representación gráfica de una marca, que puede incluir símbolos, texto o una combinación.",
+        "ejemplo_uso": "¿Me mandas el logo de la empresa en alta resolución?.",
+        "categoria": "Diseño Gráfico"
+    },
+    {
+        "termino_formal": "Maqueta (Mockup)",
+        "dominicanismo": "El mockup, el montaje, la presentación",
+        "definicion": "Representación visual o montaje que muestra cómo se verá un diseño en su contexto real.",
+        "ejemplo_uso": "Haz un mockup de la valla para que el cliente vea cómo se va a ver en la calle.",
+        "categoria": "Diseño Gráfico"
+    },
+    {
+        "termino_formal": "Mapa de Bits",
+        "dominicanismo": "Imagen de píxeles, una foto normal, bitmap",
+        "definicion": "Imagen digital compuesta por una rejilla de píxeles.",
+        "ejemplo_uso": "Cuando le das mucho zoom a una foto normal, se daña porque es de píxeles.",
+        "categoria": "Diseño Gráfico"
+    },
+    {
+        "termino_formal": "Monocromático",
+        "dominicanismo": "A un solo color, en tonos de gris (si es el caso)",
+        "definicion": "Esquema de color basado en diferentes tonos y matices de un solo color.",
+        "ejemplo_uso": "El brochure va a un solo color para que salga más barato.",
+        "categoria": "Diseño Gráfico"
+    },
+    {
+        "termino_formal": "Pantone",
+        "dominicanismo": "Pantone, color directo, color especial",
+        "definicion": "Sistema de identificación y estandarización de colores para impresión.",
+        "ejemplo_uso": "Ese azul es un Pantone, búscalo en el catálogo para que la imprenta lo iguale.",
+        "categoria": "Diseño Gráfico"
+    },
+    {
+        "termino_formal": "Pixel",
+        "dominicanismo": "Píxel (plural: píxeles)",
+        "definicion": "La unidad más pequeña de una imagen digital.",
+        "ejemplo_uso": "La imagen se está pixelando, se le ven todos los cuadritos.",
+        "categoria": "Diseño Gráfico"
+    },
+    {
+        "termino_formal": "PPI",
+        "dominicanismo": "PPI, resolución de pantalla",
+        "definicion": "Acrónimo de 'Pixels Per Inch' (Píxeles por Pulgada), medida de la resolución de una imagen en pantalla.",
+        "ejemplo_uso": "Para web, con que la imagen esté a 72 PPI es suficiente, no tiene que pesar tanto.",
+        "categoria": "Diseño Gráfico"
+    },
+    {
+        "termino_formal": "Rasterizar",
+        "dominicanismo": "Rasterizar, convertir a imagen, aplanar",
+        "definicion": "Proceso de convertir una imagen vectorial o texto en una imagen de mapa de bits (píxeles).",
+        "ejemplo_uso": "Tienes que rasterizar el texto antes de mandarlo, por si no tienen esa letra.",
+        "categoria": "Diseño Gráfico"
+    },
+    {
+        "termino_formal": "RGB",
+        "dominicanismo": "RGB, los colores de pantalla, colores luz",
+        "definicion": "Modelo de color (Rojo, Verde y Azul) utilizado para la visualización en pantallas digitales.",
+        "ejemplo_uso": "Si es para Instagram, el diseño tiene que estar en RGB.",
+        "categoria": "Diseño Gráfico"
+    },
+    {
+        "termino_formal": "Sangrado (Bleed)",
+        "dominicanismo": "El sangrado, el borde de corte, el bleed",
+        "definicion": "Área extra de una imagen o diseño que se extiende más allá de los bordes de corte finales.",
+        "ejemplo_uso": "¡No te olvides de ponerle el sangrado al arte, si no, van a quedar bordes blancos!.",
+        "categoria": "Diseño Gráfico"
+    },
+    {
+        "termino_formal": "Serif/Sans Serif",
+        "dominicanismo": "Con serifa / Sin serifa, la letra con rabitos / la letra derecha",
+        "definicion": "Clasificación de tipografías: con remates decorativos (Serif) o sin ellos (Sans Serif).",
+        "ejemplo_uso": "Usa una letra sin serifa, que se vea más moderna y se lea mejor en pantalla.",
+        "categoria": "Diseño Gráfico"
+    },
+    {
+        "termino_formal": "Tipografía",
+        "dominicanismo": "La tipografía, el tipo de letra, la fuente",
+        "definicion": "Estilo o apariencia de un conjunto de caracteres, números y signos.",
+        "ejemplo_uso": "¿Cuál es la tipografía que usa esa marca? ¡Me encanta!.",
+        "categoria": "Diseño Gráfico"
+    },
+    {
+        "termino_formal": "Tracking",
+        "dominicanismo": "El tracking, el espacio entre letras",
+        "definicion": "Ajuste del espacio uniforme entre todos los caracteres de un bloque de texto.",
+        "ejemplo_uso": "Ábrele un poco el tracking a ese título para que abarque más espacio.",
+        "categoria": "Diseño Gráfico"
+    },
+    {
+        "termino_formal": "UI",
+        "dominicanismo": "UI (leído: yu-ai), la interface, el diseño de la app",
+        "definicion": "Acrónimo de 'User Interface' (Interfaz de Usuario), se refiere al diseño visual de una aplicación o sitio web.",
+        "ejemplo_uso": "El UI de esa aplicación está muy limpio, todos los botones se entienden.",
+        "categoria": "Diseño Gráfico"
+    },
+    {
+        "termino_formal": "UX",
+        "dominicanismo": "UX (leído: yu-ex), la experiencia de usuario",
+        "definicion": "Acrónimo de 'User Experience' (Experiencia de Usuario), se refiere a la percepción y sensación general de una persona al usar un producto.",
+        "ejemplo_uso": "La app se ve bonita, pero el UX es malísimo, uno se pierde buscando las cosas.",
+        "categoria": "Diseño Gráfico"
+    },
+    {
+        "termino_formal": "Vector",
+        "dominicanismo": "Vector (plural: vectores)",
+        "definicion": "Imagen digital creada a partir de ecuaciones matemáticas, que puede escalarse infinitamente sin perder calidad.",
+        "ejemplo_uso": "Mándame el logo en vectores para poder agrandarlo sin que se dañe.",
+        "categoria": "Diseño Gráfico"
+    },
+    {
+        "termino_formal": "Apertura del Diafragma",
+        "dominicanismo": "La apertura, abrir el lente",
+        "definicion": "Orificio ajustable en el objetivo de una cámara que controla la cantidad de luz que llega al sensor.",
+        "ejemplo_uso": "Abre bien el lente, que hay poca luz aquí adentro.",
+        "categoria": "Fotografía"
+    },
+    {
+        "termino_formal": "Balance de Blancos",
+        "dominicanismo": "El balance de blancos, ajustar los colores",
+        "definicion": "Ajuste que realiza la cámara para que los colores de la imagen se vean naturales bajo diferentes tipos de luz.",
+        "ejemplo_uso": "La foto se ve muy amarilla, arréglale el balance de blancos.",
+        "categoria": "Fotografía"
+    },
+    {
+        "termino_formal": "Bokeh",
+        "dominicanismo": "El desenfoque, el fondo borroso, el boké",
+        "definicion": "Calidad estética del desenfoque en el fondo de una fotografía producido por una lente.",
+        "ejemplo_uso": "Me encanta el fondo borroso que le diste a ese retrato, quedó nítido.",
+        "categoria": "Fotografía"
+    },
+    {
+        "termino_formal": "Bracketing (Horquillado)",
+        "dominicanismo": "Tirar en ráfaga, hacer varias tomas",
+        "definicion": "Técnica de tomar varias fotografías de la misma escena con diferentes ajustes de exposición.",
+        "ejemplo_uso": "Tira eso en ráfaga con diferentes luces, y después vemos cuál quedó mejor.",
+        "categoria": "Fotografía"
+    },
+    {
+        "termino_formal": "Composición",
+        "dominicanismo": "La composición, el encuadre, cómo acomodaste todo",
+        "definicion": "Organización de los elementos visuales dentro del encuadre de una fotografía.",
+        "ejemplo_uso": "¡Qué buena composición! Me gusta cómo pusiste el árbol a un lado.",
+        "categoria": "Fotografía"
+    },
+    {
+        "termino_formal": "Distancia Focal",
+        "dominicanismo": "Los milímetros del lente, el zoom",
+        "definicion": "Distancia en milímetros entre el centro óptico de la lente y el sensor de la cámara.",
+        "ejemplo_uso": "¿Qué lente usaste? Por el ángulo, parece un 50 milímetros.",
+        "categoria": "Fotografía"
+    },
+    {
+        "termino_formal": "Exposición",
+        "dominicanismo": "La exposición, qué tan clara u oscura está la foto",
+        "definicion": "Cantidad total de luz que llega al sensor de la cámara para crear una imagen.",
+        "ejemplo_uso": "Te quedó muy oscura la foto, tienes que subirle a la exposición.",
+        "categoria": "Fotografía"
+    },
+    {
+        "termino_formal": "Formato RAW",
+        "dominicanismo": "En RAW (leído: ro), el negativo digital, el crudo",
+        "definicion": "Formato de archivo que contiene todos los datos de la imagen capturados por el sensor, sin procesar.",
+        "ejemplo_uso": "Tira todas las fotos en RAW, que así se pueden arreglar mejor.",
+        "categoria": "Fotografía"
+    },
+    {
+        "termino_formal": "HDR",
+        "dominicanismo": "HDR (leído: ache-de-erre)",
+        "definicion": "Acrónimo de 'High Dynamic Range' (Alto Rango Dinámico), técnica que combina varias exposiciones para capturar más detalles en luces y sombras.",
+        "ejemplo_uso": "Hazle un HDR a ese paisaje para que se vean bien los detalles del cielo y de la tierra.",
+        "categoria": "Fotografía"
+    },
+    {
+        "termino_formal": "Histograma",
+        "dominicanismo": "El histograma, la gráfica de luces y sombras",
+        "definicion": "Gráfico que representa la distribución de tonos (de negro a blanco) en una fotografía.",
+        "ejemplo_uso": "Revisa el histograma en la camarita para que te asegures que la foto no se quemó.",
+        "categoria": "Fotografía"
+    },
+    {
+        "termino_formal": "ISO",
+        "dominicanismo": "El ISO (leído: iso)",
+        "definicion": "Medida de la sensibilidad del sensor de la cámara a la luz.",
+        "ejemplo_uso": "Súbele el ISO que está muy oscuro, aunque coja un poco de grano.",
+        "categoria": "Fotografía"
+    },
+    {
+        "termino_formal": "Larga Exposición",
+        "dominicanismo": "Larga exposición, dejar el lente abierto",
+        "definicion": "Técnica que utiliza una velocidad de obturación lenta para capturar el movimiento de los elementos.",
+        "ejemplo_uso": "Vamos al malecón de noche a hacer fotos de larga exposición de los carros.",
+        "categoria": "Fotografía"
+    },
+    {
+        "termino_formal": "Ley de la Reciprocidad",
+        "dominicanismo": "El juego de la luz, la combinación",
+        "definicion": "Principio que establece que la apertura, la velocidad de obturación y el ISO están interrelacionados para lograr una exposición correcta.",
+        "ejemplo_uso": "Acuérdate que puedes jugar con la combinación de apertura y velocidad.",
+        "categoria": "Fotografía"
+    },
+    {
+        "termino_formal": "Luz de Relleno",
+        "dominicanismo": "La luz de relleno, el rebote, para matar la sombra",
+        "definicion": "Fuente de luz secundaria utilizada para suavizar las sombras creadas por la luz principal.",
+        "ejemplo_uso": "Ponle un rebote de ese lado para matar esa sombra tan dura que tiene en la cara.",
+        "categoria": "Fotografía"
+    },
+    {
+        "termino_formal": "Luz Principal",
+        "dominicanismo": "La luz principal, la luz que manda",
+        "definicion": "Fuente de luz más intensa y directa en una escena fotográfica.",
+        "ejemplo_uso": "Esa ventana es tu luz principal, pon a la modelo de frente para allá.",
+        "categoria": "Fotografía"
+    },
+    {
+        "termino_formal": "Medición de Luz",
+        "dominicanismo": "Medir la luz, el fotómetro",
+        "definicion": "Proceso mediante el cual la cámara (o un fotómetro) mide la intensidad de la luz para determinar la exposición.",
+        "ejemplo_uso": "Mide la luz en la cara de ella, que es lo más importante de la foto.",
+        "categoria": "Fotografía"
+    },
+    {
+        "termino_formal": "Modo Manual (M)",
+        "dominicanismo": "En manual",
+        "definicion": "Modo de la cámara en el que el fotógrafo controla manualmente todos los ajustes de exposición (apertura, velocidad, ISO).",
+        "ejemplo_uso": "Un fotógrafo pro de verdad tiene que saber tirar en manual.",
+        "categoria": "Fotografía"
+    },
+    {
+        "termino_formal": "Número f (f-stop)",
+        "dominicanismo": "El número f, el punto",
+        "definicion": "Número que representa el tamaño de la apertura del diafragma de una lente.",
+        "ejemplo_uso": "Bájale el punto a 1.8 para que el fondo se vea bien desenfozado.",
+        "categoria": "Fotografía"
+    },
+    {
+        "termino_formal": "Profundidad de Campo",
+        "dominicanismo": "La profundidad, qué tanto se enfoca",
+        "definicion": "Zona de una fotografía que se percibe como nítida y enfocada.",
+        "ejemplo_uso": "Me gusta que tenga poca profundidad, que solo se vea la cara nítida.",
+        "categoria": "Fotografía"
+    },
+    {
+        "termino_formal": "Ratio de Contraste",
+        "dominicanismo": "El contraste, la diferencia de luz",
+        "definicion": "Diferencia de intensidad entre las áreas más claras y más oscuras de una imagen.",
+        "ejemplo_uso": "Esa foto tiene mucho contraste entre la luz y la sombra.",
+        "categoria": "Fotografía"
+    },
+    {
+        "termino_formal": "Regla de los Tercios",
+        "dominicanismo": "La regla de los tercios, la ley de la mirada",
+        "definicion": "Principio de composición que sugiere dividir la imagen en nueve partes iguales y situar los sujetos importantes en las intersecciones.",
+        "ejemplo_uso": "No pongas a la persona en el medio, usa la regla de los tercios.",
+        "categoria": "Fotografía"
+    },
+    {
+        "termino_formal": "Ruido Digital",
+        "dominicanismo": "El ruido, el grano, que está granulada",
+        "definicion": "Aparición de píxeles de color aleatorio en una imagen, a menudo causado por un ISO alto o poca luz.",
+        "ejemplo_uso": "Le subiste demasiado el ISO y ahora la foto tiene mucho ruido.",
+        "categoria": "Fotografía"
+    },
+    {
+        "termino_formal": "Sensor (Full Frame/APS-C)",
+        "dominicanismo": "Full frame / crop",
+        "definicion": "Componente de la cámara que captura la luz. 'Full Frame' es un sensor del tamaño de un negativo de 35mm, 'APS-C' es más pequeño.",
+        "ejemplo_uso": "Esa cámara es full frame, por eso la calidad de imagen es tan buena.",
+        "categoria": "Fotografía"
+    },
+    {
+        "termino_formal": "Velocidad de Obturación",
+        "dominicanismo": "La velocidad",
+        "definicion": "Tiempo durante el cual el obturador de la cámara permanece abierto para exponer el sensor a la luz.",
+        "ejemplo_uso": "Súbele la velocidad, que el muchacho se está moviendo mucho y la foto sale borrosa.",
+        "categoria": "Fotografía"
+    },
+    {
+        "termino_formal": "Viñeteado",
+        "dominicanismo": "La viñeta, las esquinas oscuras",
+        "definicion": "Efecto que oscurece o reduce el brillo en los bordes de una imagen en comparación con el centro.",
+        "ejemplo_uso": "Le puse una viñeta en la edición para que la atención se vaya al centro.",
+        "categoria": "Fotografía"
+    },
+    {
+        "termino_formal": "Alzados",
+        "dominicanismo": "La vista de frente, el alzado, cómo se ve la pared",
+        "definicion": "Representación gráfica de una fachada o pared de un edificio o espacio interior vista desde el frente.",
+        "ejemplo_uso": "Tírame un alzado de la pared de la cocina para ver cómo quedan los gabinetes.",
+        "categoria": "Diseño de Interiores"
+    },
+    {
+        "termino_formal": "Amueblamiento",
+        "dominicanismo": "Amueblar, poner los muebles, la decoración",
+        "definicion": "Proceso de seleccionar y distribuir el mobiliario y los elementos decorativos en un espacio.",
+        "ejemplo_uso": "La parte más chula es la del amueblamiento, cuando ya el espacio coge vida.",
+        "categoria": "Diseño de Interiores"
+    },
+    {
+        "termino_formal": "Anteproyecto",
+        "dominicanismo": "La propuesta inicial, los primeros planos, el borrón",
+        "definicion": "Fase inicial de un proyecto de diseño que presenta la idea general y las soluciones básicas.",
+        "ejemplo_uso": "Vamos a presentarle un anteproyecto al cliente con la idea general a ver si le gusta.",
+        "categoria": "Diseño de Interiores"
+    },
+    {
+        "termino_formal": "Circulación",
+        "dominicanismo": "La circulación, por dónde se camina, el pasillo",
+        "definicion": "Flujo de movimiento de personas a través de un espacio.",
+        "ejemplo_uso": "Hay que dejar buena circulación, que la gente no esté tropezando con los muebles.",
+        "categoria": "Diseño de Interiores"
+    },
+    {
+        "termino_formal": "Cota",
+        "dominicanismo": "La medida, la cota",
+        "definicion": "Notación numérica que indica las dimensiones de un objeto en un plano técnico.",
+        "ejemplo_uso": "Revisa bien esa cota en el plano, no vaya a ser que la puerta no quepa.",
+        "categoria": "Diseño de Interiores"
+    },
+    {
+        "termino_formal": "Diseño Biofílico",
+        "dominicanismo": "Ponerle matas, diseño con naturaleza, traer el patio pa dentro",
+        "definicion": "Enfoque de diseño que busca conectar a las personas con la naturaleza dentro de los espacios construidos.",
+        "ejemplo_uso": "A ese apartamento le pusimos un jardín vertical para darle un toque de naturaleza.",
+        "categoria": "Diseño de Interiores"
+    },
+    {
+        "termino_formal": "Domótica",
+        "dominicanismo": "Casa inteligente, domótica",
+        "definicion": "Conjunto de tecnologías aplicadas al control y la automatización inteligente de la vivienda.",
+        "ejemplo_uso": "El cliente quiere una casa inteligente, que pueda apagar las luces desde el celular.",
+        "categoria": "Diseño de Interiores"
+    },
+    {
+        "termino_formal": "Escala",
+        "dominicanismo": "La escala, el tamaño de las cosas, la proporción",
+        "definicion": "Relación proporcional entre las dimensiones de un objeto en un dibujo y sus dimensiones reales.",
+        "ejemplo_uso": "Ese sofá está fuera de escala, es demasiado grande para esa salita.",
+        "categoria": "Diseño de Interiores"
+    },
+    {
+        "termino_formal": "Espacio Contract",
+        "dominicanismo": "Diseño comercial, diseño para negocios",
+        "definicion": "Diseño de interiores para espacios comerciales y de uso público como hoteles, restaurantes u oficinas.",
+        "ejemplo_uso": "Estamos trabajando en el diseño de un restaurante nuevo, es un proyecto comercial.",
+        "categoria": "Diseño de Interiores"
+    },
+    {
+        "termino_formal": "Estudio de Soleamiento",
+        "dominicanismo": "Por dónde entra el sol",
+        "definicion": "Análisis de la trayectoria del sol y su impacto en un edificio o espacio para optimizar la luz natural.",
+        "ejemplo_uso": "Hay que ver bien por dónde entra el sol para saber qué tipo de cortinas ponemos.",
+        "categoria": "Diseño de Interiores"
+    },
+    {
+        "termino_formal": "Home Staging",
+        "dominicanismo": "Preparar la casa para venderla, chulear el apartamento",
+        "definicion": "Técnica de marketing inmobiliario que consiste en preparar una vivienda para hacerla más atractiva a posibles compradores.",
+        "ejemplo_uso": "Le hicimos un home staging a la casa y se vendió de una vez.",
+        "categoria": "Diseño de Interiores"
+    },
+    {
+        "termino_formal": "Iluminación de Acento",
+        "dominicanismo": "La lucecita para el cuadro, luz de acento",
+        "definicion": "Iluminación utilizada para destacar un objeto o área específica.",
+        "ejemplo_uso": "Ponle una lucecita de acento a esa pared de piedra para que resalte de noche.",
+        "categoria": "Diseño de Interiores"
+    },
+    {
+        "termino_formal": "Iluminación de Tarea",
+        "dominicanismo": "La luz para trabajar, luz directa",
+        "definicion": "Iluminación focalizada y directa para realizar actividades específicas como leer o cocinar.",
+        "ejemplo_uso": "Encima del counter de la cocina se necesita una buena luz para trabajar, para picar los vegetales.",
+        "categoria": "Diseño de Interiores"
+    },
+    {
+        "termino_formal": "Iluminación General",
+        "dominicanismo": "La luz general, la luz del techo, la luz de ambiente",
+        "definicion": "Iluminación principal que proporciona un nivel de luz uniforme en todo un espacio.",
+        "ejemplo_uso": "Para la luz general del cuarto, vamos a poner un plafón que ilumine todo bien.",
+        "categoria": "Diseño de Interiores"
+    },
+    {
+        "termino_formal": "Layout",
+        "dominicanismo": "La distribución, el layout, el acomodo",
+        "definicion": "Disposición y organización de los elementos en un espacio.",
+        "ejemplo_uso": "Vamos a cambiar la distribución de la oficina para que quepan más escritorios.",
+        "categoria": "Diseño de Interiores"
+    },
+    {
+        "termino_formal": "Memoria Descriptiva",
+        "dominicanismo": "El descriptivo, el detalle de los materiales",
+        "definicion": "Documento que describe y detalla los materiales, técnicas y acabados que se utilizarán en un proyecto.",
+        "ejemplo_uso": "En el descriptivo del proyecto dice que el piso es en porcelanato importado.",
+        "categoria": "Diseño de Interiores"
+    },
+    {
+        "termino_formal": "Moodboard",
+        "dominicanismo": "El moodboard, el panel de inspiración, el collage de ideas",
+        "definicion": "Herramienta visual que consiste en un collage de imágenes, materiales y textos para definir el estilo de un proyecto.",
+        "ejemplo_uso": "Te preparé un moodboard con los colores y texturas que quiero usar en tu sala.",
+        "categoria": "Diseño de Interiores"
+    },
+    {
+        "termino_formal": "Paleta de Colores",
+        "dominicanismo": "Los colores que van, la paleta de colores",
+        "definicion": "Selección de colores y tonalidades que se utilizarán en el diseño de un espacio.",
+        "ejemplo_uso": "La paleta de colores de la casa entera va a ser en tonos tierra y blanco.",
+        "categoria": "Diseño de Interiores"
+    },
+    {
+        "termino_formal": "Plano de Planta",
+        "dominicanismo": "El plano, la planta",
+        "definicion": "Dibujo técnico que muestra la distribución de un espacio visto desde arriba.",
+        "ejemplo_uso": "Déjame ver el plano para entender cómo están distribuidos los cuartos.",
+        "categoria": "Diseño de Interiores"
+    },
+    {
+        "termino_formal": "Punto Focal",
+        "dominicanismo": "El punto focal, lo que más llama la atención",
+        "definicion": "Elemento en un espacio diseñado para atraer la vista y ser el centro de atención.",
+        "ejemplo_uso": "Pusimos un cuadro bien grande en la sala como punto focal del espacio.",
+        "categoria": "Diseño de Interiores"
+    },
+    {
+        "termino_formal": "Render",
+        "dominicanismo": "El render, la imagen 3D, cómo va a quedar",
+        "definicion": "Imagen digital fotorrealista generada por computadora que simula cómo se verá un espacio diseñado.",
+        "ejemplo_uso": "El cliente no se decidía hasta que le enseñamos el render de cómo va a quedar la cocina.",
+        "categoria": "Diseño de Interiores"
+    },
+    {
+        "termino_formal": "Retrofit",
+        "dominicanismo": "Modernizar, actualizar, remodelar lo viejo",
+        "definicion": "Proceso de actualizar o modernizar un edificio o sistema existente con nuevas tecnologías.",
+        "ejemplo_uso": "Le hicimos un retrofit al sistema de aire acondicionado del edificio, que era viejísimo.",
+        "categoria": "Diseño de Interiores"
+    },
+    {
+        "termino_formal": "Solado",
+        "dominicanismo": "El piso",
+        "definicion": "Revestimiento o material utilizado para cubrir el suelo.",
+        "ejemplo_uso": "¿Qué tipo de piso le vamos a poner a la terraza?.",
+        "categoria": "Diseño de Interiores"
+    },
+    {
+        "termino_formal": "Tabiquería",
+        "dominicanismo": "Las divisiones, los muros falsos, las paredes de sheetrock",
+        "definicion": "Conjunto de paredes o muros no estructurales que sirven para dividir espacios interiores.",
+        "ejemplo_uso": "Vamos a levantar unas divisiones de sheetrock para crear una oficina nueva.",
+        "categoria": "Diseño de Interiores"
+    },
+    {
+        "termino_formal": "Zonificación",
+        "dominicanismo": "Dividir los espacios, separar las áreas",
+        "definicion": "Proceso de organizar un espacio dividiéndolo en distintas áreas según su función.",
+        "ejemplo_uso": "Aunque es un solo salón, con los muebles logramos dividir bien el área de la sala y el comedor.",
+        "categoria": "Diseño de Interiores"
+    },
+    {
+        "termino_formal": "A&B (Alimentos y Bebidas)",
+        "dominicanismo": "La comida y la bebida, la picadera, el bufé",
+        "definicion": "Área de gestión de un evento encargada de todo lo relacionado con la comida y las bebidas.",
+        "ejemplo_uso": "Tenemos que resolver lo de la comida y la bebida, que es lo más caro del evento.",
+        "categoria": "Producción de Eventos"
+    },
+    {
+        "termino_formal": "Aforo",
+        "dominicanismo": "La capacidad, ¿cuánta gente cabe?",
+        "definicion": "Capacidad máxima de personas que puede albergar un recinto o lugar de un evento.",
+        "ejemplo_uso": "Llama al salón para confirmar la capacidad, no vaya a ser que invitemos gente de más.",
+        "categoria": "Producción de Eventos"
+    },
+    {
+        "termino_formal": "Breakout Sessions",
+        "dominicanismo": "Las charlitas aparte, los grupitos de trabajo",
+        "definicion": "Sesiones de trabajo o discusión en grupos más pequeños que se realizan durante un evento principal.",
+        "ejemplo_uso": "Después del almuerzo, nos vamos a dividir en unos grupitos de trabajo para discutir los temas.",
+        "categoria": "Producción de Eventos"
+    },
+    {
+        "termino_formal": "Briefing",
+        "dominicanismo": "La reunión, la juntadera, ponerse al día",
+        "definicion": "Reunión informativa previa a un evento para coordinar al equipo de trabajo.",
+        "ejemplo_uso": "Vamos a hacer una juntadera con todo el equipo media hora antes, para que nadie esté perdido.",
+        "categoria": "Producción de Eventos"
+    },
+    {
+        "termino_formal": "Call Sheet",
+        "dominicanismo": "La hoja de ruta, el horario de cada quien",
+        "definicion": "Documento con el cronograma y las responsabilidades de cada miembro del equipo durante un evento.",
+        "ejemplo_uso": "En tu hoja de ruta dice que te toca estar en la puerta a las 7:00 p.m. en punto.",
+        "categoria": "Producción de Eventos"
+    },
+    {
+        "termino_formal": "Catering",
+        "dominicanismo": "El catering, la picadera, el servicio de comida",
+        "definicion": "Servicio de suministro de alimentos y bebidas para un evento.",
+        "ejemplo_uso": "¿Ya cotizaste con tres compañías de catering a ver cuál da mejor precio?.",
+        "categoria": "Producción de Eventos"
+    },
+    {
+        "termino_formal": "Dossier de Patrocinio",
+        "dominicanismo": "La propuesta para los patrocinadores, la carpeta de auspicio",
+        "definicion": "Documento que presenta un evento y las oportunidades de patrocinio a posibles auspiciadores.",
+        "ejemplo_uso": "Prepara una carpeta de auspicio bien bonita para mandársela a las telefónicas.",
+        "categoria": "Producción de Eventos"
+    },
+    {
+        "termino_formal": "Escaleta (Run of Show)",
+        "dominicanismo": "El minuto a minuto, el guion del evento, el corre-corre",
+        "definicion": "Guion detallado con el cronograma minuto a minuto de todo lo que sucederá en un evento.",
+        "ejemplo_uso": "Imprímanme el minuto a minuto, que con este corre-corre se me olvida qué va ahora.",
+        "categoria": "Producción de Eventos"
+    },
+    {
+        "termino_formal": "Fee",
+        "dominicanismo": "Los honorarios, la paga, lo mío, mis chelitos",
+        "definicion": "Honorarios profesionales que cobra un organizador de eventos o un proveedor.",
+        "ejemplo_uso": "El presupuesto está apretado, pero tienes que acordarte de calcular lo mío aparte.",
+        "categoria": "Producción de Eventos"
+    },
+    {
+        "termino_formal": "Gobo",
+        "dominicanismo": "El gobo, la plantilla de luz",
+        "definicion": "Plantilla que se coloca frente a una fuente de luz para proyectar una imagen o patrón.",
+        "ejemplo_uso": "Quiero un gobo con las iniciales de los novios proyectado en la pista de baile.",
+        "categoria": "Producción de Eventos"
+    },
+    {
+        "termino_formal": "Hospitality Rider",
+        "dominicanismo": "Las exigencias del artista, lo que pide el talento",
+        "definicion": "Documento con la lista de requerimientos y comodidades que solicita un artista o talento para su participación en un evento.",
+        "ejemplo_uso": "¡Revisa las exigencias del artista! Pidió un tipo de agua que aquí ni se vende.",
+        "categoria": "Producción de Eventos"
+    },
+    {
+        "termino_formal": "In-house",
+        "dominicanismo": "De aquí mismo, del mismo local",
+        "definicion": "Servicios o equipos que son proporcionados directamente por el propio lugar del evento.",
+        "ejemplo_uso": "No te preocupes por las mesas, el servicio de catering es de aquí mismo y las incluye.",
+        "categoria": "Producción de Eventos"
+    },
+    {
+        "termino_formal": "Itinerario",
+        "dominicanismo": "El programa, la agenda, lo que se va a hacer",
+        "definicion": "Programa o agenda de las actividades planificadas para un evento.",
+        "ejemplo_uso": "Repártele el programa a los invitados para que sepan la agenda del día.",
+        "categoria": "Producción de Eventos"
+    },
+    {
+        "termino_formal": "Keynote Speaker",
+        "dominicanismo": "El orador principal, el duro que va a hablar",
+        "definicion": "Orador principal o figura destacada de una conferencia o evento.",
+        "ejemplo_uso": "El duro que va a hablar en la conferencia cobra 20 mil dólares, ¡un palo!.",
+        "categoria": "Producción de Eventos"
+    },
+    {
+        "termino_formal": "Merchandising",
+        "dominicanismo": "Los suveniles, los regalitos, la promoción",
+        "definicion": "Artículos promocionales con la marca del evento que se venden o regalan a los asistentes.",
+        "ejemplo_uso": "Hay que mandar a hacer t-shirts y gorras de promoción para darles a los asistentes.",
+        "categoria": "Producción de Eventos"
+    },
+    {
+        "termino_formal": "Montaje Inverso (Load-out)",
+        "dominicanismo": "El desmonte, recoger los trastes, desarmar todo",
+        "definicion": "Proceso de desmontaje y recogida de todos los equipos y estructuras después de un evento.",
+        "ejemplo_uso": "El desmonte es lo más tedioso, a veces uno termina a las 5 de la mañana recogiendo.",
+        "categoria": "Producción de Eventos"
+    },
+    {
+        "termino_formal": "Pre-producción",
+        "dominicanismo": "La planificación, organizar el coro, la preparación",
+        "definicion": "Fase de planificación y organización de un evento antes de su ejecución.",
+        "ejemplo_uso": "Estamos en plena planificación, buscando cotizaciones y amarrando a los suplidores.",
+        "categoria": "Producción de Eventos"
+    },
+    {
+        "termino_formal": "Rider Técnico",
+        "dominicanismo": "Los requerimientos técnicos, lo que necesita el artista",
+        "definicion": "Documento que especifica las necesidades técnicas (sonido, luces, etc.) de un artista o presentación.",
+        "ejemplo_uso": "El DJ mandó los requerimientos técnicos, necesita dos monitores y una mesa Pioneer.",
+        "categoria": "Producción de Eventos"
+    },
+    {
+        "termino_formal": "Rigger",
+        "dominicanismo": "El rigger, el que cuelga las vainas",
+        "definicion": "Técnico especializado en montar y colgar de forma segura estructuras, luces y equipos de sonido.",
+        "ejemplo_uso": "Dile al rigger que asegure bien esas luces, que no quiero un accidente aquí.",
+        "categoria": "Producción de Eventos"
+    },
+    {
+        "termino_formal": "RSVP",
+        "dominicanismo": "Confirmar asistencia, avisar si vienes",
+        "definicion": "Acrónimo de la expresión francesa 'Répondez s'il vous plaît', que solicita la confirmación de asistencia a un evento.",
+        "ejemplo_uso": "Por favor, llama a la lista de invitados para que terminen de confirmar asistencia.",
+        "categoria": "Producción de Eventos"
+    },
+    {
+        "termino_formal": "Scouting",
+        "dominicanismo": "Buscando el local, chequeando sitios",
+        "definicion": "Proceso de búsqueda y selección del lugar más adecuado para realizar un evento.",
+        "ejemplo_uso": "Me pasé la semana entera en la Zona Colonial, chequeando sitios para la actividad.",
+        "categoria": "Producción de Eventos"
+    },
+    {
+        "termino_formal": "Staff",
+        "dominicanismo": "El staff, los muchachos, el equipo de trabajo",
+        "definicion": "Personal o equipo de trabajo que se encarga de la logística y ejecución de un evento.",
+        "ejemplo_uso": "El staff tiene que llegar dos horas antes para la reunión y para que se pongan los uniformes.",
+        "categoria": "Producción de Eventos"
+    },
+    {
+        "termino_formal": "Truss",
+        "dominicanismo": "El truss, la estructura, los hierros",
+        "definicion": "Estructura metálica modular utilizada para colgar equipos de iluminación, sonido y otros elementos en eventos.",
+        "ejemplo_uso": "Vamos a necesitar un truss bien grande para colgar todas las luces y las bocinas.",
+        "categoria": "Producción de Eventos"
+    },
+    {
+        "termino_formal": "Venue",
+        "dominicanismo": "El local, el sitio, el lugar del evento",
+        "definicion": "El lugar, recinto o espacio físico donde se celebra un evento.",
+        "ejemplo_uso": "¿Ya amarraste el local? Porque sin sitio no tenemos evento.",
+        "categoria": "Producción de Eventos"
+    },
+    {
+        "termino_formal": "Welcome Pack",
+        "dominicanismo": "El kit de bienvenida, la fundita de regalo",
+        "definicion": "Paquete o kit de bienvenida con regalos o material informativo que se entrega a los asistentes al llegar a un evento.",
+        "ejemplo_uso": "Prepara una fundita de regalo bien chula para dársela a la gente en la entrada.",
+        "categoria": "Producción de Eventos"
+    }
+]

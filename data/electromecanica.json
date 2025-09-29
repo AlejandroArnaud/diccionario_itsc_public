@@ -1,0 +1,408 @@
+[
+    {
+        "termino_formal": "Motor de inducción",
+        "dominicanismo": "Motor eléctrico",
+        "definicion": "Máquina eléctrica rotativa que transforma energía eléctrica en energía mecánica.",
+        "ejemplo_uso": "El motor eléctrico de la bomba de agua se dañó y hay que cambiarlo.",
+        "categoria": "Electromecánica"
+    },
+    {
+        "termino_formal": "Transformador eléctrico",
+        "dominicanismo": "Transformador",
+        "definicion": "Dispositivo que modifica los niveles de tensión y corriente alterna.",
+        "ejemplo_uso": "El transformador del barrio se quemó y toda la zona se quedó sin luz.",
+        "categoria": "Electromecánica"
+    },
+    {
+        "termino_formal": "Circuito de control",
+        "dominicanismo": "Sistema de mando",
+        "definicion": "Conjunto de componentes que controlan el funcionamiento de una máquina.",
+        "ejemplo_uso": "El sistema de mando del ascensor está fallando y se queda pegado entre pisos.",
+        "categoria": "Electromecánica"
+    },
+    {
+        "termino_formal": "Relé electromagnético",
+        "dominicanismo": "Relé",
+        "definicion": "Interruptor controlado por un electroimán que abre o cierra contactos.",
+        "ejemplo_uso": "Hay que cambiar el relé del aire acondicionado porque no está arrancando.",
+        "categoria": "Electromecánica"
+    },
+    {
+        "termino_formal": "Variador de frecuencia",
+        "dominicanismo": "Controlador de velocidad",
+        "definicion": "Dispositivo que controla la velocidad de motores eléctricos variando la frecuencia.",
+        "ejemplo_uso": "Con el controlador de velocidad podemos ajustar qué tan rápido va la banda transportadora.",
+        "categoria": "Electromecánica"
+    },
+    {
+        "termino_formal": "Sensor de proximidad",
+        "dominicanismo": "Detector",
+        "definicion": "Dispositivo que detecta la presencia de objetos sin contacto físico.",
+        "ejemplo_uso": "El detector de la puerta automática no está funcionando bien.",
+        "categoria": "Electromecánica"
+    },
+    {
+        "termino_formal": "Mantenimiento preventivo",
+        "dominicanismo": "Mantenimiento programado",
+        "definicion": "Conjunto de actividades realizadas periódicamente para evitar fallas.",
+        "ejemplo_uso": "Cada tres meses hacemos el mantenimiento programado de todos los equipos.",
+        "categoria": "Electromecánica"
+    },
+    {
+        "termino_formal": "Cortocircuito",
+        "dominicanismo": "Corto",
+        "definicion": "Conexión accidental entre dos puntos de diferente potencial eléctrico.",
+        "ejemplo_uso": "Se fue la luz de toda la casa porque hubo un corto en el enchufe de la cocina.",
+        "categoria": "Electromecánica"
+    },
+    {
+        "termino_formal": "Amperio (A)",
+        "dominicanismo": "El amperaje, los amperios",
+        "definicion": "Unidad de medida de la intensidad de la corriente eléctrica.",
+        "ejemplo_uso": "Revisa de cuánto es el amperaje de ese aire, a ver si el alambre lo aguanta.",
+        "categoria": "Electricidad"
+    },
+    {
+        "termino_formal": "Capacitor (Condensador)",
+        "dominicanismo": "El capacitor",
+        "definicion": "Componente electrónico que almacena energía en un campo eléctrico.",
+        "ejemplo_uso": "La bomba de agua no arranca, seguro que es el capacitor que se dañó.",
+        "categoria": "Electricidad"
+    },
+    {
+        "termino_formal": "Corriente Alterna (CA)",
+        "dominicanismo": "La luz de la calle, la corriente normal",
+        "definicion": "Tipo de corriente eléctrica en la que la dirección del flujo de electrones va y viene a intervalos regulares o en ciclos.",
+        "ejemplo_uso": "Todos los aparatos de la casa funcionan con la luz de la calle.",
+        "categoria": "Electricidad"
+    },
+    {
+        "termino_formal": "Corriente Continua (CC)",
+        "dominicanismo": "La corriente de batería, corriente directa",
+        "definicion": "Flujo de carga eléctrica que no cambia de dirección.",
+        "ejemplo_uso": "El inversor convierte la corriente de batería en luz para la casa.",
+        "categoria": "Electricidad"
+    },
+    {
+        "termino_formal": "Diferencia de Potencial (Voltaje)",
+        "dominicanismo": "El voltaje, la corriente (uso popular)",
+        "definicion": "Impulso que necesita una carga eléctrica para que pueda fluir por el conductor de un circuito eléctrico.",
+        "ejemplo_uso": "Mide a ver si está llegando bien el voltaje, que la luz está media floja.",
+        "categoria": "Electricidad"
+    },
+    {
+        "termino_formal": "Disyuntor (Breaker)",
+        "dominicanismo": "El breaker (pronunciado: bréker)",
+        "definicion": "Interruptor automático que corta el paso de la corriente eléctrica para proteger un circuito de sobrecargas o cortocircuitos.",
+        "ejemplo_uso": "Se disparó el breaker de la sala, seguro fue por la plancha.",
+        "categoria": "Electricidad"
+    },
+    {
+        "termino_formal": "Fase",
+        "dominicanismo": "La línea viva, la fase",
+        "definicion": "Conductor eléctrico que transporta la corriente desde la fuente de suministro hasta la carga.",
+        "ejemplo_uso": "Ten cuidado con ese alambre, que esa es la línea viva y te puede dar un tablazo.",
+        "categoria": "Electricidad"
+    },
+    {
+        "termino_formal": "Frecuencia",
+        "dominicanismo": "La frecuencia, los hertz",
+        "definicion": "Número de ciclos por segundo de una onda de corriente alterna.",
+        "ejemplo_uso": "Aquí la frecuencia es a 60 hertz, por eso los aparatos de Europa a veces dan problemas.",
+        "categoria": "Electricidad"
+    },
+    {
+        "termino_formal": "Inductor (Bobina)",
+        "dominicanismo": "La bobina",
+        "definicion": "Componente pasivo de un circuito eléctrico que almacena energía en forma de campo magnético.",
+        "ejemplo_uso": "El abanico zumba pero no arranca, puede ser la bobina que se quemó.",
+        "categoria": "Electricidad"
+    },
+    {
+        "termino_formal": "Potencia Eléctrica",
+        "dominicanismo": "Los vatios, el consumo",
+        "definicion": "Cantidad de energía entregada o absorbida por un elemento en un momento determinado.",
+        "ejemplo_uso": "Fíjate en los vatios del bombillo, no lo compres de mucho consumo para que no gaste.",
+        "categoria": "Electricidad"
+    },
+    {
+        "termino_formal": "Puesta a Tierra (Ground)",
+        "dominicanismo": "La tierra, la varilla de tierra",
+        "definicion": "Conexión de seguridad que desvía corrientes eléctricas no deseadas para proteger a las personas y los equipos.",
+        "ejemplo_uso": "A esa nevera hay que ponerle su varilla de tierra, que está dando corriente.",
+        "categoria": "Electricidad"
+    },
+    {
+        "termino_formal": "Resistencia Eléctrica (R)",
+        "dominicanismo": "La resistencia",
+        "definicion": "Oposición al flujo de corriente eléctrica a través de un conductor.",
+        "ejemplo_uso": "Se dañó la resistencia de la estufa, por eso esa hornilla no calienta.",
+        "categoria": "Electricidad"
+    },
+    {
+        "termino_formal": "Tablero de Distribución",
+        "dominicanismo": "La caja de breakers",
+        "definicion": "Panel donde se instalan los dispositivos de protección y maniobra de los circuitos eléctricos de una instalación.",
+        "ejemplo_uso": "El problema no es un solo breaker, parece que viene de la caja de breakers principal.",
+        "categoria": "Electricidad"
+    },
+    {
+        "termino_formal": "Vatio (W)",
+        "dominicanismo": "El vatio, el watt",
+        "definicion": "Unidad de medida de la potencia eléctrica.",
+        "ejemplo_uso": "Ese bombillo es de 10 vatios, alumbra bien y no gasta casi nada.",
+        "categoria": "Electricidad"
+    },
+    {
+        "termino_formal": "Voltio (V)",
+        "dominicanismo": "El voltio",
+        "definicion": "Unidad de medida del potencial eléctrico, la fuerza electromotriz y la tensión eléctrica.",
+        "ejemplo_uso": "Aquí el voltaje normal son 110 o 120 voltios.",
+        "categoria": "Electricidad"
+    },
+    {
+        "termino_formal": "BTU (British Thermal Unit)",
+        "dominicanismo": "Los BTU",
+        "definicion": "Unidad de medida de energía que representa la cantidad de calor necesaria para elevar la temperatura de una libra de agua en un grado Fahrenheit.",
+        "ejemplo_uso": "Para este cuarto tan grande, tú necesitas un aire de por lo menos 18,000 BTU.",
+        "categoria": "Refrigeración"
+    },
+    {
+        "termino_formal": "Compresor",
+        "dominicanismo": "El compresor, el motor",
+        "definicion": "Componente principal de un sistema de refrigeración que comprime el gas refrigerante para aumentar su presión y temperatura.",
+        "ejemplo_uso": "El aire prende pero no enfría, seguro que se dañó el compresor y eso sale caro.",
+        "categoria": "Refrigeración"
+    },
+    {
+        "termino_formal": "Condensador",
+        "dominicanismo": "La unidad de afuera, el cajón de afuera",
+        "definicion": "Componente de un sistema de refrigeración que disipa el calor del refrigerante, haciendo que cambie de estado gaseoso a líquido.",
+        "ejemplo_uso": "Dale un manguerazo a la unidad de afuera, que está llena de polvo y por eso no rinde.",
+        "categoria": "Refrigeración"
+    },
+    {
+        "termino_formal": "Evaporador",
+        "dominicanismo": "La consola, la unidad de adentro",
+        "definicion": "Componente de un sistema de refrigeración donde el refrigerante líquido se evapora, absorbiendo calor del ambiente y enfriándolo.",
+        "ejemplo_uso": "La consola está goteando agua, debe ser que el desagüe está tapado.",
+        "categoria": "Refrigeración"
+    },
+    {
+        "termino_formal": "Gas Refrigerante",
+        "dominicanismo": "El gas",
+        "definicion": "Fluido utilizado en sistemas de refrigeración que absorbe y cede calor al cambiar de estado.",
+        "ejemplo_uso": "Ese aire tiene un escape, hay que buscarlo, soldar y volver a echarle el gas.",
+        "categoria": "Refrigeración"
+    },
+    {
+        "termino_formal": "Inverter",
+        "dominicanismo": "Inverter (muy importante en el país)",
+        "definicion": "Tecnología que permite regular la velocidad del compresor para ajustar la potencia de refrigeración a la demanda, ahorrando energía.",
+        "ejemplo_uso": "Cómprate un aire Inverter, que gasta mucho menos luz y la factura te llega más barata.",
+        "categoria": "Refrigeración"
+    },
+    {
+        "termino_formal": "SEER",
+        "dominicanismo": "El SEER, la eficiencia",
+        "definicion": "Índice de Eficiencia Energética Estacional (Seasonal Energy Efficiency Ratio) que mide el rendimiento de un equipo de aire acondicionado durante una temporada de uso.",
+        "ejemplo_uso": "Mientras más alto es el SEER del aire, menos luz gasta.",
+        "categoria": "Refrigeración"
+    },
+    {
+        "termino_formal": "Sistema Dividido (Split System)",
+        "dominicanismo": "El split (pronunciado: esplí), el aire de consola",
+        "definicion": "Tipo de sistema de aire acondicionado que consta de una unidad interior (evaporador) y una unidad exterior (condensador).",
+        "ejemplo_uso": "Ya casi nadie pone aire de ventana, todo el mundo instala de split.",
+        "categoria": "Refrigeración"
+    },
+    {
+        "termino_formal": "Termostato",
+        "dominicanismo": "El termostato",
+        "definicion": "Dispositivo que regula la temperatura de un sistema, encendiendo o apagando el equipo de refrigeración para mantener un nivel deseado.",
+        "ejemplo_uso": "Pon el termostato en 23 grados, que así no pica tanto el frío.",
+        "categoria": "Refrigeración"
+    },
+    {
+        "termino_formal": "Circuito Integrado (IC - Chip)",
+        "dominicanismo": "El chip, el integrado",
+        "definicion": "Conjunto de circuitos electrónicos en una pequeña pieza de material semiconductor.",
+        "ejemplo_uso": "Se le quemó un chip a la tarjeta madre del televisor y la reparación sale carísima.",
+        "categoria": "Electrónica & Semiconductores"
+    },
+    {
+        "termino_formal": "Diodo",
+        "dominicanismo": "El diodo",
+        "definicion": "Componente electrónico que permite el paso de la corriente en una sola dirección.",
+        "ejemplo_uso": "Revisa ese diodo con el tester, que parece que está en corto y por eso no prende.",
+        "categoria": "Electrónica & Semiconductores"
+    },
+    {
+        "termino_formal": "Microcontrolador (MCU)",
+        "dominicanismo": "El microcontrolador, el cerebrito",
+        "definicion": "Pequeño ordenador en un solo circuito integrado que contiene un procesador, memoria y periféricos de entrada/salida.",
+        "ejemplo_uso": "El cerebrito de ese aire acondicionado se dañó, por eso el control no le funciona.",
+        "categoria": "Electrónica & Semiconductores"
+    },
+    {
+        "termino_formal": "Microprocesador (CPU)",
+        "dominicanismo": "El procesador, el CPU (leído: ce-pe-ú)",
+        "definicion": "Unidad central de procesamiento de un ordenador, que interpreta y ejecuta las instrucciones de los programas.",
+        "ejemplo_uso": "Esa computadora es lenta porque el procesador que tiene ya es muy viejo.",
+        "categoria": "Electrónica & Semiconductores"
+    },
+    {
+        "termino_formal": "PCB (Printed Circuit Board)",
+        "dominicanismo": "La tablilla, el circuito impreso, la tarjeta verde",
+        "definicion": "Placa utilizada para conectar eléctricamente componentes electrónicos a través de pistas conductoras.",
+        "ejemplo_uso": "Sácale la tablilla a la lavadora, que seguro se le dañó un componente por un apagón.",
+        "categoria": "Electrónica & Semiconductores"
+    },
+    {
+        "termino_formal": "Señal Analógica",
+        "dominicanismo": "Señal análoga, la señal de antes",
+        "definicion": "Tipo de señal que varía de forma continua en el tiempo.",
+        "ejemplo_uso": "El volumen de la radio de mi abuelo funciona con una señal análoga, con una perilla que da vueltas.",
+        "categoria": "Electrónica & Semiconductores"
+    },
+    {
+        "termino_formal": "Señal Digital",
+        "dominicanismo": "Señal digital, de ceros y unos",
+        "definicion": "Señal que presenta una variación discontinua en el tiempo y que solo puede tomar ciertos valores discretos.",
+        "ejemplo_uso": "Ahora todo es con señal digital, por eso la imagen del tele se ve tan nítida.",
+        "categoria": "Electrónica & Semiconductores"
+    },
+    {
+        "termino_formal": "Transistor",
+        "dominicanismo": "El transistor",
+        "definicion": "Dispositivo semiconductor que se utiliza para amplificar o conmutar señales electrónicas y potencia eléctrica.",
+        "ejemplo_uso": "Antes las radios usaban tubos, después vinieron los transistores y las hicieron chiquiticas.",
+        "categoria": "Electrónica & Semiconductores"
+    },
+    {
+        "termino_formal": "ABS (Sistema de Frenos Antibloqueo)",
+        "dominicanismo": "Los frenos ABS (leído: a-be-ese)",
+        "definicion": "Sistema de seguridad que evita que las ruedas de un vehículo se bloqueen al frenar, permitiendo mantener el control de la dirección.",
+        "ejemplo_uso": "Cuando frenas duro en la lluvia, sientes cómo patean los frenos ABS, pero el carro no se colea.",
+        "categoria": "Mecánica Automotriz"
+    },
+    {
+        "termino_formal": "Alternador",
+        "dominicanismo": "El alternador",
+        "definicion": "Componente del motor de un vehículo que genera electricidad para recargar la batería y alimentar el sistema eléctrico.",
+        "ejemplo_uso": "Se prendió la luz de la batería en el tablero; seguro es el alternador que no está mandando carga.",
+        "categoria": "Mecánica Automotriz"
+    },
+    {
+        "termino_formal": "Bujía",
+        "dominicanismo": "La bujía",
+        "definicion": "Componente que genera una chispa para encender la mezcla de aire y combustible en los cilindros de un motor de gasolina.",
+        "ejemplo_uso": "El carro está fallando y gastando mucha gasolina, hay que cambiarle las bujías.",
+        "categoria": "Mecánica Automotriz"
+    },
+    {
+        "termino_formal": "Chasis",
+        "dominicanismo": "El chasis (pronunciado: chassí)",
+        "definicion": "Estructura interna de un vehículo que soporta el peso del motor, la carrocería, la suspensión y otros componentes.",
+        "ejemplo_uso": "Antes de comprar ese carro, llévalo a que le revisen bien el chasis, no vaya a ser chocado.",
+        "categoria": "Mecánica Automotriz"
+    },
+    {
+        "termino_formal": "ECU (Unidad de Control del Motor)",
+        "dominicanismo": "La computadora",
+        "definicion": "Dispositivo electrónico que controla varios aspectos del funcionamiento de un motor de combustión interna.",
+        "ejemplo_uso": "Hay que meterle el escáner a ver qué error está tirando la computadora.",
+        "categoria": "Mecánica Automotriz"
+    },
+    {
+        "termino_formal": "Motor de Arranque",
+        "dominicanismo": "El arranque",
+        "definicion": "Motor eléctrico que se utiliza para iniciar el movimiento del motor de combustión interna de un vehículo.",
+        "ejemplo_uso": "Le doy a prender y solo hace clic-clic, parece que se dañaron los carbones del arranque.",
+        "categoria": "Mecánica Automotriz"
+    },
+    {
+        "termino_formal": "Radiador",
+        "dominicanismo": "El radiador",
+        "definicion": "Componente del sistema de refrigeración de un motor que disipa el calor del líquido refrigerante.",
+        "ejemplo_uso": "Hay que baquetear ese radiador, que está tapado de sucio y por eso se calienta el carro.",
+        "categoria": "Mecánica Automotriz"
+    },
+    {
+        "termino_formal": "Suspensión",
+        "dominicanismo": "La suspensión, el tren delantero / trasero",
+        "definicion": "Conjunto de componentes que conectan las ruedas de un vehículo con el chasis, permitiendo el movimiento relativo entre ambos para absorber las irregularidades del terreno.",
+        "ejemplo_uso": "Con los hoyos de esta calle, no hay suspensión que aguante. Hay que revisarle los amortiguadores.",
+        "categoria": "Mecánica Automotriz"
+    },
+    {
+        "termino_formal": "Transmisión (Caja de Cambios)",
+        "dominicanismo": "La transmisión (automática), la caja de cambios (manual)",
+        "definicion": "Sistema que transmite la potencia del motor a las ruedas, permitiendo variar la relación de velocidad.",
+        "ejemplo_uso": "La transmisión de esa guagua está deslizando, da un golpe cuando pasa de segunda a tercera.",
+        "categoria": "Mecánica Automotriz"
+    },
+    {
+        "termino_formal": "Bomba de Infusión",
+        "dominicanismo": "La bomba de infusión, la bomba de suero",
+        "definicion": "Dispositivo médico que suministra fluidos, como medicamentos o nutrientes, en el cuerpo de un paciente de forma controlada.",
+        "ejemplo_uso": "Ponle una bomba de infusión al paciente para pasarle los medicamentos a la velocidad correcta.",
+        "categoria": "Mantenimiento Biomédico & Electromedicina"
+    },
+    {
+        "termino_formal": "Calibración",
+        "dominicanismo": "La calibración, ajustar el equipo",
+        "definicion": "Proceso de ajustar un instrumento de medición para asegurar su precisión comparándolo con un estándar conocido.",
+        "ejemplo_uso": "Hay que mandar a calibrar el monitor de presión, porque está dando unas lecturas muy raras.",
+        "categoria": "Mantenimiento Biomédico & Electromedicina"
+    },
+    {
+        "termino_formal": "Desfibrilador",
+        "dominicanismo": "El desfibrilador, el carrito de paro, las paletas",
+        "definicion": "Dispositivo que restablece el ritmo cardíaco normal mediante una descarga eléctrica de alto voltaje.",
+        "ejemplo_uso": "¡Rápido, trae el carrito de paro, que el paciente está en fibrilación!.",
+        "categoria": "Mantenimiento Biomédico & Electromedicina"
+    },
+    {
+        "termino_formal": "Diagnóstico por Imagen",
+        "dominicanismo": "Imágenes, hacerle una imagen",
+        "definicion": "Técnicas y procesos utilizados para crear imágenes del cuerpo humano, o partes de él, con propósitos clínicos.",
+        "ejemplo_uso": "El doctor indicó hacerle imágenes al paciente para ver qué es lo que tiene por dentro.",
+        "categoria": "Mantenimiento Biomédico & Electromedicina"
+    },
+    {
+        "termino_formal": "Electrocardiograma (ECG)",
+        "dominicanismo": "El electro",
+        "definicion": "Prueba que registra la actividad eléctrica del corazón.",
+        "ejemplo_uso": "Sube al paciente a cardiología para que le hagan un electro y ver cómo está ese corazón.",
+        "categoria": "Mantenimiento Biomédico & Electromedicina"
+    },
+    {
+        "termino_formal": "Endoscopio",
+        "dominicanismo": "La endoscopía, el tubo con la camarita",
+        "definicion": "Instrumento médico con una luz y una cámara que se utiliza para observar el interior de una cavidad u órgano del cuerpo.",
+        "ejemplo_uso": "Mañana le van a meter el tubo con la camarita para verle el estómago por dentro.",
+        "categoria": "Mantenimiento Biomédico & Electromedicina"
+    },
+    {
+        "termino_formal": "Mantenimiento Correctivo",
+        "dominicanismo": "La reparación, arreglarlo cuando se daña",
+        "definicion": "Actividades técnicas destinadas a corregir las fallas de los equipos una vez que se han producido.",
+        "ejemplo_uso": "El monitor de la emergencia se apagó, llama a biomédica para que le den mantenimiento correctivo.",
+        "categoria": "Mantenimiento Biomédico & Electromedicina"
+    },
+    {
+        "termino_formal": "Monitor de Signos Vitales",
+        "dominicanismo": "El monitor de signos, la pantalla",
+        "definicion": "Dispositivo que mide, muestra y registra continuamente los parámetros fisiológicos de un paciente.",
+        "ejemplo_uso": "Conéctale el monitor de signos al paciente para tenerle la presión y el corazón vigilado.",
+        "categoria": "Mantenimiento Biomédico & Electromedicina"
+    },
+    {
+        "termino_formal": "Ventilador Mecánico",
+        "dominicanismo": "El ventilador, el respirador",
+        "definicion": "Máquina diseñada para mover aire respirable hacia y desde los pulmones de un paciente que no puede respirar por sí mismo.",
+        "ejemplo_uso": "Necesitamos un ventilador urgente para el paciente que acaba de llegar a la emergencia.",
+        "categoria": "Mantenimiento Biomédico & Electromedicina"
+    }
+]

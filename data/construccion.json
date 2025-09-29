@@ -1,0 +1,583 @@
+[
+    {
+        "termino_formal": "Cimentación",
+        "dominicanismo": "Fundación",
+        "definicion": "Conjunto de elementos estructurales que transmiten las cargas de la edificación al suelo",
+        "ejemplo_uso": "La fundación de esta casa está muy bien hecha, por eso ha durado tantos años",
+        "categoria": "Construcción"
+    },
+    {
+        "termino_formal": "Hormigón armado",
+        "dominicanismo": "Concreto con cabillas",
+        "definicion": "Material compuesto formado por hormigón y barras de acero que trabajan conjuntamente",
+        "ejemplo_uso": "Las columnas están hechas de concreto con cabillas para que sean más resistentes",
+        "categoria": "Construcción"
+    },
+    {
+        "termino_formal": "Encofrado",
+        "dominicanismo": "Molde de madera",
+        "definicion": "Estructura temporal que da forma al hormigón mientras fragua",
+        "ejemplo_uso": "Los carpinteros están armando el molde de madera para vaciar la losa",
+        "categoria": "Construcción"
+    },
+    {
+        "termino_formal": "Impermeabilización",
+        "dominicanismo": "Sellado contra agua",
+        "definicion": "Tratamiento aplicado a superficies para evitar el paso del agua",
+        "ejemplo_uso": "Hay que hacer el sellado contra agua en la terraza antes de que llueva",
+        "categoria": "Construcción"
+    },
+    {
+        "termino_formal": "Mampostería",
+        "dominicanismo": "Pared de bloques",
+        "definicion": "Sistema constructivo que utiliza bloques, ladrillos o piedras unidos con mortero",
+        "ejemplo_uso": "La pared de bloques del patio trasero la hicimos nosotros mismos",
+        "categoria": "Construcción"
+    },
+    {
+        "termino_formal": "Viga de carga",
+        "dominicanismo": "Viga maestra",
+        "definicion": "Elemento estructural horizontal que soporta cargas y las transmite a los pilares",
+        "ejemplo_uso": "No podemos quitar esa viga maestra porque sostiene todo el segundo piso",
+        "categoria": "Construcción"
+    },
+    {
+        "termino_formal": "Acabado superficial",
+        "dominicanismo": "Fino de pared",
+        "definicion": "Capa final aplicada a las superficies para darles textura y apariencia deseada",
+        "ejemplo_uso": "Después del fino de pared viene la pintura para terminar la habitación",
+        "categoria": "Construcción"
+    },
+    {
+        "termino_formal": "Sistema de drenaje",
+        "dominicanismo": "Desagüe",
+        "definicion": "Conjunto de tuberías y elementos que evacuan aguas residuales y pluviales",
+        "ejemplo_uso": "El desagüe de la cocina se tapó y hay que llamar al plomero",
+        "categoria": "Construcción"
+    },
+    {
+        "termino_formal": "Ademe",
+        "dominicanismo": "El apuntalamiento, los soportes de la zanja",
+        "definicion": "",
+        "ejemplo_uso": "Hay que meterle un buen apuntalamiento a esa zanja antes de que se derrumbe con la lluvia.",
+        "categoria": "Construcción"
+    },
+    {
+        "termino_formal": "Acero de Refuerzo (Varilla)",
+        "dominicanismo": "Varilla, los hierros",
+        "definicion": "",
+        "ejemplo_uso": "Dile a los muchachos que empiecen a amarrar las varillas de las columnas.",
+        "categoria": "Construcción"
+    },
+    {
+        "termino_formal": "Aparejo",
+        "dominicanismo": "La traba, ¿cómo van amarrados los blocks?",
+        "definicion": "",
+        "ejemplo_uso": "Asegúrate de que lleven una buena traba en esa pared para que quede fuerte.",
+        "categoria": "Construcción"
+    },
+    {
+        "termino_formal": "BITACORA DE OBRA",
+        "dominicanismo": "La bitácora, el diario de la obra",
+        "definicion": "",
+        "ejemplo_uso": "Anota en la bitácora que hoy no se pudo vaciar la losa por la lluvia.",
+        "categoria": "Construcción"
+    },
+    {
+        "termino_formal": "Cimentación",
+        "dominicanismo": "La zapata, la fundación, la base",
+        "definicion": "",
+        "ejemplo_uso": "Si no se hace una buena fundación, esa casa se va a rajar entera.",
+        "categoria": "Construcción"
+    },
+    {
+        "termino_formal": "Concreto Armado",
+        "dominicanismo": "Concreto armado, concreto con varilla",
+        "definicion": "",
+        "ejemplo_uso": "Todas las vigas y columnas de aquí son en concreto armado, eso no lo tumba nadie.",
+        "categoria": "Construcción"
+    },
+    {
+        "termino_formal": "Cubicación",
+        "dominicanismo": "Cubicar, calcular los metros",
+        "definicion": "",
+        "ejemplo_uso": "Ponte a cubicar cuántos metros de arena vamos a necesitar para el pañete.",
+        "categoria": "Construcción"
+    },
+    {
+        "termino_formal": "Dosificación",
+        "dominicanismo": "La mezcla, la proporción",
+        "definicion": "",
+        "ejemplo_uso": "Dile al concretero que la mezcla para la zapata lleva más cemento.",
+        "categoria": "Construcción"
+    },
+    {
+        "termino_formal": "Encofrado",
+        "dominicanismo": "La formaleta",
+        "definicion": "",
+        "ejemplo_uso": "Mañana a primera hora tienen que empezar a armar la formaleta de la losa del segundo piso.",
+        "categoria": "Construcción"
+    },
+    {
+        "termino_formal": "Fraguado",
+        "dominicanismo": "El secado, cuando amarra el cemento",
+        "definicion": "",
+        "ejemplo_uso": "Hay que echarle agua al concreto durante el secado para que no se queme.",
+        "categoria": "Construcción"
+    },
+    {
+        "termino_formal": "Impermeabilización",
+        "dominicanismo": "La impermeabilización, echarle el producto",
+        "definicion": "",
+        "ejemplo_uso": "No se te olvide poner la impermeabilización en el techo antes de poner la cerámica.",
+        "categoria": "Construcción"
+    },
+    {
+        "termino_formal": "Jamba",
+        "dominicanismo": "La jamba, el marco",
+        "definicion": "",
+        "ejemplo_uso": "Revisa esa jamba con la plomada, que me parece que la puerta está cayendo de un lado.",
+        "categoria": "Construcción"
+    },
+    {
+        "termino_formal": "Losa",
+        "dominicanismo": "La losa, la placa, el plato",
+        "definicion": "",
+        "ejemplo_uso": "El lunes vamos a vaciar la losa del techo, así que necesito a toda la brigada aquí.",
+        "categoria": "Construcción"
+    },
+    {
+        "termino_formal": "Mampostería",
+        "dominicanismo": "Pared de block, la mampostería",
+        "definicion": "",
+        "ejemplo_uso": "Súbeme toda la pared de block de la división de la cocina hoy mismo.",
+        "categoria": "Construcción"
+    },
+    {
+        "termino_formal": "Mortero",
+        "dominicanismo": "La mezcla, la pisa",
+        "definicion": "",
+        "ejemplo_uso": "Prepara una buena mezcla para pegar esos blocks, que no quede muy aguada.",
+        "categoria": "Construcción"
+    },
+    {
+        "termino_formal": "Nivel Freático",
+        "dominicanismo": "El nivel del agua, la vena de agua",
+        "definicion": "",
+        "ejemplo_uso": "Tuvimos que parar la excavación porque encontramos el nivel del agua muy arriba.",
+        "categoria": "Construcción"
+    },
+    {
+        "termino_formal": "Pañete (Revoco)",
+        "dominicanismo": "Pañete",
+        "definicion": "",
+        "ejemplo_uso": "Después de que suban los blocks, viene la brigada del pañete a emparejar las paredes.",
+        "categoria": "Construcción"
+    },
+    {
+        "termino_formal": "Plomada",
+        "dominicanismo": "La plomada",
+        "definicion": "",
+        "ejemplo_uso": "Tírale la plomada a esa pared, que desde aquí se ve que está encaramada.",
+        "categoria": "Construcción"
+    },
+    {
+        "termino_formal": "Radier",
+        "dominicanismo": "La losa de piso, el plateo, el firme",
+        "definicion": "",
+        "ejemplo_uso": "Primero se compacta bien el terreno y después se vacía la losa de piso.",
+        "categoria": "Construcción"
+    },
+    {
+        "termino_formal": "Solado",
+        "dominicanismo": "El piso",
+        "definicion": "",
+        "ejemplo_uso": "¿Qué tipo de piso es que van a poner en la sala, cerámica o porcelanato?.",
+        "categoria": "Construcción"
+    },
+    {
+        "termino_formal": "Tabiquería",
+        "dominicanismo": "Las divisiones, las paredes de sheetrock/sherró",
+        "definicion": "",
+        "ejemplo_uso": "Todas las divisiones de las oficinas las vamos a hacer en sheetrock para avanzar más rápido.",
+        "categoria": "Construcción"
+    },
+    {
+        "termino_formal": "Talud",
+        "dominicanismo": "El talud, el barranco, el corte",
+        "definicion": "",
+        "ejemplo_uso": "Hay que proteger el talud con una malla para que no siga cayendo tierra.",
+        "categoria": "Construcción"
+    },
+    {
+        "termino_formal": "Viga",
+        "dominicanismo": "La viga",
+        "definicion": "",
+        "ejemplo_uso": "Esa viga de ahí arriba es la que aguanta todo el peso del techo.",
+        "categoria": "Construcción"
+    },
+    {
+        "termino_formal": "Zapata",
+        "dominicanismo": "La zapata",
+        "definicion": "",
+        "ejemplo_uso": "Cada columna de la casa tiene que caer encima de una zapata bien hecha.",
+        "categoria": "Construcción"
+    },
+    {
+        "termino_formal": "Zuncho",
+        "dominicanismo": "El zuncho, la viga de amarre, la cadena",
+        "definicion": "",
+        "ejemplo_uso": "El zuncho amarra todas las paredes por arriba para que no se abran con un temblor.",
+        "categoria": "Construcción"
+    },
+    {
+        "termino_formal": "Altimetría",
+        "dominicanismo": "Sacar los niveles, medir las alturas",
+        "definicion": "",
+        "ejemplo_uso": "Hay que hacerle la altimetría al terreno para ver dónde hacer los cortes y rellenos.",
+        "categoria": "Agrimensura & Topografía"
+    },
+    {
+        "termino_formal": "Azimut",
+        "dominicanismo": "El azimut",
+        "definicion": "",
+        "ejemplo_uso": "Tírale el azimut a esa línea para saber la dirección exacta con el norte.",
+        "categoria": "Agrimensura & Topografía"
+    },
+    {
+        "termino_formal": "Banco de Nivel (BM)",
+        "dominicanismo": "El BM (leído: be-eme), el clavo de referencia",
+        "definicion": "",
+        "ejemplo_uso": "Vamos a amarrarnos de ese BM que puso Obras Públicas en la acera.",
+        "categoria": "Agrimensura & Topografía"
+    },
+    {
+        "termino_formal": "Coordenadas Geográficas",
+        "dominicanismo": "Las coordenadas",
+        "definicion": "",
+        "ejemplo_uso": "Mándame las coordenadas del solar para ponerlas en el GPS y poder llegar.",
+        "categoria": "Agrimensura & Topografía"
+    },
+    {
+        "termino_formal": "Coordenadas UTM",
+        "dominicanismo": "Las UTM, las coordenadas planas",
+        "definicion": "",
+        "ejemplo_uso": "Para someter el plano en Catastro, tiene que estar amarrado a las coordenadas UTM.",
+        "categoria": "Agrimensura & Topografía"
+    },
+    {
+        "termino_formal": "Curva de Nivel",
+        "dominicanismo": "Las curvas de nivel",
+        "definicion": "",
+        "ejemplo_uso": "En el plano se ve que el terreno es una loma por todas las curvas de nivel que tiene.",
+        "categoria": "Agrimensura & Topografía"
+    },
+    {
+        "termino_formal": "Deslinde",
+        "dominicanismo": "El deslinde",
+        "definicion": "",
+        "ejemplo_uso": "No puedes vender ese solar hasta que no le hagas el deslinde y tengas tu título definitivo.",
+        "categoria": "Agrimensura & Topografía"
+    },
+    {
+        "termino_formal": "ECUACION DE TIEMPO",
+        "dominicanismo": "(Término astronómico muy técnico)",
+        "definicion": "",
+        "ejemplo_uso": "Ese es un cálculo que usan los agrimensores viejos para trabajar con el sol.",
+        "categoria": "Agrimensura & Topografía"
+    },
+    {
+        "termino_formal": "Estación Total",
+        "dominicanismo": "La estación",
+        "definicion": "",
+        "ejemplo_uso": "Monta la estación en ese punto para empezar a levantar los linderos.",
+        "categoria": "Agrimensura & Topografía"
+    },
+    {
+        "termino_formal": "Fotogrametría",
+        "dominicanismo": "El levantamiento con dron, las fotos aéreas",
+        "definicion": "",
+        "ejemplo_uso": "Para esa finca tan grande, es mejor pagar un levantamiento con dron que hacerlo a pie.",
+        "categoria": "Agrimensura & Topografía"
+    },
+    {
+        "termino_formal": "Geodesia",
+        "dominicanismo": "Mediciones de la Tierra (campo de estudio)",
+        "definicion": "",
+        "ejemplo_uso": "La geodesia es la ciencia que nos permite amarrar todos los planos a un mismo sistema.",
+        "categoria": "Agrimensura & Topografía"
+    },
+    {
+        "termino_formal": "GPS Diferencial (DGPS)",
+        "dominicanismo": "El GPS de precisión, el GPS doble",
+        "definicion": "",
+        "ejemplo_uso": "Con el GPS de precisión podemos poner los hitos con un error de menos de un centímetro.",
+        "categoria": "Agrimensura & Topografía"
+    },
+    {
+        "termino_formal": "Hito (Mojón)",
+        "dominicanismo": "El hito, el barrote, el tubo del lindero",
+        "definicion": "",
+        "ejemplo_uso": "El vecino movió el hito y ahora dice que un pedazo de mi patio es de él.",
+        "categoria": "Agrimensura & Topografía"
+    },
+    {
+        "termino_formal": "Levantamiento Topográfico",
+        "dominicanismo": "El levantamiento, la medición del terreno",
+        "definicion": "",
+        "ejemplo_uso": "¿Cuánto cuesta la medición de un solar de 500 metros?.",
+        "categoria": "Agrimensura & Topografía"
+    },
+    {
+        "termino_formal": "LIDAR",
+        "dominicanismo": "El escaneo láser",
+        "definicion": "",
+        "ejemplo_uso": "Para el diseño de esa carretera usaron un escaneo láser desde un avión.",
+        "categoria": "Agrimensura & Topografía"
+    },
+    {
+        "termino_formal": "Nivelación",
+        "dominicanismo": "Pasar niveles, la nivelación",
+        "definicion": "",
+        "ejemplo_uso": "El maestro necesita que le pases los niveles para saber a qué altura va el piso de la casa.",
+        "categoria": "Agrimensura & Topografía"
+    },
+    {
+        "termino_formal": "Planimetría",
+        "dominicanismo": "El levantamiento del plano, medir los linderos",
+        "definicion": "",
+        "ejemplo_uso": "Primero hacemos el levantamiento del plano y después, si el cliente quiere, le sacamos los niveles.",
+        "categoria": "Agrimensura & Topografía"
+    },
+    {
+        "termino_formal": "Plano Catastral",
+        "dominicanismo": "El plano del solar, el plano de Catastro",
+        "definicion": "",
+        "ejemplo_uso": "Ve a Jurisdicción Inmobiliaria y solicita una copia del plano catastral de tu parcela.",
+        "categoria": "Agrimensura & Topografía"
+    },
+    {
+        "termino_formal": "Poligonal",
+        "dominicanismo": "La poligonal, el recorrido",
+        "definicion": "",
+        "ejemplo_uso": "Hay que cerrar bien la poligonal para que el trabajo quede sin errores.",
+        "categoria": "Agrimensura & Topografía"
+    },
+    {
+        "termino_formal": "Radiación",
+        "dominicanismo": "Radiar los puntos, coger los detalles",
+        "definicion": "",
+        "ejemplo_uso": "Desde esa esquina vamos a radiar el poste de luz, la casa y el árbol grande.",
+        "categoria": "Agrimensura & Topografía"
+    },
+    {
+        "termino_formal": "Replanteo",
+        "dominicanismo": "El replanteo, marcar en el terreno",
+        "definicion": "",
+        "ejemplo_uso": "Mañana tenemos el replanteo de las zapatas, lleva estacas y la cinta de medir.",
+        "categoria": "Agrimensura & Topografía"
+    },
+    {
+        "termino_formal": "Rumbo",
+        "dominicanismo": "El rumbo",
+        "definicion": "",
+        "ejemplo_uso": "El agrimensor me dio el plano con todos los rumbos y distancias de mis linderos.",
+        "categoria": "Agrimensura & Topografía"
+    },
+    {
+        "termino_formal": "Taquimetría",
+        "dominicanismo": "Medición con taquímetro",
+        "definicion": "",
+        "ejemplo_uso": "Antes de la estación total, todos los levantamientos se hacían con taquímetro.",
+        "categoria": "Agrimensura & Topografía"
+    },
+    {
+        "termino_formal": "Teodolito",
+        "dominicanismo": "El teodolito, el aparato viejo",
+        "definicion": "",
+        "ejemplo_uso": "Mi papá era agrimensor y todavía guarda el teodolito que usaba en los años 80.",
+        "categoria": "Agrimensura & Topografía"
+    },
+    {
+        "termino_formal": "Vértice Geodésico",
+        "dominicanismo": "El punto geodésico, la chiva",
+        "definicion": "",
+        "ejemplo_uso": "Cerca de la finca hay un punto geodésico del Instituto Cartográfico en la cima de una loma.",
+        "categoria": "Agrimensura & Topografía"
+    },
+    {
+        "termino_formal": "Acta de Constitución (Project Charter)",
+        "dominicanismo": "El documento de arranque, la aprobación oficial",
+        "definicion": "",
+        "ejemplo_uso": "Hasta que el gerente no firme el documento de arranque, no tenemos luz verde para gastar un peso.",
+        "categoria": "Gestión de Proyectos"
+    },
+    {
+        "termino_formal": "Alcance del Proyecto",
+        "dominicanismo": "Hasta dónde llega el proyecto, lo que se va a hacer (y lo que no)",
+        "definicion": "",
+        "ejemplo_uso": "Hay que dejar claro hasta dónde llega el proyecto, que después el cliente empieza a pedir de todo.",
+        "categoria": "Gestión de Proyectos"
+    },
+    {
+        "termino_formal": "Diagrama de Gantt",
+        "dominicanismo": "El Gantt, el cronograma de barras",
+        "definicion": "",
+        "ejemplo_uso": "Actualiza el Gantt y mándamelo, para ver cómo vamos con las fechas.",
+        "categoria": "Gestión de Proyectos"
+    },
+    {
+        "termino_formal": "EDT/WBS",
+        "dominicanismo": "El desglose de tareas, el esqueleto del proyecto",
+        "definicion": "",
+        "ejemplo_uso": "Vamos a hacer el desglose de tareas para que a nadie se le olvide hacer algo importante.",
+        "categoria": "Gestión de Proyectos"
+    },
+    {
+        "termino_formal": "Entregable (Deliverable)",
+        "dominicanismo": "El entregable, lo que hay que entregar",
+        "definicion": "",
+        "ejemplo_uso": "El primer entregable es el logo; tenemos que mandárselo al cliente el lunes sin falta.",
+        "categoria": "Gestión de Proyectos"
+    },
+    {
+        "termino_formal": "Hito (Milestone)",
+        "dominicanismo": "Un hito, una fecha clave, un logro importante",
+        "definicion": "",
+        "ejemplo_uso": "Terminar la programación es una fecha clave; si nos atrasamos ahí, se daña todo el plan.",
+        "categoria": "Gestión de Proyectos"
+    },
+    {
+        "termino_formal": "Interesados (Stakeholders)",
+        "dominicanismo": "Los involucrados, toda la gente que tiene que ver",
+        "definicion": "",
+        "ejemplo_uso": "Hay que hacer una reunión con todos los involucrados para que estén en la misma página.",
+        "categoria": "Gestión de Proyectos"
+    },
+    {
+        "termino_formal": "Caso de Negocio (Business Case)",
+        "dominicanismo": "La justificación, ¿por qué vale la pena hacer esto?",
+        "definicion": "",
+        "ejemplo_uso": "Prepara una buena justificación, que si no se ve claro el beneficio, no van a soltar los cuartos.",
+        "categoria": "Gestión de Proyectos"
+    },
+    {
+        "termino_formal": "Ciclo de Vida del Proyecto",
+        "dominicanismo": "Las etapas del proyecto, de principio a fin",
+        "definicion": "",
+        "ejemplo_uso": "Hay que definir bien todas las etapas del proyecto, desde la idea hasta la entrega final.",
+        "categoria": "Gestión de Proyectos"
+    },
+    {
+        "termino_formal": "Costo Base (Cost Baseline)",
+        "dominicanismo": "El presupuesto aprobado, la línea base de costos",
+        "definicion": "",
+        "ejemplo_uso": "No podemos pasarnos del presupuesto aprobado, así que ojo con los gastos extras.",
+        "categoria": "Gestión de Proyectos"
+    },
+    {
+        "termino_formal": "Gestión de Riesgos",
+        "dominicanismo": "Pensar en lo que puede salir mal, la gestión de riesgos",
+        "definicion": "",
+        "ejemplo_uso": "Vamos a sentarnos a pensar en lo que puede salir mal para tener un plan B por si acaso.",
+        "categoria": "Gestión de Proyectos"
+    },
+    {
+        "termino_formal": "Línea Base (Baseline)",
+        "dominicanismo": "El plan original, con lo que nos comparamos",
+        "definicion": "",
+        "ejemplo_uso": "Según el plan original, ya deberíamos haber terminado. Hay que ver qué pasó.",
+        "categoria": "Gestión de Proyectos"
+    },
+    {
+        "termino_formal": "Matriz RACI",
+        "dominicanismo": "El RACI, el quién hace qué",
+        "definicion": "",
+        "ejemplo_uso": "Hagan una matriz de quién hace qué para que después no haya excusas de que eso no me tocaba a mí.",
+        "categoria": "Gestión de Proyectos"
+    },
+    {
+        "termino_formal": "Metodología Ágil (Agile)",
+        "dominicanismo": "Ágil, trabajar por pedacitos, ir viendo sobre la marcha",
+        "definicion": "",
+        "ejemplo_uso": "Con este proyecto vamos a trabajar ágil, entregando avances cada dos semanas.",
+        "categoria": "Gestión de Proyectos"
+    },
+    {
+        "termino_formal": "Metodología en Cascada (Waterfall)",
+        "dominicanismo": "El método viejo, paso por paso",
+        "definicion": "",
+        "ejemplo_uso": "Ese es un proyecto a la antigua, paso por paso; hasta que no terminas una cosa, no arrancas con la otra.",
+        "categoria": "Gestión de Proyectos"
+    },
+    {
+        "termino_formal": "PMBOK",
+        "dominicanismo": "El PMBOK (leído: pi-em-bok), la biblia de los proyectos",
+        "definicion": "",
+        "ejemplo_uso": "Si tienes dudas, búscalo en el PMBOK, que ahí está todo lo que tienes que saber.",
+        "categoria": "Gestión de Proyectos"
+    },
+    {
+        "termino_formal": "PMO",
+        "dominicanismo": "La PMO (leído: pe-eme-o), la oficina de proyectos",
+        "definicion": "",
+        "ejemplo_uso": "La oficina de proyectos es la que nos dice cómo tenemos que manejar todos los trabajos aquí.",
+        "categoria": "Gestión de Proyectos"
+    },
+    {
+        "termino_formal": "Presupuesto",
+        "dominicanismo": "El presupuesto, los cuartos, lo que hay",
+        "definicion": "",
+        "ejemplo_uso": "Pide tres cotizaciones de todo para que los cuartos nos rindan.",
+        "categoria": "Gestión de Proyectos"
+    },
+    {
+        "termino_formal": "Ruta Crítica",
+        "dominicanismo": "La ruta crítica, las tareas que no pueden fallar",
+        "definicion": "",
+        "ejemplo_uso": "La llegada de ese equipo está en la ruta crítica; si la aduana lo para, nos fregamos.",
+        "categoria": "Gestión de Proyectos"
+    },
+    {
+        "termino_formal": "SCRUM",
+        "dominicanismo": "Scrum",
+        "definicion": "",
+        "ejemplo_uso": "El equipo de desarrollo trabaja con Scrum, tienen una reunión de 15 minutos todos los días.",
+        "categoria": "Gestión de Proyectos"
+    },
+    {
+        "termino_formal": "Seguimiento y Control",
+        "dominicanismo": "Darle seguimiento, tener el control, estar arriba de eso",
+        "definicion": "",
+        "ejemplo_uso": "Hay que estarle arriba al proyecto todos los días para que no se nos vaya de las manos.",
+        "categoria": "Gestión de Proyectos"
+    },
+    {
+        "termino_formal": "Solicitud de Cambio",
+        "dominicanismo": "Un cambio al plan, solicitud de cambio",
+        "definicion": "",
+        "ejemplo_uso": "Si el cliente quiere algo nuevo, tiene que mandar una solicitud de cambio por escrito.",
+        "categoria": "Gestión de Proyectos"
+    },
+    {
+        "termino_formal": "Sprint",
+        "dominicanismo": "El sprint",
+        "definicion": "",
+        "ejemplo_uso": "El objetivo de este sprint es terminar la pantalla de pago de la aplicación.",
+        "categoria": "Gestión de Proyectos"
+    },
+    {
+        "termino_formal": "Lecciones Aprendidas",
+        "dominicanismo": "¿Qué aprendimos?, el recuento de los daños",
+        "definicion": "",
+        "ejemplo_uso": "Al final del proyecto, vamos a hacer una reunión de qué aprendimos para no cometer los mismos errores.",
+        "categoria": "Gestión de Proyectos"
+    },
+    {
+        "termino_formal": "Valor Ganado (Earned Value)",
+        "dominicanismo": "El valor ganado, ¿cómo vamos de verdad?",
+        "definicion": "",
+        "ejemplo_uso": "No es solo ver si gastamos los cuartos, hay que medir el valor ganado para saber si avanzamos de verdad.",
+        "categoria": "Gestión de Proyectos"
+    }
+]

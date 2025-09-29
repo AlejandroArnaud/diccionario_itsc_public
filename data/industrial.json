@@ -1,0 +1,583 @@
+[
+    {
+        "termino_formal": "Control de calidad",
+        "dominicanismo": "Revisión de producto",
+        "definicion": "Proceso mediante el cual se verifica que un producto cumple con los estándares establecidos",
+        "ejemplo_uso": "Antes de enviar el producto al cliente, debe pasar por la revisión de producto",
+        "categoria": "Industrial General"
+    },
+    {
+        "termino_formal": "Línea de producción",
+        "dominicanismo": "Cadena de montaje",
+        "definicion": "Secuencia de estaciones de trabajo donde se ensambla un producto paso a paso",
+        "ejemplo_uso": "En la cadena de montaje cada trabajador tiene una tarea específica que hacer",
+        "categoria": "Industrial General"
+    },
+    {
+        "termino_formal": "Eficiencia operacional",
+        "dominicanismo": "Rendimiento de planta",
+        "definicion": "Medida de qué tan bien utiliza una empresa sus recursos para producir bienes",
+        "ejemplo_uso": "Este mes mejoramos el rendimiento de planta reduciendo los tiempos muertos",
+        "categoria": "Industrial General"
+    },
+    {
+        "termino_formal": "Mantenimiento predictivo",
+        "dominicanismo": "Mantenimiento inteligente",
+        "definicion": "Estrategia que predice cuándo una máquina necesitará mantenimiento",
+        "ejemplo_uso": "Con el mantenimiento inteligente evitamos que las máquinas se dañen inesperadamente",
+        "categoria": "Industrial General"
+    },
+    {
+        "termino_formal": "Gestión de inventarios",
+        "dominicanismo": "Control de almacén",
+        "definicion": "Administración de materias primas, productos en proceso y productos terminados",
+        "ejemplo_uso": "El control de almacén nos ayuda a no quedarnos sin materiales para producir",
+        "categoria": "Industrial General"
+    },
+    {
+        "termino_formal": "Automatización industrial",
+        "dominicanismo": "Máquinas automáticas",
+        "definicion": "Uso de sistemas de control para operar equipos con mínima intervención humana",
+        "ejemplo_uso": "Con las máquinas automáticas podemos producir las 24 horas del día",
+        "categoria": "Industrial General"
+    },
+    {
+        "termino_formal": "Indicadores de rendimiento",
+        "dominicanismo": "Números de producción",
+        "definicion": "Métricas utilizadas para evaluar el éxito de una actividad industrial",
+        "ejemplo_uso": "Los números de producción de este trimestre están por encima de lo esperado",
+        "categoria": "Industrial General"
+    },
+    {
+        "termino_formal": "Seguridad ocupacional",
+        "dominicanismo": "Prevención de accidentes",
+        "definicion": "Conjunto de medidas para proteger la salud y seguridad de los trabajadores",
+        "ejemplo_uso": "La prevención de accidentes es lo más importante en cualquier fábrica",
+        "categoria": "Industrial General"
+    },
+    {
+        "termino_formal": "Andon",
+        "dominicanismo": "La alarma de la línea, la luz de problema",
+        "definicion": "Sistema de gestión visual que alerta sobre problemas en la producción en tiempo real, usualmente mediante luces o sonidos.",
+        "ejemplo_uso": "Se prendió la luz roja en la estación 5, vayan a ver qué fue lo que pasó.",
+        "categoria": "Manufactura"
+    },
+    {
+        "termino_formal": "Bill of Materials (BOM)",
+        "dominicanismo": "El BOM (leído: bom), la lista de materiales, la receta",
+        "definicion": "Lista completa y estructurada de todas las materias primas, componentes y subconjuntos necesarios para fabricar un producto.",
+        "ejemplo_uso": "Revisa el BOM para que le pidas a almacén todos los componentes que lleva ese producto.",
+        "categoria": "Manufactura"
+    },
+    {
+        "termino_formal": "CAD/CAM",
+        "dominicanismo": "CAD/CAM (leído: cad-cam)",
+        "definicion": "Tecnología que integra el Diseño Asistido por Computadora (CAD) con la Fabricación Asistida por Computadora (CAM) para diseñar y producir piezas.",
+        "ejemplo_uso": "El diseño se hizo en CAD y se mandó directo a la máquina por CAM.",
+        "categoria": "Manufactura"
+    },
+    {
+        "termino_formal": "Control de Calidad (QC)",
+        "dominicanismo": "Control de Calidad, los inspectores de calidad",
+        "definicion": "Proceso de inspección y prueba para asegurar que los productos cumplen con los estándares y especificaciones de calidad definidos.",
+        "ejemplo_uso": "Ese lote no puede salir hasta que la gente de Control de Calidad no le dé el visto bueno.",
+        "categoria": "Manufactura"
+    },
+    {
+        "termino_formal": "Control Numérico (CNC)",
+        "dominicanismo": "El CNC (leído: ce-ene-ce), la máquina computarizada",
+        "definicion": "Proceso de fabricación automatizado donde una computadora controla las máquinas-herramienta para producir piezas con alta precisión.",
+        "ejemplo_uso": "Manda a cortar esas piezas en el CNC para que queden perfectas, que a mano no se puede.",
+        "categoria": "Manufactura"
+    },
+    {
+        "termino_formal": "ERP",
+        "dominicanismo": "El sistema, el ERP (leído: e-erre-pe)",
+        "definicion": "Sistema de Planificación de Recursos Empresariales (Enterprise Resource Planning) que integra y gestiona los procesos de negocio de una empresa.",
+        "ejemplo_uso": "Hay que registrar la producción de hoy en el sistema para que se actualice el inventario.",
+        "categoria": "Manufactura"
+    },
+    {
+        "termino_formal": "Garantía de Calidad (QA)",
+        "dominicanismo": "Aseguramiento de Calidad, la gente de QA",
+        "definicion": "Conjunto de actividades planificadas y sistemáticas para garantizar que los procesos de producción cumplan con los requisitos de calidad.",
+        "ejemplo_uso": "La gente de Aseguramiento de Calidad vino a revisar si estamos siguiendo los procedimientos.",
+        "categoria": "Manufactura"
+    },
+    {
+        "termino_formal": "Just-in-Time (JIT)",
+        "dominicanismo": "Justo a tiempo, trabajar sin inventario",
+        "definicion": "Metodología de producción que busca minimizar el inventario y aumentar la eficiencia, produciendo solo lo necesario, en el momento necesario.",
+        "ejemplo_uso": "Aquí trabajamos justo a tiempo, el material del suplidor llega en la mañana y se usa de una vez.",
+        "categoria": "Manufactura"
+    },
+    {
+        "termino_formal": "Kaizen",
+        "dominicanismo": "Kaizen, la mejora continua",
+        "definicion": "Filosofía japonesa de mejora continua que involucra a todos los empleados para optimizar los procesos y eliminar desperdicios.",
+        "ejemplo_uso": "La reunión de Kaizen de esta semana es para buscar una forma de reducir el desperdicio de tela.",
+        "categoria": "Manufactura"
+    },
+    {
+        "termino_formal": "Kanban",
+        "dominicanismo": "El Kanban, las tarjetas",
+        "definicion": "Sistema visual de gestión de trabajo que utiliza tarjetas o señales para controlar el flujo de producción y limitar el trabajo en progreso.",
+        "ejemplo_uso": "Si ya terminaste tu trabajo, revisa el tablero Kanban a ver qué es lo próximo que tienes que hacer.",
+        "categoria": "Manufactura"
+    },
+    {
+        "termino_formal": "Lean Manufacturing",
+        "dominicanismo": "Lean, producción sin desperdicio",
+        "definicion": "Filosofía de gestión enfocada en la eliminación de desperdicios (Muda) y la maximización del valor para el cliente.",
+        "ejemplo_uso": "Desde que empezamos a trabajar con Lean, la fábrica es más organizada y se pierde menos material.",
+        "categoria": "Manufactura"
+    },
+    {
+        "termino_formal": "Línea de Ensamblaje",
+        "dominicanismo": "La línea de producción, la línea",
+        "definicion": "Proceso de manufactura donde las partes de un producto se añaden en secuencia en estaciones de trabajo hasta obtener el producto final.",
+        "ejemplo_uso": "¡Hay que moverse en la línea, que estamos atrasados con la orden del cliente!.",
+        "categoria": "Manufactura"
+    },
+    {
+        "termino_formal": "Lote de Producción",
+        "dominicanismo": "El lote, la corrida",
+        "definicion": "Cantidad específica de un producto que se fabrica en un solo ciclo de producción bajo las mismas condiciones.",
+        "ejemplo_uso": "Anota el número del lote en la caja por si hay algún problema de calidad después.",
+        "categoria": "Manufactura"
+    },
+    {
+        "termino_formal": "Mantenimiento Total (TPM)",
+        "dominicanismo": "El TPM, mantenimiento preventivo",
+        "definicion": "Estrategia de mantenimiento proactivo que busca maximizar la efectividad de los equipos a través de la participación de todos los empleados.",
+        "ejemplo_uso": "El lunes le toca TPM a esta máquina, así que no se va a poder usar en la mañana.",
+        "categoria": "Manufactura"
+    },
+    {
+        "termino_formal": "Materia Prima",
+        "dominicanismo": "La materia prima, el material",
+        "definicion": "Materiales básicos que se transforman a través de procesos industriales para crear productos terminados.",
+        "ejemplo_uso": "El camión con la materia prima está parado en la puerta, denle entrada rápido.",
+        "categoria": "Manufactura"
+    },
+    {
+        "termino_formal": "MRP",
+        "dominicanismo": "El MRP, el sistema de planificación",
+        "definicion": "Sistema de Planificación de Requerimientos de Material (Material Requirements Planning) usado para calcular y planificar los materiales necesarios para la producción.",
+        "ejemplo_uso": "Corre el sistema de planificación para que nos diga cuánto material hay que comprar para el mes que viene.",
+        "categoria": "Manufactura"
+    },
+    {
+        "termino_formal": "Muda",
+        "dominicanismo": "El desperdicio, la muda",
+        "definicion": "Término japonés que significa 'desperdicio' y se refiere a cualquier actividad que consume recursos pero no agrega valor al producto final.",
+        "ejemplo_uso": "Caminar de un lado a otro buscando herramientas es un desperdicio de tiempo, es una muda.",
+        "categoria": "Manufactura"
+    },
+    {
+        "termino_formal": "Poka-Yoke",
+        "dominicanismo": "A prueba de errores, el Poka-Yoke",
+        "definicion": "Técnica japonesa de calidad que consiste en diseñar procesos y mecanismos para prevenir errores humanos antes de que ocurran.",
+        "ejemplo_uso": "Le pusimos un Poka-Yoke a la máquina, ahora es imposible que el operador ponga la pieza al revés.",
+        "categoria": "Manufactura"
+    },
+    {
+        "termino_formal": "Procedimiento (SOP)",
+        "dominicanismo": "El procedimiento, el SOP (leído: es-o-pi), el manualito",
+        "definicion": "Procedimiento Operativo Estándar (Standard Operating Procedure), un conjunto de instrucciones detalladas para realizar una tarea de manera consistente.",
+        "ejemplo_uso": "Si no estás seguro de cómo se hace, busca el procedimiento en la carpeta de la estación.",
+        "categoria": "Manufactura"
+    },
+    {
+        "termino_formal": "Producto Terminado",
+        "dominicanismo": "El producto terminado",
+        "definicion": "Bienes que han completado el proceso de fabricación y están listos para ser vendidos o distribuidos al cliente final.",
+        "ejemplo_uso": "Lleva todas esas cajas al almacén de producto terminado para que las preparen para el envío.",
+        "categoria": "Manufactura"
+    },
+    {
+        "termino_formal": "Seis Sigma (Six Sigma)",
+        "dominicanismo": "Seis Sigma",
+        "definicion": "Metodología de mejora de procesos enfocada en reducir la variabilidad y los defectos para alcanzar un nivel de calidad cercano a la perfección.",
+        "ejemplo_uso": "Estamos usando Seis Sigma para reducir los defectos de la pintura a casi cero.",
+        "categoria": "Manufactura"
+    },
+    {
+        "termino_formal": "SKU",
+        "dominicanismo": "El SKU (leído: es-ka-ú), el código del producto",
+        "definicion": "Unidad de Mantenimiento de Stock (Stock Keeping Unit), un código único que identifica a un producto específico para la gestión de inventario.",
+        "ejemplo_uso": "Búscame este código de producto en el sistema a ver cuánto queda en inventario.",
+        "categoria": "Manufactura"
+    },
+    {
+        "termino_formal": "Tiempo de Ciclo",
+        "dominicanismo": "El tiempo de ciclo, lo que se dura haciendo uno",
+        "definicion": "Tiempo total que se tarda en completar una operación de fabricación desde el inicio hasta el final para una sola unidad.",
+        "ejemplo_uso": "Cronometra el tiempo de ciclo. Necesitamos saber cuántas piezas podemos sacar en una hora.",
+        "categoria": "Manufactura"
+    },
+    {
+        "termino_formal": "Tiempo de Preparación (Setup)",
+        "dominicanismo": "El setup, el tiempo de cambio",
+        "definicion": "Tiempo requerido para preparar una máquina o línea de producción para fabricar un producto diferente al anterior.",
+        "ejemplo_uso": "Apúrense con el setup de la máquina, que ya tenemos que empezar a correr el producto nuevo.",
+        "categoria": "Manufactura"
+    },
+    {
+        "termino_formal": "Tolerancia",
+        "dominicanismo": "La tolerancia, el margen de error",
+        "definicion": "Rango de variación permitido en las dimensiones o propiedades de una pieza fabricada para que siga siendo funcional.",
+        "ejemplo_uso": "Esa pieza está mala, mide 2 milímetros de más y eso está fuera de la tolerancia permitida.",
+        "categoria": "Manufactura"
+    },
+    {
+        "termino_formal": "3PL (Third-Party Logistics)",
+        "dominicanismo": "Un operador logístico, la compañía de transporte",
+        "definicion": "Empresa que ofrece servicios logísticos subcontratados, como transporte, almacenamiento y gestión de inventarios, a otras empresas.",
+        "ejemplo_uso": "Nosotros no tenemos camiones propios, contratamos a un operador logístico para que nos mueva todo.",
+        "categoria": "Logística"
+    },
+    {
+        "termino_formal": "Almacén",
+        "dominicanismo": "El almacén, la nave, el depósito",
+        "definicion": "Edificio o espacio físico destinado al almacenamiento, conservación y manejo de mercancías.",
+        "ejemplo_uso": "El furgón acaba de llegar, dile a los muchachos que lo descarguen en la nave de Haina.",
+        "categoria": "Logística"
+    },
+    {
+        "termino_formal": "Cadena de Suministro",
+        "dominicanismo": "La cadena de suministro, todo el proceso",
+        "definicion": "Conjunto de actividades, organizaciones y recursos involucrados en el movimiento de un producto desde el proveedor hasta el cliente final.",
+        "ejemplo_uso": "Con el tapón en los puertos de China, la cadena de suministro completa se ha vuelto un lío.",
+        "categoria": "Logística"
+    },
+    {
+        "termino_formal": "Centro de Distribución (CEDI)",
+        "dominicanismo": "El CEDI (leído: cedi), el centro de distribución",
+        "definicion": "Instalación logística donde se almacenan productos y se preparan los pedidos para su posterior distribución a los clientes.",
+        "ejemplo_uso": "Todos los camiones tienen que cargar en el CEDI de la Kennedy antes de salir a repartir.",
+        "categoria": "Logística"
+    },
+    {
+        "termino_formal": "Cross-Docking",
+        "dominicanismo": "Cruzar la mercancía, despacho directo",
+        "definicion": "Práctica logística donde la mercancía se descarga de un transporte de llegada y se carga directamente en un transporte de salida, con poco o ningún almacenamiento intermedio.",
+        "ejemplo_uso": "Esa mercancía no se va a guardar; se baja de un camión y se monta en el otro de una vez.",
+        "categoria": "Logística"
+    },
+    {
+        "termino_formal": "Despacho Aduanero",
+        "dominicanismo": "Sacar de aduana, el desaduanaje, el despacho",
+        "definicion": "Conjunto de trámites y formalidades necesarias para que las mercancías puedan ser importadas o exportadas legalmente.",
+        "ejemplo_uso": "El contenedor tiene una semana en el puerto. ¡Hay que apurar los papeles para sacarlo de aduana!.",
+        "categoria": "Logística"
+    },
+    {
+        "termino_formal": "Flota",
+        "dominicanismo": "La flotilla, los camiones",
+        "definicion": "Conjunto de vehículos (camiones, coches, etc.) que pertenecen a una empresa y son utilizados para sus operaciones comerciales.",
+        "ejemplo_uso": "Hay que darle mantenimiento a la flotilla, que la mitad de los camiones están en el taller.",
+        "categoria": "Logística"
+    },
+    {
+        "termino_formal": "Flete",
+        "dominicanismo": "El flete, el envío, el transporte",
+        "definicion": "Costo asociado al transporte de mercancías de un lugar a otro por cualquier medio (terrestre, marítimo o aéreo).",
+        "ejemplo_uso": "El producto en sí no es caro, lo que te mata es el flete para traerlo de Miami.",
+        "categoria": "Logística"
+    },
+    {
+        "termino_formal": "Gestión de Inventarios",
+        "dominicanismo": "Manejar el inventario, el control del almacén",
+        "definicion": "Proceso de supervisar y controlar el flujo de bienes desde la compra hasta su venta para asegurar la disponibilidad de productos.",
+        "ejemplo_uso": "Si no manejamos bien el inventario, después no sabemos ni lo que tenemos.",
+        "categoria": "Logística"
+    },
+    {
+        "termino_formal": "Incoterms",
+        "dominicanismo": "Los incoterms",
+        "definicion": "Términos comerciales internacionales que definen las responsabilidades del vendedor y del comprador en las transacciones de exportación.",
+        "ejemplo_uso": "La cotización que me mandaron de China dice que el precio es FOB, no incluye el flete.",
+        "categoria": "Logística"
+    },
+    {
+        "termino_formal": "Just-in-Time (JIT)",
+        "dominicanismo": "Justo a tiempo",
+        "definicion": "Estrategia logística que consiste en recibir las mercancías justo en el momento en que se necesitan, reduciendo así los costos de inventario.",
+        "ejemplo_uso": "El cliente trabaja justo a tiempo, así que no podemos fallarle con la entrega.",
+        "categoria": "Logística"
+    },
+    {
+        "termino_formal": "KPI (Indicador de Rendimiento)",
+        "dominicanismo": "Los KPI (leído: ka-pe-i), los indicadores",
+        "definicion": "Indicador Clave de Rendimiento (Key Performance Indicator), una métrica cuantificable para evaluar el éxito en el logro de objetivos.",
+        "ejemplo_uso": "Uno de nuestros indicadores principales es que el 95% de las entregas se hagan en menos de 24 horas.",
+        "categoria": "Logística"
+    },
+    {
+        "termino_formal": "Logística Inversa",
+        "dominicanismo": "La devolución, la logística inversa",
+        "definicion": "Proceso de planificación y control del flujo de productos desde el consumidor final hasta el fabricante para su devolución, reparación, reciclaje o eliminación.",
+        "ejemplo_uso": "Tenemos un departamento para manejar la devolución de la mercancía dañada.",
+        "categoria": "Logística"
+    },
+    {
+        "termino_formal": "Manifiesto de Carga",
+        "dominicanismo": "El manifiesto, la lista de carga",
+        "definicion": "Documento que detalla toda la carga transportada en un vehículo, barco o avión, incluyendo su descripción, cantidad y destino.",
+        "ejemplo_uso": "Revisa el manifiesto a ver si la cantidad de cajas que llegaron coincide con lo que dice el papel.",
+        "categoria": "Logística"
+    },
+    {
+        "termino_formal": "Picking",
+        "dominicanismo": "El picking, preparar el pedido, buscar la mercancía",
+        "definicion": "Proceso de recogida de productos de las estanterías de un almacén para completar los pedidos de los clientes.",
+        "ejemplo_uso": "Dile a los muchachos que apuren el picking de la orden del supermercado, que el camión ya llegó.",
+        "categoria": "Logística"
+    },
+    {
+        "termino_formal": "Packing",
+        "dominicanismo": "El packing, empacar el pedido, el empaque",
+        "definicion": "Proceso de embalar y acondicionar los productos de un pedido para su envío y protección durante el transporte.",
+        "ejemplo_uso": "Terminen de empacar ese pedido y pónganle la etiqueta para que se lo lleve el mensajero.",
+        "categoria": "Logística"
+    },
+    {
+        "termino_formal": "SKU",
+        "dominicanismo": "El SKU (leído: es-ka-ú), el código del producto",
+        "definicion": "Unidad de Mantenimiento de Stock (Stock Keeping Unit), código único que se utiliza para identificar y rastrear cada producto en el inventario.",
+        "ejemplo_uso": "Búscame este código de producto en el sistema a ver cuánto queda en el almacén.",
+        "categoria": "Logística"
+    },
+    {
+        "termino_formal": "Stock de Seguridad",
+        "dominicanismo": "El chin de seguridad, el inventario de emergencia",
+        "definicion": "Nivel de inventario adicional que se mantiene para mitigar el riesgo de agotamiento de existencias debido a la variabilidad en la demanda o el suministro.",
+        "ejemplo_uso": "Siempre dejamos un chin de seguridad en el almacén por si un pedido se atrasa.",
+        "categoria": "Logística"
+    },
+    {
+        "termino_formal": "Trazabilidad",
+        "dominicanismo": "El rastreo, darle seguimiento, saber por dónde anda",
+        "definicion": "Capacidad de seguir el recorrido de un producto a través de todas las etapas de producción, procesamiento y distribución.",
+        "ejemplo_uso": "Con este sistema nuevo podemos darle rastreo al paquete desde que sale hasta que le llega al cliente.",
+        "categoria": "Logística"
+    },
+    {
+        "termino_formal": "Última Milla",
+        "dominicanismo": "La última milla, el delivery, la entrega al cliente",
+        "definicion": "El paso final del proceso de entrega desde un centro de distribución o tienda hasta el consumidor final.",
+        "ejemplo_uso": "El lío no es traerlo, es la entrega al cliente, que con los tapones de esta ciudad es un caso.",
+        "categoria": "Logística"
+    },
+    {
+        "termino_formal": "Unidad de Carga",
+        "dominicanismo": "La paleta, el palé (del inglés pallet)",
+        "definicion": "Agrupación de mercancías dispuestas sobre un soporte (como un palé) para facilitar su manejo, almacenamiento y transporte como una sola unidad.",
+        "ejemplo_uso": "Súbeme esa mercancía en una paleta y envuélvela bien en plástico.",
+        "categoria": "Logística"
+    },
+    {
+        "termino_formal": "WMS (Sistema de Gestión)",
+        "dominicanismo": "El sistema del almacén, el WMS",
+        "definicion": "Sistema de Gestión de Almacenes (Warehouse Management System), un software diseñado para optimizar las operaciones de un almacén.",
+        "ejemplo_uso": "Desde que pusieron el sistema nuevo en el almacén, encontrar la mercancía es mucho más rápido.",
+        "categoria": "Logística"
+    },
+    {
+        "termino_formal": "Carga Consolidada (LTL)",
+        "dominicanismo": "Carga suelta, un consolidado",
+        "definicion": "Envío de Carga Menor a un Camión (Less than Truckload), donde varias cargas pequeñas de diferentes remitentes se combinan en un solo camión.",
+        "ejemplo_uso": "No llenamos un furgón completo, así que mandamos la mercancía como carga suelta.",
+        "categoria": "Logística"
+    },
+    {
+        "termino_formal": "Carga Completa (FTL)",
+        "dominicanismo": "Un furgón completo, un contenedor exclusivo",
+        "definicion": "Envío de Carga de Camión Completo (Full Truckload), donde un solo envío ocupa todo el espacio de un camión.",
+        "ejemplo_uso": "Ese cliente compra tanto que siempre se le manda un furgón completo para él solo.",
+        "categoria": "Logística"
+    },
+    {
+        "termino_formal": "Zona Franca",
+        "dominicanismo": "Zona Franca",
+        "definicion": "Área geográfica designada donde las mercancías pueden ser importadas, almacenadas y reexportadas sin estar sujetas a los aranceles aduaneros habituales.",
+        "ejemplo_uso": "Esa fábrica está en Zona Franca, por eso puede importar la materia prima sin pagar impuestos.",
+        "categoria": "Logística"
+    },
+    {
+        "termino_formal": "Biónica",
+        "dominicanismo": "Inspirarse en la naturaleza, copiarle a los animales",
+        "definicion": "Aplicación de soluciones biológicas y sistemas encontrados en la naturaleza al diseño de sistemas de ingeniería y tecnología moderna.",
+        "ejemplo_uso": "Para ese diseño nos inspiramos en la naturaleza, en cómo las hojas de palma aguantan el viento.",
+        "categoria": "Diseño Industrial"
+    },
+    {
+        "termino_formal": "CAD",
+        "dominicanismo": "El CAD (leído: cad), dibujar en la computadora",
+        "definicion": "Diseño Asistido por Computadora (Computer-Aided Design), uso de software para crear, modificar y analizar diseños en 2D y 3D.",
+        "ejemplo_uso": "Ya terminé el boceto a mano, ahora lo voy a pasar al CAD para tener las medidas exactas.",
+        "categoria": "Diseño Industrial"
+    },
+    {
+        "termino_formal": "CAM",
+        "dominicanismo": "El CAM (leído: cam), la máquina que corta sola",
+        "definicion": "Fabricación Asistida por Computadora (Computer-Aided Manufacturing), uso de software para controlar máquinas-herramienta y automatizar el proceso de fabricación.",
+        "ejemplo_uso": "El diseño está listo en la computadora, ahora hay que mandarlo al CAM para que la máquina lo fabrique.",
+        "categoria": "Diseño Industrial"
+    },
+    {
+        "termino_formal": "Ciclo de Vida del Producto",
+        "dominicanismo": "La vida del producto, desde que nace hasta que muere",
+        "definicion": "Proceso que atraviesa un producto desde su introducción en el mercado hasta su eventual retirada, incluyendo las etapas de crecimiento, madurez y declive.",
+        "ejemplo_uso": "Hay que pensar en la vida completa del producto, ¿qué va a pasar con esa silla cuando se dañe?.",
+        "categoria": "Diseño Industrial"
+    },
+    {
+        "termino_formal": "Diseño Centrado en el Usuario",
+        "dominicanismo": "Pensar en la gente, hacerlo fácil para el que lo usa",
+        "definicion": "Enfoque de diseño que se centra en las necesidades, deseos y limitaciones de los usuarios finales en cada etapa del proceso de diseño.",
+        "ejemplo_uso": "Olvídate de lo que te gusta a ti, hay que pensar en la gente, que el diseño sea cómodo.",
+        "categoria": "Diseño Industrial"
+    },
+    {
+        "termino_formal": "Ergonomía",
+        "dominicanismo": "Que sea cómodo, que no canse, ergonómico",
+        "definicion": "Disciplina científica que busca optimizar la interacción entre los seres humanos y los productos que utilizan, enfocándose en la comodidad y la eficiencia.",
+        "ejemplo_uso": "Esa silla de oficina tiene que ser ergonómica para que la gente aguante el día entero sentado.",
+        "categoria": "Diseño Industrial"
+    },
+    {
+        "termino_formal": "Escalabilidad",
+        "dominicanismo": "Que se pueda hacer más grande, que aguante crecimiento",
+        "definicion": "Capacidad de un diseño o sistema para manejar un crecimiento en su volumen de producción o uso sin perder rendimiento.",
+        "ejemplo_uso": "Hicimos un diseño que aguanta crecimiento, si mañana hay que producir el doble, se puede.",
+        "categoria": "Diseño Industrial"
+    },
+    {
+        "termino_formal": "Explosión de Producto",
+        "dominicanismo": "El despiece, el desarme",
+        "definicion": "Dibujo técnico o vista explosionada que muestra la relación o el orden de ensamblaje de las diversas partes de un producto.",
+        "ejemplo_uso": "En el manual, pon un dibujo del despiece para que la gente vea cómo se arma.",
+        "categoria": "Diseño Industrial"
+    },
+    {
+        "termino_formal": "Fabricación Aditiva",
+        "dominicanismo": "Impresión 3D",
+        "definicion": "Proceso de producción que crea objetos tridimensionales añadiendo material capa por capa a partir de un modelo digital, también conocido como impresión 3D.",
+        "ejemplo_uso": "Vamos a tirar un prototipo rápido en la impresora 3D a ver cómo se siente en la mano.",
+        "categoria": "Diseño Industrial"
+    },
+    {
+        "termino_formal": "Ingeniería Inversa",
+        "dominicanismo": "Desbaratar para copiar, fusilarse el diseño",
+        "definicion": "Proceso de deconstruir un producto o sistema para entender su diseño, arquitectura o funcionamiento, a menudo con el fin de replicarlo o mejorarlo.",
+        "ejemplo_uso": "Le hicimos ingeniería inversa a la competencia para ver cómo es que ellos logran que dure tanto.",
+        "categoria": "Diseño Industrial"
+    },
+    {
+        "termino_formal": "Interfaz de Usuario (UI)",
+        "dominicanismo": "La botonera, los controles, donde se le da",
+        "definicion": "Medio a través del cual una persona interactúa y controla un dispositivo, máquina o aplicación.",
+        "ejemplo_uso": "La botonera de esa licuadora es muy confusa, uno no sabe para qué es cada botón.",
+        "categoria": "Diseño Industrial"
+    },
+    {
+        "termino_formal": "Iteración",
+        "dominicanismo": "Probar y arreglar, darle vuelta, prueba y error",
+        "definicion": "Proceso repetitivo en el diseño donde se crean, prueban y refinan prototipos o ideas en ciclos sucesivos para mejorar gradualmente el resultado final.",
+        "ejemplo_uso": "Esto no va a salir a la primera. Hay que probar y arreglar varias veces hasta que quede bien.",
+        "categoria": "Diseño Industrial"
+    },
+    {
+        "termino_formal": "Materialidad",
+        "dominicanismo": "Los materiales, de qué está hecho",
+        "definicion": "Selección y uso de materiales en el diseño de un producto, considerando sus propiedades físicas, estéticas y funcionales.",
+        "ejemplo_uso": "La materialidad es clave, tenemos que usar algo que aguante sol y agua porque eso va para afuera.",
+        "categoria": "Diseño Industrial"
+    },
+    {
+        "termino_formal": "Mecanizado CNC",
+        "dominicanismo": "El CNC (leído: ce-ene-ce), el corte computarizado",
+        "definicion": "Proceso de fabricación sustractivo que utiliza controles por computadora para operar máquinas-herramienta y dar forma a un material mediante corte, taladrado o fresado.",
+        "ejemplo_uso": "Manda a cortar esas piezas en el CNC para que queden perfectas, que a mano no se puede.",
+        "categoria": "Diseño Industrial"
+    },
+    {
+        "termino_formal": "Modelado Paramétrico",
+        "dominicanismo": "El diseño inteligente, el modelo que se ajusta solo",
+        "definicion": "Técnica de diseño 3D donde los modelos se crean basados en parámetros y restricciones que permiten modificar el diseño de manera flexible y eficiente.",
+        "ejemplo_uso": "Lo modelé con parámetros; si el cliente quiere la mesa más larga, solo tengo que cambiar un número.",
+        "categoria": "Diseño Industrial"
+    },
+    {
+        "termino_formal": "Moldeo por Inyección",
+        "dominicanismo": "Inyección de plástico",
+        "definicion": "Proceso de fabricación que consiste en inyectar un material fundido, generalmente plástico, en un molde para crear piezas en grandes volúmenes.",
+        "ejemplo_uso": "Todos esos cubos plásticos lo hacen con inyección, por eso pueden sacar miles al día.",
+        "categoria": "Diseño Industrial"
+    },
+    {
+        "termino_formal": "Obsolescencia Programada",
+        "dominicanismo": "Hecho para dañarse, que no dura nada",
+        "definicion": "Práctica de diseñar productos con una vida útil artificialmente limitada para fomentar su reemplazo y estimular el consumo.",
+        "ejemplo_uso": "Los celulares de ahora vienen hechos para dañarse, te obligan a comprar uno nuevo cada dos años.",
+        "categoria": "Diseño Industrial"
+    },
+    {
+        "termino_formal": "Prototipo",
+        "dominicanismo": "El prototipo, la muestra, el modelo de prueba",
+        "definicion": "Modelo o versión preliminar de un producto creado para probar un concepto o proceso antes de invertir en su producción a gran escala.",
+        "ejemplo_uso": "No podemos mandar a hacer mil sin antes tener una muestra. Hay que hacer un prototipo primero.",
+        "categoria": "Diseño Industrial"
+    },
+    {
+        "termino_formal": "Render",
+        "dominicanismo": "El render, la foto de mentira, la imagen 3D",
+        "definicion": "Proceso de generar una imagen fotorrealista a partir de un modelo 2D o 3D mediante un programa de computadora.",
+        "ejemplo_uso": "Tírale un buen render a eso para que el cliente lo vea como si fuera real y se decida.",
+        "categoria": "Diseño Industrial"
+    },
+    {
+        "termino_formal": "Resistencia de Materiales",
+        "dominicanismo": "Qué tanto aguanta el material",
+        "definicion": "Campo de la ingeniería que estudia la capacidad de los materiales para soportar cargas y esfuerzos sin deformarse o romperse.",
+        "ejemplo_uso": "Hay que calcular bien qué tanto aguanta ese hierro, no vaya a ser que la silla se debarate.",
+        "categoria": "Diseño Industrial"
+    },
+    {
+        "termino_formal": "Semiótica del Producto",
+        "dominicanismo": "Lo que comunica, los mensajes que manda",
+        "definicion": "Estudio de los signos y símbolos en los productos y cómo comunican significados, funciones y valores al usuario.",
+        "ejemplo_uso": "El color rojo del botón de apagado es para que se entienda de una vez que es para parar la máquina.",
+        "categoria": "Diseño Industrial"
+    },
+    {
+        "termino_formal": "Storytelling (en Producto)",
+        "dominicanismo": "La historia del producto, el cuento detrás del diseño",
+        "definicion": "Técnica de marketing y diseño que utiliza una narrativa para conectar emocionalmente con los consumidores y comunicar el valor de un producto.",
+        "ejemplo_uso": "No es solo vender una cartera, es vender el cuento de los artesanos que la hicieron a mano.",
+        "categoria": "Diseño Industrial"
+    },
+    {
+        "termino_formal": "Termoconformado",
+        "dominicanismo": "Plástico doblado con calor, plástico moldeado",
+        "definicion": "Proceso de fabricación donde una lámina de plástico se calienta hasta que se vuelve maleable y luego se le da forma sobre un molde.",
+        "ejemplo_uso": "La parte de adentro de la puerta de la nevera la hacen con plástico moldeado con calor.",
+        "categoria": "Diseño Industrial"
+    },
+    {
+        "termino_formal": "Usabilidad",
+        "dominicanismo": "Que sea fácil de usar, que no tenga complicaciones",
+        "definicion": "Grado en que un producto puede ser utilizado por usuarios específicos para lograr objetivos con eficacia, eficiencia y satisfacción.",
+        "ejemplo_uso": "Esa cafetera es malísima, no tiene usabilidad, hay que leer un manual para colar un café.",
+        "categoria": "Diseño Industrial"
+    },
+    {
+        "termino_formal": "Validación de Diseño",
+        "dominicanismo": "Probar si funciona, darle el visto bueno",
+        "definicion": "Proceso de evaluar un diseño para confirmar que el producto final cumplirá con las necesidades y requisitos del usuario.",
+        "ejemplo_uso": "Vamos a darle el diseño a par de gente para probar si funciona de verdad antes de producirlo.",
+        "categoria": "Diseño Industrial"
+    }
+]

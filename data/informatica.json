@@ -1,0 +1,583 @@
+[
+    {
+        "termino_formal": "Algoritmo",
+        "dominicanismo": "Receta de programación",
+        "definicion": "Conjunto ordenado y finito de operaciones que permite hallar la solución de un problema",
+        "ejemplo_uso": "Para resolver este problema necesitamos crear una buena receta de programación que sea eficiente",
+        "categoria": "ÁREA DE INFORMATICA"
+    },
+    {
+        "termino_formal": "Base de datos",
+        "dominicanismo": "Banco de información",
+        "definicion": "Sistema organizado para almacenar, gestionar y recuperar información de manera eficiente",
+        "ejemplo_uso": "Todos los datos de los estudiantes están guardados en nuestro banco de información principal",
+        "categoria": "ÁREA DE INFORMATICA"
+    },
+    {
+        "termino_formal": "Interfaz de usuario",
+        "dominicanismo": "Pantalla de manejo",
+        "definicion": "Medio con que el usuario puede comunicarse con una máquina, equipo, computadora o dispositivo",
+        "ejemplo_uso": "La pantalla de manejo de esta aplicación es muy fácil de usar para los estudiantes",
+        "categoria": "ÁREA DE INFORMATICA"
+    },
+    {
+        "termino_formal": "Servidor web",
+        "dominicanismo": "Máquina de internet",
+        "definicion": "Programa informático que procesa solicitudes HTTP y sirve contenido web a los clientes",
+        "ejemplo_uso": "La máquina de internet se cayó y por eso no podemos acceder a la página",
+        "categoria": "ÁREA DE INFORMATICA"
+    },
+    {
+        "termino_formal": "Programación orientada a objetos",
+        "dominicanismo": "Programación por piezas",
+        "definicion": "Paradigma de programación basado en el concepto de objetos que contienen datos y código",
+        "ejemplo_uso": "Con la programación por piezas es más fácil organizar el código del sistema",
+        "categoria": "ÁREA DE INFORMATICA"
+    },
+    {
+        "termino_formal": "Red de área local",
+        "dominicanismo": "Red interna",
+        "definicion": "Red de computadoras que conecta dispositivos en un área geográfica limitada",
+        "ejemplo_uso": "Todas las computadoras del laboratorio están conectadas a la red interna",
+        "categoria": "ÁREA DE INFORMATICA"
+    },
+    {
+        "termino_formal": "Copia de seguridad",
+        "dominicanismo": "Backup",
+        "definicion": "Copia de datos almacenada en un lugar separado del original para protegerlos",
+        "ejemplo_uso": "Hay que hacer el backup de todos los archivos importantes antes de formatear",
+        "categoria": "ÁREA DE INFORMATICA"
+    },
+    {
+        "termino_formal": "Depuración de código",
+        "dominicanismo": "Caza de errores",
+        "definicion": "Proceso de encontrar y corregir errores en el código de un programa",
+        "ejemplo_uso": "Pasé toda la tarde en la caza de errores de este programa que no funcionaba",
+        "categoria": "ÁREA DE INFORMATICA"
+    },
+    {
+        "termino_formal": "Active Directory",
+        "dominicanismo": "El Directorio Activo, el sistema de usuarios",
+        "definicion": "Servicio de directorio desarrollado por Microsoft para redes de dominio de Windows que almacena información sobre objetos de la red.",
+        "ejemplo_uso": "Se me bloqueó la clave, llama a sistema para que me reseteen el usuario en el Directorio Activo.",
+        "categoria": "Soporte Informático"
+    },
+    {
+        "termino_formal": "Ancho de Banda",
+        "dominicanismo": "El ancho de banda",
+        "definicion": "Cantidad máxima de datos que se pueden transmitir a través de una conexión de red en un período de tiempo determinado.",
+        "ejemplo_uso": "El internet está lento porque todo el mundo está viendo videos y se están comiendo el ancho de banda.",
+        "categoria": "Soporte Informático"
+    },
+    {
+        "termino_formal": "Backup (Copia de Seguridad)",
+        "dominicanismo": "El backup (pronunciado: ba-kó)",
+        "definicion": "Copia de datos realizada para que puedan ser restaurados en caso de pérdida de los datos originales.",
+        "ejemplo_uso": "Acuérdate de hacerle un backup a tus documentos, no vaya a ser que se dañe la computadora.",
+        "categoria": "Soporte Informático"
+    },
+    {
+        "termino_formal": "BIOS/UEFI",
+        "dominicanismo": "El BIOS (pronunciado: báyos)",
+        "definicion": "Firmware utilizado para inicializar el hardware de una computadora durante el proceso de arranque.",
+        "ejemplo_uso": "Para formatear la máquina, tienes que entrar al BIOS primero para que arranque desde la memoria USB.",
+        "categoria": "Soporte Informático"
+    },
+    {
+        "termino_formal": "Cliente-Servidor",
+        "dominicanismo": "Cliente-servidor, la red de la oficina",
+        "definicion": "Arquitectura de red en la que los clientes solicitan y reciben servicios de un servidor centralizado.",
+        "ejemplo_uso": "El sistema de contabilidad funciona en la red de la oficina, por eso no puedes usarlo desde tu casa.",
+        "categoria": "Soporte Informático"
+    },
+    {
+        "termino_formal": "DHCP",
+        "dominicanismo": "El DHCP, el que da los IP",
+        "definicion": "Protocolo de red que permite a los nodos de una red IP obtener sus parámetros de configuración automáticamente.",
+        "ejemplo_uso": "Reinicia el router a ver si el DHCP te asigna una dirección IP nueva y se arregla el internet.",
+        "categoria": "Soporte Informático"
+    },
+    {
+        "termino_formal": "DNS",
+        "dominicanismo": "El DNS",
+        "definicion": "Sistema de nomenclatura jerárquico descentralizado para dispositivos conectados a redes IP como Internet o una red privada.",
+        "ejemplo_uso": "No puedo entrar a ninguna página, parece que el DNS de la compañía de internet se cayó.",
+        "categoria": "Soporte Informático"
+    },
+    {
+        "termino_formal": "Escritorio Remoto",
+        "dominicanismo": "Conectarse remoto, escritorio remoto",
+        "definicion": "Tecnología que permite a un usuario trabajar en una computadora a través de su escritorio gráfico desde otra computadora.",
+        "ejemplo_uso": "Voy a trabajar desde la casa hoy, me voy a conectar remoto a la computadora de la oficina.",
+        "categoria": "Soporte Informático"
+    },
+    {
+        "termino_formal": "Firewall (Cortafuegos)",
+        "dominicanismo": "El firewall, el cortafuegos",
+        "definicion": "Dispositivo de seguridad de la red que monitorea el tráfico de red entrante y saliente y decide si permite o bloquea dicho tráfico en función de un conjunto definido de reglas de seguridad.",
+        "ejemplo_uso": "No puedo entrar a Facebook, parece que el firewall de la empresa lo tiene bloqueado.",
+        "categoria": "Soporte Informático"
+    },
+    {
+        "termino_formal": "Help Desk",
+        "dominicanismo": "Help Desk, la gente de sistema, soporte técnico",
+        "definicion": "Recurso destinado a proporcionar al cliente o usuario final información y apoyo en relación con los productos y servicios de una empresa.",
+        "ejemplo_uso": "Se me dañó el mouse, llama a la gente de sistema a ver si me lo cambian.",
+        "categoria": "Soporte Informático"
+    },
+    {
+        "termino_formal": "Imagen de Disco",
+        "dominicanismo": "La imagen, clonar el disco",
+        "definicion": "Copia exacta de un dispositivo de almacenamiento de datos, como un disco duro, guardada como un único archivo.",
+        "ejemplo_uso": "Para instalar las computadoras nuevas más rápido, le tiramos una imagen con todos los programas listos.",
+        "categoria": "Soporte Informático"
+    },
+    {
+        "termino_formal": "Dirección IP",
+        "dominicanismo": "El IP (pronunciado: ai-pí)",
+        "definicion": "Etiqueta numérica que identifica, de manera lógica y jerárquica, a una interfaz en red de un dispositivo que utilice el protocolo IP.",
+        "ejemplo_uso": "Pásame el IP de la impresora de la red para poder instalarla en mi laptop.",
+        "categoria": "Soporte Informático"
+    },
+    {
+        "termino_formal": "Kernel",
+        "dominicanismo": "El kernel, el núcleo del sistema",
+        "definicion": "Componente central de un sistema operativo que gestiona las operaciones de la computadora y del hardware.",
+        "ejemplo_uso": "Le cayó un virus tan malo que dañó el núcleo del sistema y hubo que formatearla.",
+        "categoria": "Soporte Informático"
+    },
+    {
+        "termino_formal": "Latencia",
+        "dominicanismo": "La latencia, el ping, que está lento",
+        "definicion": "Suma de retardos temporales dentro de una red.",
+        "ejemplo_uso": "El juego en línea tiene mucha latencia, le disparo a uno y la bala llega dos segundos después.",
+        "categoria": "Soporte Informático"
+    },
+    {
+        "termino_formal": "Malware",
+        "dominicanismo": "Un virus (se usa para todo tipo de malware)",
+        "definicion": "Software malicioso diseñado para infiltrarse o dañar una computadora o sistema de información sin el consentimiento de su propietario.",
+        "ejemplo_uso": "¡No abras ese correo! Seguro que es un virus que te va a encriptar todos los archivos.",
+        "categoria": "Soporte Informático"
+    },
+    {
+        "termino_formal": "Partición",
+        "dominicanismo": "La partición, dividir el disco",
+        "definicion": "División de una unidad de disco duro en varias unidades lógicas.",
+        "ejemplo_uso": "Yo siempre divido el disco duro en dos particiones: una para Windows y otra para guardar mis cosas.",
+        "categoria": "Soporte Informático"
+    },
+    {
+        "termino_formal": "Patch (Parche)",
+        "dominicanismo": "El parche, la actualización",
+        "definicion": "Pieza de software diseñada para actualizar o arreglar un programa de computadora o sus datos de soporte.",
+        "ejemplo_uso": "Hay que instalarle el último parche de seguridad de Windows para que no te hackeen la computadora.",
+        "categoria": "Soporte Informático"
+    },
+    {
+        "termino_formal": "Ping",
+        "dominicanismo": "El ping, tirarle un ping",
+        "definicion": "Utilidad de diagnóstico en redes de computadoras que mide el tiempo de ida y vuelta para los mensajes enviados desde el host de origen a un host de destino.",
+        "ejemplo_uso": "Tírale un ping a la impresora a ver si es que está desconectada de la red.",
+        "categoria": "Soporte Informático"
+    },
+    {
+        "termino_formal": "RAID",
+        "dominicanismo": "El RAID (pronunciado: reid)",
+        "definicion": "Tecnología de almacenamiento de datos que combina múltiples unidades de disco físico en una o más unidades lógicas para los fines de redundancia de datos, mejora del rendimiento, o ambos.",
+        "ejemplo_uso": "El servidor de archivos tiene un RAID, si se daña un disco duro, la información no se pierde.",
+        "categoria": "Soporte Informático"
+    },
+    {
+        "termino_formal": "SLA (Acuerdo de Servicio)",
+        "dominicanismo": "El SLA (leído: es-el-a), el tiempo de respuesta",
+        "definicion": "Contrato entre un proveedor de servicios y su cliente que define el nivel de servicio esperado del proveedor de servicios.",
+        "ejemplo_uso": "Según el SLA, la gente de sistema tiene 4 horas para resolver los problemas urgentes.",
+        "categoria": "Soporte Informático"
+    },
+    {
+        "termino_formal": "Sistema de Tickets",
+        "dominicanismo": "El sistema de tickets, abrir un ticket",
+        "definicion": "Sistema de software que gestiona y mantiene listas de problemas, conocidos como tickets.",
+        "ejemplo_uso": "Si tienes un problema, tienes que abrir un ticket en el sistema para que soporte te atienda.",
+        "categoria": "Soporte Informático"
+    },
+    {
+        "termino_formal": "Sistema Operativo (SO)",
+        "dominicanismo": "El sistema operativo, el Windows, el sistema",
+        "definicion": "Software principal o conjunto de programas de un sistema informático que gestiona los recursos de hardware y provee servicios a los programas de aplicación de software.",
+        "ejemplo_uso": "Esa computadora está lenta porque tiene un sistema operativo muy viejo.",
+        "categoria": "Soporte Informático"
+    },
+    {
+        "termino_formal": "Troubleshooting",
+        "dominicanismo": "Resolver, bregar con el problema, buscarle la vuelta",
+        "definicion": "Forma lógica y sistemática de buscar y resolver un problema en un sistema.",
+        "ejemplo_uso": "Tengo la mañana entera tratando de resolver con esta impresora que no quiere imprimir.",
+        "categoria": "Soporte Informático"
+    },
+    {
+        "termino_formal": "VPN",
+        "dominicanismo": "El VPN (leído: ve-pe-ene)",
+        "definicion": "Red privada virtual que crea una conexión de red privada entre dispositivos a través de Internet.",
+        "ejemplo_uso": "Para poder acceder a los archivos de la oficina desde mi casa, primero tengo que conectarme al VPN.",
+        "categoria": "Soporte Informático"
+    },
+    {
+        "termino_formal": "Virtualización",
+        "dominicanismo": "Virtualizar, una máquina virtual",
+        "definicion": "Creación de una versión virtual de algo, como un sistema operativo, un servidor, un dispositivo de almacenamiento o recursos de red.",
+        "ejemplo_uso": "En vez de comprar tres servidores, compramos uno bueno y le montamos tres máquinas virtuales adentro.",
+        "categoria": "Soporte Informático"
+    },
+    {
+        "termino_formal": "API",
+        "dominicanismo": "El API (leído: ei-pi-ai)",
+        "definicion": "Interfaz de Programación de Aplicaciones; un conjunto de definiciones y protocolos que se utiliza para desarrollar e integrar el software de las aplicaciones.",
+        "ejemplo_uso": "Tenemos que conectarnos al API del banco para poder procesar los pagos en la aplicación.",
+        "categoria": "Desarrollo de Software"
+    },
+    {
+        "termino_formal": "Backend",
+        "dominicanismo": "El backend",
+        "definicion": "Parte de un sitio o aplicación web que no es visible para el usuario final pero que es esencial para su funcionamiento.",
+        "ejemplo_uso": "El frontend se ve nítido, pero hay que meterle mano al backend porque está muy lento.",
+        "categoria": "Desarrollo de Software"
+    },
+    {
+        "termino_formal": "Base de Datos",
+        "dominicanismo": "La base de datos",
+        "definicion": "Conjunto de datos pertenecientes a un mismo contexto y almacenados sistemáticamente para su posterior uso.",
+        "ejemplo_uso": "Hazle un backup a la base de datos antes de que te pongas a inventar con eso.",
+        "categoria": "Desarrollo de Software"
+    },
+    {
+        "termino_formal": "Branch (Rama)",
+        "dominicanismo": "Un branch, una rama",
+        "definicion": "En control de versiones, una línea independiente de desarrollo.",
+        "ejemplo_uso": "Crea un branch nuevo para esa funcionalidad, no me trabajes directo en la rama principal (master).",
+        "categoria": "Desarrollo de Software"
+    },
+    {
+        "termino_formal": "Bucle (Loop)",
+        "dominicanismo": "Un loop, un bucle, un ciclo",
+        "definicion": "Estructura de control en programación en la que una secuencia de instrucciones de código se ejecuta repetidamente, hasta que una condición determinada deja de cumplirse.",
+        "ejemplo_uso": "El programa se quedó pegado en un loop infinito, por eso no responde.",
+        "categoria": "Desarrollo de Software"
+    },
+    {
+        "termino_formal": "Commit",
+        "dominicanismo": "Hacer un commit, un commit",
+        "definicion": "Operación que envía los últimos cambios del código fuente al repositorio, haciendo que estos cambios formen parte de la revisión principal del repositorio.",
+        "ejemplo_uso": "Antes de irte, haz un commit con los cambios que hiciste hoy para que no se pierdan.",
+        "categoria": "Desarrollo de Software"
+    },
+    {
+        "termino_formal": "Compilador",
+        "dominicanismo": "El compilador",
+        "definicion": "Programa informático que traduce un programa escrito en un lenguaje de programación a otro lenguaje de programación.",
+        "ejemplo_uso": "El código no funciona porque el compilador me está tirando par de errores.",
+        "categoria": "Desarrollo de Software"
+    },
+    {
+        "termino_formal": "Debugging (Depuración)",
+        "dominicanismo": "Debugear (leído: di-bo-guiar), matar los bugs",
+        "definicion": "Proceso de encontrar y corregir errores de software.",
+        "ejemplo_uso": "Tengo la mañana entera debugeando este código y todavía no encuentro dónde está el fallo.",
+        "categoria": "Desarrollo de Software"
+    },
+    {
+        "termino_formal": "Deployment (Despliegue)",
+        "dominicanismo": "Subir a producción, hacer el deployment",
+        "definicion": "Proceso de poner un software a disposición para su uso.",
+        "ejemplo_uso": "El jueves en la noche vamos a subir a producción la nueva versión de la página.",
+        "categoria": "Desarrollo de Software"
+    },
+    {
+        "termino_formal": "Framework",
+        "dominicanismo": "El framework",
+        "definicion": "Esquema o marco de trabajo que ofrece una estructura base para el desarrollo de un proyecto de software.",
+        "ejemplo_uso": "Para el frontend estamos usando React, es un framework de JavaScript muy popular.",
+        "categoria": "Desarrollo de Software"
+    },
+    {
+        "termino_formal": "Frontend",
+        "dominicanismo": "El frontend",
+        "definicion": "Parte de un sitio web o aplicación con la que los usuarios interactúan directamente.",
+        "ejemplo_uso": "Yo soy programador de backend, tú necesitas un diseñador que sea un duro en el frontend.",
+        "categoria": "Desarrollo de Software"
+    },
+    {
+        "termino_formal": "Función",
+        "dominicanismo": "Una función",
+        "definicion": "Bloque de código que realiza una tarea específica.",
+        "ejemplo_uso": "Crea una función que calcule el impuesto, para no tener que escribir ese código a cada rato.",
+        "categoria": "Desarrollo de Software"
+    },
+    {
+        "termino_formal": "Git",
+        "dominicanismo": "Git (leído: guit)",
+        "definicion": "Sistema de control de versiones distribuido, de código abierto y gratuito.",
+        "ejemplo_uso": "Si no sabes usar Git, se te va a hacer muy difícil trabajar en un equipo de desarrollo.",
+        "categoria": "Desarrollo de Software"
+    },
+    {
+        "termino_formal": "IDE",
+        "dominicanismo": "El IDE (leído: i-de-e), el editor de código",
+        "definicion": "Entorno de Desarrollo Integrado; aplicación informática que proporciona servicios integrales para facilitarle al desarrollador o programador el desarrollo de software.",
+        "ejemplo_uso": "¿Qué editor de código tú usas? Yo estoy usando Visual Studio Code, es un IDE durísimo.",
+        "categoria": "Desarrollo de Software"
+    },
+    {
+        "termino_formal": "JSON",
+        "dominicanismo": "Un JSON (leído: yeison)",
+        "definicion": "Formato de texto ligero para el intercambio de datos.",
+        "ejemplo_uso": "El API me está devolviendo toda la información de los clientes en un JSON.",
+        "categoria": "Desarrollo de Software"
+    },
+    {
+        "termino_formal": "Librería (Library)",
+        "dominicanismo": "Una librería",
+        "definicion": "Conjunto de implementaciones funcionales, codificadas en un lenguaje de programación, que ofrece una interfaz bien definida para la funcionalidad que se invoca.",
+        "ejemplo_uso": "No te pongas a inventar la rueda, busca una librería que ya haga eso y úsala.",
+        "categoria": "Desarrollo de Software"
+    },
+    {
+        "termino_formal": "Merge (Fusión)",
+        "dominicanismo": "Hacer el merge, unir las ramas",
+        "definicion": "En control de versiones, proceso de combinar diferentes conjuntos de cambios.",
+        "ejemplo_uso": "Revisa bien que no haya conflictos antes de hacer el merge de tu branch al principal.",
+        "categoria": "Desarrollo de Software"
+    },
+    {
+        "termino_formal": "Programación Orientada a Objetos",
+        "dominicanismo": "POO, Programación Orientada a Objetos",
+        "definicion": "Paradigma de programación que se basa en el concepto de 'objetos', que pueden contener datos y código.",
+        "ejemplo_uso": "Para este sistema vamos a usar Java, que es un lenguaje fuerte en Programación Orientada a Objetos.",
+        "categoria": "Desarrollo de Software"
+    },
+    {
+        "termino_formal": "Pull Request",
+        "dominicanismo": "Un pull request, un PR (leído: pi-ar)",
+        "definicion": "Mecanismo para que un desarrollador notifique a los miembros del equipo que ha completado una función.",
+        "ejemplo_uso": "Ya terminé mi parte, te mandé un pull request para que me revises el código.",
+        "categoria": "Desarrollo de Software"
+    },
+    {
+        "termino_formal": "Query (Consulta)",
+        "dominicanismo": "El query, la consulta",
+        "definicion": "Solicitud de información a una base de datos.",
+        "ejemplo_uso": "Ese query a la base de datos dura demasiado, hay que ponerle un índice a esa tabla.",
+        "categoria": "Desarrollo de Software"
+    },
+    {
+        "termino_formal": "Repositorio",
+        "dominicanismo": "El repo",
+        "definicion": "Ubicación central en la que se almacenan y gestionan datos.",
+        "ejemplo_uso": "Sube todos tus cambios al repo de GitHub para que el equipo pueda ver tu trabajo.",
+        "categoria": "Desarrollo de Software"
+    },
+    {
+        "termino_formal": "SDK",
+        "dominicanismo": "El SDK (leído: es-de-ka)",
+        "definicion": "Kit de Desarrollo de Software; conjunto de herramientas de desarrollo de software que permite la creación de aplicaciones para un determinado sistema.",
+        "ejemplo_uso": "Para desarrollar para Android, tienes que bajarte el SDK oficial de Google.",
+        "categoria": "Desarrollo de Software"
+    },
+    {
+        "termino_formal": "SQL",
+        "dominicanismo": "SQL (leído: es-quiu-el o ese-cu-ele)",
+        "definicion": "Lenguaje de Dominio Específico utilizado en programación, diseñado para administrar, y recuperar información de sistemas de gestión de bases de datos relacionales.",
+        "ejemplo_uso": "Para sacar ese reporte, vas a tener que tirar un query en SQL directo a la base de datos.",
+        "categoria": "Desarrollo de Software"
+    },
+    {
+        "termino_formal": "Variable",
+        "dominicanismo": "Una variable",
+        "definicion": "Espacio en la memoria (del ordenador) donde se almacena un valor que puede cambiar durante la ejecución de un programa.",
+        "ejemplo_uso": "Declaré una variable para guardar el nombre del usuario ahí.",
+        "categoria": "Desarrollo de Software"
+    },
+    {
+        "termino_formal": "Versión de Control",
+        "dominicanismo": "Control de versiones, el Git",
+        "definicion": "Sistema que registra los cambios realizados en un archivo o conjunto de archivos a lo largo del tiempo de modo que se puedan recuperar versiones específicas más adelante.",
+        "ejemplo_uso": "Gracias al control de versiones pudimos volver para atrás cuando el código nuevo dañó todo.",
+        "categoria": "Desarrollo de Software"
+    },
+    {
+        "termino_formal": "Ancho de Banda (Bandwidth)",
+        "dominicanismo": "El ancho de banda",
+        "definicion": "Cantidad máxima de datos que se pueden transmitir a través de una conexión a Internet en un período de tiempo determinado.",
+        "ejemplo_uso": "Contrata el plan de más megas, que ese te da más ancho de banda para que el Netflix no se frise.",
+        "categoria": "Administración de Redes"
+    },
+    {
+        "termino_formal": "Cortafuegos (Firewall)",
+        "dominicanismo": "El firewall",
+        "definicion": "Dispositivo de seguridad de la red que monitorea el tráfico de red entrante y saliente y decide si permite o bloquea dicho tráfico en función de un conjunto definido de reglas de seguridad.",
+        "ejemplo_uso": "No puedo entrar a esa página de juegos, el firewall de la oficina la tiene bloqueada.",
+        "categoria": "Administración de Redes"
+    },
+    {
+        "termino_formal": "DHCP",
+        "dominicanismo": "El DHCP, el que reparte los IP",
+        "definicion": "Protocolo de red que permite a los nodos de una red IP obtener sus parámetros de configuración automáticamente.",
+        "ejemplo_uso": "Reinicia el router para que el DHCP te dé una dirección IP nueva y se te arregle el internet.",
+        "categoria": "Administración de Redes"
+    },
+    {
+        "termino_formal": "DNS",
+        "dominicanismo": "El DNS",
+        "definicion": "Sistema de nomenclatura jerárquico descentralizado para dispositivos conectados a redes IP como Internet o una red privada.",
+        "ejemplo_uso": "A veces el internet se pone lento y lo que hay es que cambiar los DNS por los de Google.",
+        "categoria": "Administración de Redes"
+    },
+    {
+        "termino_formal": "Dirección MAC",
+        "dominicanismo": "La MAC, la dirección MAC",
+        "definicion": "Identificador único que los fabricantes de hardware asignan a la tarjeta o dispositivo de red.",
+        "ejemplo_uso": "Para darte acceso al WiFi de la empresa, necesito que me mandes la MAC de tu laptop.",
+        "categoria": "Administración de Redes"
+    },
+    {
+        "termino_formal": "Dirección IP",
+        "dominicanismo": "El IP (leído: ai-pí)",
+        "definicion": "Etiqueta numérica que identifica, de manera lógica y jerárquica, a una interfaz en red de un dispositivo que utilice el protocolo IP.",
+        "ejemplo_uso": "Pásame el IP de la impresora para poder agregarla a mi computadora.",
+        "categoria": "Administración de Redes"
+    },
+    {
+        "termino_formal": "Ethernet",
+        "dominicanismo": "El cable de red, el cable de ethernet",
+        "definicion": "Estándar de redes de área local para computadoras.",
+        "ejemplo_uso": "El WiFi está fallando mucho, mejor conéctate directo con el cable de red.",
+        "categoria": "Administración de Redes"
+    },
+    {
+        "termino_formal": "Gateway (Puerta de Enlace)",
+        "dominicanismo": "El gateway",
+        "definicion": "Dispositivo en una red de comunicaciones que sirve como punto de entrada a otra red.",
+        "ejemplo_uso": "La computadora dice que no se puede conectar al gateway, por eso no tienes internet.",
+        "categoria": "Administración de Redes"
+    },
+    {
+        "termino_formal": "Hub (Concentrador)",
+        "dominicanismo": "El hub, el aparatico viejo (ya casi no se usa)",
+        "definicion": "Dispositivo de red que permite conectar varios dispositivos Ethernet entre sí.",
+        "ejemplo_uso": "Eso es un hub, no un switch; por eso la red es tan lenta, porque le manda todo a todo el mundo.",
+        "categoria": "Administración de Redes"
+    },
+    {
+        "termino_formal": "LAN (Red de Área Local)",
+        "dominicanismo": "La red local, la LAN (leído: lan)",
+        "definicion": "Red de computadoras que abarca un área reducida a una casa, un departamento o un edificio.",
+        "ejemplo_uso": "Todas las computadoras de este piso están conectadas a la misma red local.",
+        "categoria": "Administración de Redes"
+    },
+    {
+        "termino_formal": "Latencia",
+        "dominicanismo": "La latencia, el ping",
+        "definicion": "Suma de retardos temporales dentro de una red.",
+        "ejemplo_uso": "Estoy perdiendo en el juego porque tengo el ping altísimo, la latencia no me deja jugar bien.",
+        "categoria": "Administración de Redes"
+    },
+    {
+        "termino_formal": "Modelo OSI",
+        "dominicanismo": "El modelo OSI",
+        "definicion": "Modelo de interconexión de sistemas abiertos, es un modelo conceptual creado por la Organización Internacional para la Estandarización que permite que diversos sistemas de comunicación se comuniquen usando protocolos estándar.",
+        "ejemplo_uso": "En la universidad me pusieron a aprenderme de memoria las 7 capas del modelo OSI.",
+        "categoria": "Administración de Redes"
+    },
+    {
+        "termino_formal": "NAT",
+        "dominicanismo": "El NAT",
+        "definicion": "Traducción de Direcciones de Red; mecanismo utilizado por routers IP para intercambiar paquetes entre dos redes que asignan mutuamente direcciones incompatibles.",
+        "ejemplo_uso": "El router usa NAT para que todas las computadoras de la casa puedan salir a internet con un solo IP.",
+        "categoria": "Administración de Redes"
+    },
+    {
+        "termino_formal": "Paquete (Packet)",
+        "dominicanismo": "Un paquete",
+        "definicion": "Pequeño bloque de información en una red de computadoras.",
+        "ejemplo_uso": "Cuando navegas por internet, la información viaja en miles de paquetitos de datos.",
+        "categoria": "Administración de Redes"
+    },
+    {
+        "termino_formal": "Protocolo",
+        "dominicanismo": "Un protocolo",
+        "definicion": "Conjunto de reglas que rigen el intercambio de datos entre dos o más sistemas de una red.",
+        "ejemplo_uso": "El protocolo de internet es el que permite que todas las computadoras del mundo se entiendan.",
+        "categoria": "Administración de Redes"
+    },
+    {
+        "termino_formal": "Proxy",
+        "dominicanismo": "El proxy",
+        "definicion": "Servidor que actúa como intermediario entre las peticiones de recursos que realiza un cliente a otro servidor.",
+        "ejemplo_uso": "En mi trabajo anterior, había que configurar un proxy en el navegador para poder tener internet.",
+        "categoria": "Administración de Redes"
+    },
+    {
+        "termino_formal": "Puerto",
+        "dominicanismo": "Un puerto",
+        "definicion": "Punto final de comunicación.",
+        "ejemplo_uso": "El firewall tiene el puerto 25 bloqueado, por eso no puedes mandar correos desde Outlook.",
+        "categoria": "Administración de Redes"
+    },
+    {
+        "termino_formal": "Router (Enrutador)",
+        "dominicanismo": "El router (leído: ráuter)",
+        "definicion": "Dispositivo que proporciona conectividad a nivel de red o nivel tres en el modelo OSI.",
+        "ejemplo_uso": "Se fue el internet. Desconecta el router, espera diez segundos y conéctalo otra vez.",
+        "categoria": "Administración de Redes"
+    },
+    {
+        "termino_formal": "Subnetting (Subredes)",
+        "dominicanismo": "Hacer subredes, subnetear",
+        "definicion": "Proceso de dividir una red IP en subredes más pequeñas.",
+        "ejemplo_uso": "Hay que hacer subredes para organizar mejor la red y separar el departamento de contabilidad.",
+        "categoria": "Administración de Redes"
+    },
+    {
+        "termino_formal": "Switch (Conmutador)",
+        "dominicanismo": "El switch (leído: suitch)",
+        "definicion": "Dispositivo de interconexión utilizado para conectar equipos en red formando lo que se conoce como una red de área local (LAN) y cuyas especificaciones técnicas siguen el estándar conocido como Ethernet.",
+        "ejemplo_uso": "Se dañó el switch del cuarto de servidores y ahora media oficina se quedó sin conexión.",
+        "categoria": "Administración de Redes"
+    },
+    {
+        "termino_formal": "TCP/IP",
+        "dominicanismo": "TCP/IP (leído: te-ce-pe-i-pe)",
+        "definicion": "Conjunto de protocolos de red en los que se basa Internet y que permiten la transmisión de datos entre redes de computadoras.",
+        "ejemplo_uso": "TCP/IP son los protocolos que hacen que el internet funcione, son como el papá y la mamá de la red.",
+        "categoria": "Administración de Redes"
+    },
+    {
+        "termino_formal": "Topología de Red",
+        "dominicanismo": "La topología, cómo está montada la red",
+        "definicion": "Disposición física o lógica en la que los dispositivos o nodos de una red se interconectan entre sí sobre un medio de comunicación.",
+        "ejemplo_uso": "La topología de esta oficina es en estrella, todos los cables llegan a un switch central.",
+        "categoria": "Administración de Redes"
+    },
+    {
+        "termino_formal": "VLAN (Virtual LAN)",
+        "dominicanismo": "Una VLAN (leído: ví-lan)",
+        "definicion": "Método para crear redes lógicas independientes dentro de una misma red física.",
+        "ejemplo_uso": "Pusimos a los invitados en una VLAN aparte para que tengan internet pero no puedan ver los servidores.",
+        "categoria": "Administración de Redes"
+    },
+    {
+        "termino_formal": "VPN",
+        "dominicanismo": "El VPN (leído: ve-pe-ene)",
+        "definicion": "Red privada virtual que crea una conexión de red privada entre dispositivos a través de Internet.",
+        "ejemplo_uso": "Para trabajar desde la casa, primero tienes que conectarte al VPN de la empresa.",
+        "categoria": "Administración de Redes"
+    },
+    {
+        "termino_formal": "WAN (Red de Área Amplia)",
+        "dominicanismo": "La WAN (leído: uan)",
+        "definicion": "Red de computadoras que une varias redes locales (LAN), aunque sus miembros no estén todos en una misma ubicación física.",
+        "ejemplo_uso": "La conexión entre la oficina de Santo Domingo y la de Santiago se hace a través de la WAN.",
+        "categoria": "Administración de Redes"
+    }
+]

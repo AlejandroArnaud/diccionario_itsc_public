@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes">
+    <meta name="description" content="Diccionario del ITSC - Herramienta interactiva que conecta terminología académica formal con jerga profesional dominicana">
+    <meta name="keywords" content="ITSC, diccionario técnico, terminología, República Dominicana, educación técnica">
+    <meta name="author" content="Instituto Técnico Superior Comunitario">
+    
+    <!-- Mobile-specific meta tags -->
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <meta name="apple-mobile-web-app-title" content="Diccionario ITSC">
+    <meta name="theme-color" content="#005A9C">
+    <meta name="msapplication-TileColor" content="#005A9C">
+    <meta name="msapplication-navbutton-color" content="#005A9C">
+    <title>Diccionario Técnico Comunitario ITSC</title>
+    
+    <!-- Favicon placeholder -->
+    <link rel="icon" type="image/png" href="logo.png">
+    
+    <!-- CSS -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Header Section -->
+    <header class="header">
+        <div class="header-container">
+            <!-- ITSC Logo placeholder -->
+            <div class="logo-container">
+                <img src="logo.png" alt="Logo ITSC" class="logo" />
+                <h1 class="app-title">Diccionario del ITSC</h1>
+            </div>
+            
+            <!-- Search and Theme Row -->
+            <div class="search-theme-row">
+                <!-- Search Field -->
+                <div class="search-container">
+                    <input 
+                        type="text" 
+                        id="searchInput" 
+                        class="search-input" 
+                        placeholder="Buscar términos técnicos..."
+                        aria-label="Buscar términos técnicos"
+                        aria-describedby="searchStatus"
+                        autocomplete="off"
+                        spellcheck="false"
+                    />
+                    <button type="button" class="search-clear" id="searchClear" aria-label="Limpiar búsqueda" tabindex="-1">
+                        ×
+                    </button>
+                    <div id="searchStatus" class="sr-only" aria-live="polite" aria-atomic="true"></div>
+                </div>
+                
+                <!-- Theme Switcher -->
+                <div class="theme-switcher">
+                    <button type="button" class="theme-toggle" id="themeToggle" aria-label="Cambiar tema" aria-pressed="false">
+                        <span class="theme-icon theme-icon-light" aria-hidden="true">☀️</span>
+                        <span class="theme-icon theme-icon-dark" aria-hidden="true">🌙</span>
+                        <span class="sr-only" id="themeStatus">Tema oscuro activo</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content Area -->
+    <main class="main-content" id="mainContent">
+        <!-- Loading State -->
+        <div class="loading-state" id="loadingState">
+            <p>Cargando diccionario técnico...</p>
+        </div>
+
+        <!-- Error State -->
+        <div class="error-state" id="errorState" style="display: none;">
+            <p>Error al cargar el diccionario. Por favor, intenta nuevamente.</p>
+            <button type="button" class="retry-button" id="retryButton">Reintentar</button>
+        </div>
+
+        <!-- Academic Areas Grid -->
+        <section class="areas-section" id="areasSection" style="display: none;">
+            <h2 class="section-title">Áreas Académicas</h2>
+            <div class="areas-grid" id="areasGrid">
+                <!-- Academic Area Cards -->
+                <div class="area-card" data-area="salud" role="button" tabindex="0" aria-label="Explorar términos del área de Salud">
+                    <div class="area-card-icon">
+                        <span class="area-icon">🏥</span>
+                    </div>
+                    <div class="area-card-content">
+                        <h3 class="area-card-title">Salud</h3>
+                        <p class="area-card-description">Terminología médica y de ciencias de la salud</p>
+                    </div>
+                </div>
+
+                <div class="area-card" data-area="informatica" role="button" tabindex="0" aria-label="Explorar términos del área de Informática">
+                    <div class="area-card-icon">
+                        <span class="area-icon">💻</span>
+                    </div>
+                    <div class="area-card-content">
+                        <h3 class="area-card-title">Informática</h3>
+                        <p class="area-card-description">Tecnología, programación y sistemas computacionales</p>
+                    </div>
+                </div>
+
+                <div class="area-card" data-area="artes" role="button" tabindex="0" aria-label="Explorar términos del área de Artes">
+                    <div class="area-card-icon">
+                        <span class="area-icon">🎨</span>
+                    </div>
+                    <div class="area-card-content">
+                        <h3 class="area-card-title">Artes</h3>
+                        <p class="area-card-description">Diseño, creatividad y expresión artística</p>
+                    </div>
+                </div>
+
+                <div class="area-card" data-area="hosteleria" role="button" tabindex="0" aria-label="Explorar términos del área de Turismo">
+                    <div class="area-card-icon">
+                        <span class="area-icon">🏖️</span>
+                    </div>
+                    <div class="area-card-content">
+                        <h3 class="area-card-title">Turismo</h3>
+                        <p class="area-card-description">Gastronomía, turismo y servicios hoteleros</p>
+                    </div>
+                </div>
+
+                <div class="area-card" data-area="construccion" role="button" tabindex="0" aria-label="Explorar términos del área de Construcción">
+                    <div class="area-card-icon">
+                        <span class="area-icon">🏗️</span>
+                    </div>
+                    <div class="area-card-content">
+                        <h3 class="area-card-title">Construcción</h3>
+                        <p class="area-card-description">Arquitectura, ingeniería civil y edificación</p>
+                    </div>
+                </div>
+
+                <div class="area-card" data-area="industrial" role="button" tabindex="0" aria-label="Explorar términos del área Industrial">
+                    <div class="area-card-icon">
+                        <span class="area-icon">⚙️</span>
+                    </div>
+                    <div class="area-card-content">
+                        <h3 class="area-card-title">Industrial</h3>
+                        <p class="area-card-description">Procesos industriales y manufactura</p>
+                    </div>
+                </div>
+
+                <div class="area-card" data-area="electromecanica" role="button" tabindex="0" aria-label="Explorar términos del área de Electromecánica">
+                    <div class="area-card-icon">
+                        <span class="area-icon">⚡</span>
+                    </div>
+                    <div class="area-card-content">
+                        <h3 class="area-card-title">Electromecánica</h3>
+                        <p class="area-card-description">Sistemas eléctricos y mecánicos</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Search Results -->
+        <section class="results-section" id="resultsSection" style="display: none;">
+            <div class="results-header">
+                <div class="results-navigation">
+                    <button type="button" class="back-button" id="backButton" style="display: none;" aria-label="Volver a áreas académicas">
+                        ← Volver a áreas
+                    </button>
+                </div>
+                <h2 class="results-title" id="resultsTitle">Resultados de búsqueda</h2>
+                <p class="results-count" id="resultsCount"></p>
+            </div>
+            <div class="results-grid" id="resultsGrid">
+                <!-- Search results will be dynamically generated -->
+            </div>
+            <div class="no-results" id="noResults" style="display: none;">
+                <p>No se encontraron términos que coincidan con tu búsqueda.</p>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-container">
+            <p>&copy; 2025 Instituto Técnico Superior Comunitario (ITSC). Todos los derechos reservados.</p>
+        </div>
+    </footer>
+
+    <!-- JavaScript -->
+    <script src="app.js"></script>
+</body>
+</html>

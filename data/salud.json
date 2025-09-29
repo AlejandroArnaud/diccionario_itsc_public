@@ -1,0 +1,758 @@
+[
+    {
+        "termino_formal": "Hipertensión arterial",
+        "dominicanismo": "Presión alta",
+        "definicion": "Condición médica caracterizada por el aumento sostenido de la presión arterial por encima de los valores normales",
+        "ejemplo_uso": "El paciente fue diagnosticado con presión alta y debe seguir una dieta baja en sodio",
+        "categoria": "Condiciones Médicas Comunes"
+    },
+    {
+        "termino_formal": "Diabetes mellitus",
+        "dominicanismo": "Azúcar alta",
+        "definicion": "Grupo de trastornos metabólicos caracterizados por niveles elevados de glucosa en sangre",
+        "ejemplo_uso": "Mi abuela tiene azúcar alta desde hace años y se cuida mucho con la comida",
+        "categoria": "Condiciones Médicas Comunes"
+    },
+    {
+        "termino_formal": "Infarto agudo de miocardio",
+        "dominicanismo": "Ataque al corazón",
+        "definicion": "Muerte del músculo cardíaco debido a la falta de irrigación sanguínea",
+        "ejemplo_uso": "Lo llevaron de emergencia porque le dio un ataque al corazón",
+        "categoria": "Condiciones Médicas Comunes"
+    },
+    {
+        "termino_formal": "Accidente cerebrovascular",
+        "dominicanismo": "Derrame cerebral",
+        "definicion": "Interrupción del flujo sanguíneo al cerebro que causa daño a las células cerebrales",
+        "ejemplo_uso": "Después del derrame cerebral tuvo que hacer mucha terapia para recuperarse",
+        "categoria": "Condiciones Médicas Comunes"
+    },
+    {
+        "termino_formal": "Insuficiencia renal",
+        "dominicanismo": "Riñones dañados",
+        "definicion": "Pérdida de la función de los riñones para filtrar desechos y exceso de agua de la sangre",
+        "ejemplo_uso": "Por tener los riñones dañados tiene que ir a diálisis tres veces por semana",
+        "categoria": "Condiciones Médicas Comunes"
+    },
+    {
+        "termino_formal": "Neumonía",
+        "dominicanismo": "Pulmonía",
+        "definicion": "Infección que inflama los sacos de aire de uno o ambos pulmones",
+        "ejemplo_uso": "El niño estuvo hospitalizado una semana por la pulmonía que le dio",
+        "categoria": "Condiciones Médicas Comunes"
+    },
+    {
+        "termino_formal": "Gastroenteritis",
+        "dominicanismo": "Dolor de barriga",
+        "definicion": "Inflamación del estómago y los intestinos que causa diarrea y vómitos",
+        "ejemplo_uso": "Toda la familia se enfermó con dolor de barriga después de comer en ese lugar",
+        "categoria": "Condiciones Médicas Comunes"
+    },
+    {
+        "termino_formal": "Cefalea tensional",
+        "dominicanismo": "Dolor de cabeza",
+        "definicion": "Tipo más común de dolor de cabeza causado por tensión muscular",
+        "ejemplo_uso": "El estrés del trabajo le está dando mucho dolor de cabeza últimamente",
+        "categoria": "Condiciones Médicas Comunes"
+    },
+    {
+        "termino_formal": "Asepsia",
+        "dominicanismo": "La asepsia, limpiar bien, que todo esté estéril",
+        "definicion": "",
+        "ejemplo_uso": "Hay que mantener una buena asepsia al curar esa herida para que no se vaya a infectar.",
+        "categoria": "Enfermería"
+    },
+    {
+        "termino_formal": "Anamnesis",
+        "dominicanismo": "Hacerle la historia, el interrogatorio",
+        "definicion": "",
+        "ejemplo_uso": "Siéntate con la paciente y hazle la historia completa, pregúntale de todo, hasta lo que no come.",
+        "categoria": "Enfermería"
+    },
+    {
+        "termino_formal": "Catéter",
+        "dominicanismo": "El catéter, el suero (si es IV), la sonda (si es urinario)",
+        "definicion": "",
+        "ejemplo_uso": "Hay que ponerle un suero a ese paciente que llegó deshidratado.",
+        "categoria": "Enfermería"
+    },
+    {
+        "termino_formal": "Cianosis",
+        "dominicanismo": "Ponerse morado, estar azul",
+        "definicion": "",
+        "ejemplo_uso": "¡Llame al doctor, que el niño se está poniendo morado y no respira bien!.",
+        "categoria": "Enfermería"
+    },
+    {
+        "termino_formal": "Cuidados Paliativos",
+        "dominicanismo": "Cuidados paliativos, manejo del dolor",
+        "definicion": "",
+        "ejemplo_uso": "Ya la enfermedad está muy avanzada, vamos a enfocarnos en el manejo del dolor para que no sufra.",
+        "categoria": "Enfermería"
+    },
+    {
+        "termino_formal": "Desbridamiento",
+        "dominicanismo": "Limpiar la herida, quitarle lo malo",
+        "definicion": "",
+        "ejemplo_uso": "Esa úlcera tiene mucho tejido muerto, hay que limpiarle bien la herida para que pueda sanar.",
+        "categoria": "Enfermería"
+    },
+    {
+        "termino_formal": "Diagnóstico de Enfermería",
+        "dominicanismo": "El diagnóstico de enfermería",
+        "definicion": "",
+        "ejemplo_uso": "El diagnóstico de enfermería es riesgo de caída, porque el paciente está muy débil.",
+        "categoria": "Enfermería"
+    },
+    {
+        "termino_formal": "Edema",
+        "dominicanismo": "Hinchado, la hinchazón",
+        "definicion": "",
+        "ejemplo_uso": "Tiene los pies y las piernas hinchadas porque está reteniendo mucho líquido.",
+        "categoria": "Enfermería"
+    },
+    {
+        "termino_formal": "Escala de Glasgow",
+        "dominicanismo": "El Glasgow",
+        "definicion": "",
+        "ejemplo_uso": "Hay que hacerle el Glasgow cada hora para ver si el paciente está despertando del golpe.",
+        "categoria": "Enfermería"
+    },
+    {
+        "termino_formal": "Escaras (Úlceras por Presión)",
+        "dominicanismo": "Las llagas, estar escarado",
+        "definicion": "",
+        "ejemplo_uso": "Hay que mover a ese paciente cada dos horas para que no se le hagan llagas en la espalda.",
+        "categoria": "Enfermería"
+    },
+    {
+        "termino_formal": "Flebitis",
+        "dominicanismo": "La vena inflamada, la vena ida",
+        "definicion": "",
+        "ejemplo_uso": "Quítale el suero de ese brazo, que tiene la vena inflamada y le duele mucho.",
+        "categoria": "Enfermería"
+    },
+    {
+        "termino_formal": "Hematuria",
+        "dominicanismo": "Orinar sangre, sangre en la orina",
+        "definicion": "",
+        "ejemplo_uso": "El paciente está preocupado porque dice que desde anoche está orinando sangre.",
+        "categoria": "Enfermería"
+    },
+    {
+        "termino_formal": "Hemodinámica",
+        "dominicanismo": "La hemodinamia, la presión y el corazón",
+        "definicion": "",
+        "ejemplo_uso": "Hay que mantenerle la hemodinamia estable, que no se le caiga la presión.",
+        "categoria": "Enfermería"
+    },
+    {
+        "termino_formal": "PAE (Proceso de Atención)",
+        "dominicanismo": "El PAE, el plan de cuido",
+        "definicion": "",
+        "ejemplo_uso": "Revisa el plan de cuido del paciente a ver qué es lo que toca hacerle en este turno.",
+        "categoria": "Enfermería"
+    },
+    {
+        "termino_formal": "Parenteral",
+        "dominicanismo": "Inyectado, por la vena, puyao",
+        "definicion": "",
+        "ejemplo_uso": "Ese antibiótico hay que ponérselo por la vena, porque oral no le va a hacer nada.",
+        "categoria": "Enfermería"
+    },
+    {
+        "termino_formal": "Patógeno",
+        "dominicanismo": "Un microbio, una bacteria, un bicho",
+        "definicion": "",
+        "ejemplo_uso": "Se hizo un cultivo y se encontró la bacteria que le está causando la infección.",
+        "categoria": "Enfermería"
+    },
+    {
+        "termino_formal": "Posición de Fowler",
+        "dominicanismo": "Sentarlo en la cama, subirle la cama",
+        "definicion": "",
+        "ejemplo_uso": "Súbele la cama al paciente para que quede sentadito, así puede respirar mejor.",
+        "categoria": "Enfermería"
+    },
+    {
+        "termino_formal": "Saturación de Oxígeno",
+        "dominicanismo": "La saturación, medirle el oxígeno",
+        "definicion": "",
+        "ejemplo_uso": "La saturación le bajó a 85, ponle una mascarilla de oxígeno de una vez.",
+        "categoria": "Enfermería"
+    },
+    {
+        "termino_formal": "Sepsis",
+        "dominicanismo": "Una infección regada, sepsis",
+        "definicion": "",
+        "ejemplo_uso": "La infección se le regó por todo el cuerpo y ahora el paciente está en intensivos.",
+        "categoria": "Enfermería"
+    },
+    {
+        "termino_formal": "Signos Vitales",
+        "dominicanismo": "Tomarle los signos",
+        "definicion": "",
+        "ejemplo_uso": "Enfermera, vaya y tómale los signos al paciente de la cama 5, a ver cómo amaneció.",
+        "categoria": "Enfermería"
+    },
+    {
+        "termino_formal": "Sonda Nasogástrica",
+        "dominicanismo": "La sonda por la nariz",
+        "definicion": "",
+        "ejemplo_uso": "Al abuelo le pusieron una sonda por la nariz para poder pasarle la comida.",
+        "categoria": "Enfermería"
+    },
+    {
+        "termino_formal": "Triage",
+        "dominicanismo": "El triage (leído: tri-ash), la clasificación",
+        "definicion": "",
+        "ejemplo_uso": "En la emergencia, primero te hacen un triage para ver si tu caso es grave o si puedes esperar.",
+        "categoria": "Enfermería"
+    },
+    {
+        "termino_formal": "Venopunción",
+        "dominicanismo": "Canalizarlo, cogerle una vena, ponerle el suero",
+        "definicion": "",
+        "ejemplo_uso": "Ese paciente está difícil de canalizar, llama a la jefa de enfermeras que es una dura cogiendo venas.",
+        "categoria": "Enfermería"
+    },
+    {
+        "termino_formal": "Vía Aérea Permeable",
+        "dominicanismo": "Que respire bien, que no se esté ahogando",
+        "definicion": "",
+        "ejemplo_uso": "Lo primero es asegurarte de que el paciente esté respirando bien y no tenga nada en la garganta.",
+        "categoria": "Enfermería"
+    },
+    {
+        "termino_formal": "Valoración Cefalocaudal",
+        "dominicanismo": "Revisarlo de la cabeza a los pies",
+        "definicion": "",
+        "ejemplo_uso": "Hay que revisarlo completo, de la cabeza a los pies, para que no se nos escape ninguna lesión.",
+        "categoria": "Enfermería"
+    },
+    {
+        "termino_formal": "Angiografía",
+        "dominicanismo": "El cateterismo, la angiografía",
+        "definicion": "",
+        "ejemplo_uso": "Le van a hacer un cateterismo para ver cómo están las arterias del corazón.",
+        "categoria": "Imágenes Médicas"
+    },
+    {
+        "termino_formal": "Artefacto",
+        "dominicanismo": "Una mancha, una sombra rara, un artefacto",
+        "definicion": "",
+        "ejemplo_uso": "Repite la placa del tórax, que salió movida y se ve una mancha rara.",
+        "categoria": "Imágenes Médicas"
+    },
+    {
+        "termino_formal": "Bario",
+        "dominicanismo": "El bario, el trago de contraste",
+        "definicion": "",
+        "ejemplo_uso": "Para el estudio del estómago, tiene que tomarse un trago de bario que no sabe muy bueno.",
+        "categoria": "Imágenes Médicas"
+    },
+    {
+        "termino_formal": "Braquiterapia",
+        "dominicanismo": "La radioterapia interna, braquiterapia",
+        "definicion": "",
+        "ejemplo_uso": "Para el cáncer de próstata le van a poner un tratamiento de radioterapia interna.",
+        "categoria": "Imágenes Médicas"
+    },
+    {
+        "termino_formal": "Contraste (Medio de)",
+        "dominicanismo": "El contraste",
+        "definicion": "",
+        "ejemplo_uso": "Para la tomografía de mañana tiene que venir en ayuna, porque le van a inyectar contraste.",
+        "categoria": "Imágenes Médicas"
+    },
+    {
+        "termino_formal": "Densitometría Ósea",
+        "dominicanismo": "La densitometría, el estudio de los huesos",
+        "definicion": "",
+        "ejemplo_uso": "El doctor le indicó una densitometría para ver si tiene los huesos débiles por la menopausia.",
+        "categoria": "Imágenes Médicas"
+    },
+    {
+        "termino_formal": "Dosímetro",
+        "dominicanismo": "El dosímetro, el aparatico de la radiación",
+        "definicion": "",
+        "ejemplo_uso": "Todo el que trabaja en rayos X tiene que usar su dosímetro en el pecho.",
+        "categoria": "Imágenes Médicas"
+    },
+    {
+        "termino_formal": "Ecografía (Ultrasonido)",
+        "dominicanismo": "La sonografía",
+        "definicion": "",
+        "ejemplo_uso": "La doctora le mandó a hacer una sonografía de la barriga para verle el hígado.",
+        "categoria": "Imágenes Médicas"
+    },
+    {
+        "termino_formal": "Fluoroscopia",
+        "dominicanismo": "Rayos X en vivo, la fluoroscopía",
+        "definicion": "",
+        "ejemplo_uso": "Usaron los rayos X en vivo para guiar al doctor mientras le ponía el catéter.",
+        "categoria": "Imágenes Médicas"
+    },
+    {
+        "termino_formal": "Gantry",
+        "dominicanismo": "El túnel, el aro de la máquina",
+        "definicion": "",
+        "ejemplo_uso": "No se asuste, ahora va a pasar por el túnel de la máquina de tomografía, no se mueva.",
+        "categoria": "Imágenes Médicas"
+    },
+    {
+        "termino_formal": "Isótopo Radiactivo",
+        "dominicanismo": "El isótopo, el líquido radioactivo",
+        "definicion": "",
+        "ejemplo_uso": "Le van a inyectar un líquido radioactivo para hacerle un estudio de los huesos.",
+        "categoria": "Imágenes Médicas"
+    },
+    {
+        "termino_formal": "Mamografía",
+        "dominicanismo": "La mamografía",
+        "definicion": "",
+        "ejemplo_uso": "Toda mujer después de los 40 tiene que hacerse su mamografía todos los años, ¡no se descuide!.",
+        "categoria": "Imágenes Médicas"
+    },
+    {
+        "termino_formal": "Medicina Nuclear",
+        "dominicanismo": "Medicina nuclear",
+        "definicion": "",
+        "ejemplo_uso": "Ese estudio de la tiroides lo hacen en el departamento de medicina nuclear.",
+        "categoria": "Imágenes Médicas"
+    },
+    {
+        "termino_formal": "Pixel",
+        "dominicanismo": "El píxel, el puntico de la imagen",
+        "definicion": "",
+        "ejemplo_uso": "Mientras más píxeles tiene la imagen, más nítida se ve.",
+        "categoria": "Imágenes Médicas"
+    },
+    {
+        "termino_formal": "Plano Axial",
+        "dominicanismo": "Un corte transversal, un corte así (haciendo gesto horizontal)",
+        "definicion": "",
+        "ejemplo_uso": "La tomografía te tira muchísimos cortes transversales de la cabeza.",
+        "categoria": "Imágenes Médicas"
+    },
+    {
+        "termino_formal": "Plano Coronal",
+        "dominicanismo": "Un corte de frente",
+        "definicion": "",
+        "ejemplo_uso": "En el corte de frente se puede ver mejor si el tumor se ha regado para los lados.",
+        "categoria": "Imágenes Médicas"
+    },
+    {
+        "termino_formal": "Plano Sagital",
+        "dominicanismo": "Un corte de lado",
+        "definicion": "",
+        "ejemplo_uso": "Pídele al técnico que te imprima también una vista con un corte de lado.",
+        "categoria": "Imágenes Médicas"
+    },
+    {
+        "termino_formal": "Protección Radiológica",
+        "dominicanismo": "La protección, el chaleco de plomo",
+        "definicion": "",
+        "ejemplo_uso": "Si vas a estar en la sala, tienes que ponerte el chaleco de plomo de protección.",
+        "categoria": "Imágenes Médicas"
+    },
+    {
+        "termino_formal": "Radiación Ionizante",
+        "dominicanismo": "La radiación, los rayos",
+        "definicion": "",
+        "ejemplo_uso": "Por eso es que las embarazadas no se pueden hacer placas, por la radiación.",
+        "categoria": "Imágenes Médicas"
+    },
+    {
+        "termino_formal": "Radiofármaco",
+        "dominicanismo": "El radiofármaco, el contraste radioactivo",
+        "definicion": "",
+        "ejemplo_uso": "Tiene que esperar una hora después que le pongan el contraste radioactivo para que se le riegue en el cuerpo.",
+        "categoria": "Imágenes Médicas"
+    },
+    {
+        "termino_formal": "Radiopaco",
+        "dominicanismo": "Que se ve blanco",
+        "definicion": "",
+        "ejemplo_uso": "El hueso se ve blanco en una placa porque no deja pasar los rayos.",
+        "categoria": "Imágenes Médicas"
+    },
+    {
+        "termino_formal": "Radiolúcido",
+        "dominicanismo": "Que se ve negro",
+        "definicion": "",
+        "ejemplo_uso": "Los pulmones se ven negros en la radiografía porque están llenos de aire.",
+        "categoria": "Imágenes Médicas"
+    },
+    {
+        "termino_formal": "Resonancia Magnética (RM)",
+        "dominicanismo": "La resonancia",
+        "definicion": "",
+        "ejemplo_uso": "La placa no enseñó nada, el ortopeda quiere que te hagas una resonancia de la rodilla.",
+        "categoria": "Imágenes Médicas"
+    },
+    {
+        "termino_formal": "Tomografía (TC)",
+        "dominicanismo": "La tomografía",
+        "definicion": "",
+        "ejemplo_uso": "Después del accidente lo llevaron de emergencia a hacerle una tomografía de la cabeza.",
+        "categoria": "Imágenes Médicas"
+    },
+    {
+        "termino_formal": "Voxel",
+        "dominicanismo": "El píxel en 3D",
+        "definicion": "",
+        "ejemplo_uso": "Las imágenes de la tomografía están hechas de miles de píxeles en 3D.",
+        "categoria": "Imágenes Médicas"
+    },
+    {
+        "termino_formal": "Biofilm (Placa Dental)",
+        "dominicanismo": "La placa, el sucio, la masilla",
+        "definicion": "",
+        "ejemplo_uso": "Si no usas el hilo dental, se te acumula mucho sucio entre los dientes.",
+        "categoria": "Higiene Dental"
+    },
+    {
+        "termino_formal": "Cálculo (Sarro)",
+        "dominicanismo": "El sarro",
+        "definicion": "",
+        "ejemplo_uso": "Tienes una cantidad de sarro increíble, por eso te sangran las encías.",
+        "categoria": "Higiene Dental"
+    },
+    {
+        "termino_formal": "Caries",
+        "dominicanismo": "Una picadura, un hoyo",
+        "definicion": "",
+        "ejemplo_uso": "El doctor encontró que tienes una picadura en la última muela de arriba.",
+        "categoria": "Higiene Dental"
+    },
+    {
+        "termino_formal": "Curetaje",
+        "dominicanismo": "Un curetaje, una limpieza profunda",
+        "definicion": "",
+        "ejemplo_uso": "La limpieza normal no es suficiente, hay que hacerte un curetaje para limpiar bien por debajo de la encía.",
+        "categoria": "Higiene Dental"
+    },
+    {
+        "termino_formal": "Detartraje",
+        "dominicanismo": "La limpieza, quitar el sarro",
+        "definicion": "",
+        "ejemplo_uso": "Vengo a hacerme la limpieza de los seis meses para quitarme todo el sarro.",
+        "categoria": "Higiene Dental"
+    },
+    {
+        "termino_formal": "Enfermedad Periodontal",
+        "dominicanismo": "Problema en las encías, la enfermedad de las encías",
+        "definicion": "",
+        "ejemplo_uso": "Si no te tratas ese problema en las encías, se te van a empezar a aflojar los dientes.",
+        "categoria": "Higiene Dental"
+    },
+    {
+        "termino_formal": "Erosión Dental",
+        "dominicanismo": "El desgaste, los dientes gastados",
+        "definicion": "",
+        "ejemplo_uso": "De tanto tomar refresco, tienes el esmalte de los dientes con mucho desgaste.",
+        "categoria": "Higiene Dental"
+    },
+    {
+        "termino_formal": "Flúor Tópico",
+        "dominicanismo": "Ponerle flúor",
+        "definicion": "",
+        "ejemplo_uso": "Después de la limpieza, siempre es bueno ponerle flúor a los niños para protegerlos de las picaduras.",
+        "categoria": "Higiene Dental"
+    },
+    {
+        "termino_formal": "Fosa y Fisura",
+        "dominicanismo": "Las rayitas de las muelas",
+        "definicion": "",
+        "ejemplo_uso": "Las picaduras casi siempre empiezan en las rayitas de las muelas de atrás.",
+        "categoria": "Higiene Dental"
+    },
+    {
+        "termino_formal": "Gingivitis",
+        "dominicanismo": "Las encías inflamadas, el sangrado de encías",
+        "definicion": "",
+        "ejemplo_uso": "Lo que tienes es una gingivitis, por eso las encías están rojas y te sangran cuando te cepillas.",
+        "categoria": "Higiene Dental"
+    },
+    {
+        "termino_formal": "Halitosis",
+        "dominicanismo": "Mal aliento, un bajo a boca",
+        "definicion": "",
+        "ejemplo_uso": "Ese mal aliento puede ser por el sarro o porque tienes una muela picada.",
+        "categoria": "Higiene Dental"
+    },
+    {
+        "termino_formal": "Índice de Placa",
+        "dominicanismo": "Medir el sucio, ver qué tan sucio está",
+        "definicion": "",
+        "ejemplo_uso": "La doctora te va a poner una pastillita que pinta el sucio para ver dónde no te estás cepillando bien.",
+        "categoria": "Higiene Dental"
+    },
+    {
+        "termino_formal": "Maloclusión",
+        "dominicanismo": "La mordida mala, los dientes torcidos",
+        "definicion": "",
+        "ejemplo_uso": "Tienes que ponerte braces (frenos) porque tienes la mordida mala.",
+        "categoria": "Higiene Dental"
+    },
+    {
+        "termino_formal": "Odontograma",
+        "dominicanismo": "El mapa de la boca, la ficha",
+        "definicion": "",
+        "ejemplo_uso": "Déjame marcar en tu ficha que la muela de atrás necesita un empaste.",
+        "categoria": "Higiene Dental"
+    },
+    {
+        "termino_formal": "Periodontitis",
+        "dominicanismo": "Una infección en el hueso, periodontitis",
+        "definicion": "",
+        "ejemplo_uso": "El problema avanzó a periodontitis, ya estás perdiendo hueso y los dientes se están moviendo.",
+        "categoria": "Higiene Dental"
+    },
+    {
+        "termino_formal": "Profilaxis Dental",
+        "dominicanismo": "La limpieza",
+        "definicion": "",
+        "ejemplo_uso": "Llámame a la secretaria para que me ponga una cita para la limpieza.",
+        "categoria": "Higiene Dental"
+    },
+    {
+        "termino_formal": "Pulido Radicular",
+        "dominicanismo": "El raspado de la raíz",
+        "definicion": "",
+        "ejemplo_uso": "El curetaje incluye un raspado de la raíz para dejarla bien lisita y que la encía se pegue.",
+        "categoria": "Higiene Dental"
+    },
+    {
+        "termino_formal": "Recesión Gingival",
+        "dominicanismo": "Se te están subiendo las encías",
+        "definicion": "",
+        "ejemplo_uso": "Se te están subiendo las encías por cepillarte tan duro, por eso sientes sensibilidad.",
+        "categoria": "Higiene Dental"
+    },
+    {
+        "termino_formal": "Sellantes de Fosas y Fisuras",
+        "dominicanismo": "Los sellantes",
+        "definicion": "",
+        "ejemplo_uso": "A los niños hay que ponerles sellantes en las muelitas nuevas para que no se les piquen.",
+        "categoria": "Higiene Dental"
+    },
+    {
+        "termino_formal": "Sialorrea",
+        "dominicanismo": "Babear mucho, mucha saliva",
+        "definicion": "",
+        "ejemplo_uso": "El niño está babeando mucho porque le están saliendo los dientes.",
+        "categoria": "Higiene Dental"
+    },
+    {
+        "termino_formal": "Sondaje Periodontal",
+        "dominicanismo": "Medir las encías",
+        "definicion": "",
+        "ejemplo_uso": "Vamos a medirte las encías con esta reglita para ver qué tan inflamadas están.",
+        "categoria": "Higiene Dental"
+    },
+    {
+        "termino_formal": "Tartrectomía",
+        "dominicanismo": "Quitar el sarro, la limpieza",
+        "definicion": "",
+        "ejemplo_uso": "El primer paso del tratamiento es quitar todo el sarro que tienes acumulado.",
+        "categoria": "Higiene Dental"
+    },
+    {
+        "termino_formal": "Xerostomía",
+        "dominicanismo": "La boca seca",
+        "definicion": "",
+        "ejemplo_uso": "Ese medicamento que estás tomando te puede estar causando la boca seca.",
+        "categoria": "Higiene Dental"
+    },
+    {
+        "termino_formal": "Cámara Pulpar",
+        "dominicanismo": "El nervio del diente",
+        "definicion": "",
+        "ejemplo_uso": "La picadura está tan profunda que ya llegó al nervio del diente, por eso te duele tanto.",
+        "categoria": "Higiene Dental"
+    },
+    {
+        "termino_formal": "Amalgama",
+        "dominicanismo": "El empaste de plata, el empaste negro",
+        "definicion": "",
+        "ejemplo_uso": "Ese empaste negro que tienes es de los de antes, ahora se ponen del color del diente.",
+        "categoria": "Higiene Dental"
+    },
+    {
+        "termino_formal": "Articulador",
+        "dominicanismo": "El articulador",
+        "definicion": "",
+        "ejemplo_uso": "Monta los modelos en el articulador para chequear que la mordida del paciente quede bien.",
+        "categoria": "Mecánica Dental"
+    },
+    {
+        "termino_formal": "Atache",
+        "dominicanismo": "El atache, el gancho escondido",
+        "definicion": "",
+        "ejemplo_uso": "Hazle la placa con un atache, que la paciente no quiere que se le vean los ganchos de metal.",
+        "categoria": "Mecánica Dental"
+    },
+    {
+        "termino_formal": "CAD/CAM Dental",
+        "dominicanismo": "El CAD/CAM, la máquina digital",
+        "definicion": "",
+        "ejemplo_uso": "Esa corona la diseñaron y la cortaron en la máquina digital, por eso quedó tan perfecta.",
+        "categoria": "Mecánica Dental"
+    },
+    {
+        "termino_formal": "Cerámica Feldespática",
+        "dominicanismo": "La porcelana, la cerámica",
+        "definicion": "",
+        "ejemplo_uso": "Después que tengas el metal listo, tienes que ponerle las capas de porcelana para darle el color.",
+        "categoria": "Mecánica Dental"
+    },
+    {
+        "termino_formal": "Cera de Modelar",
+        "dominicanismo": "La cera",
+        "definicion": "",
+        "ejemplo_uso": "Pásame la cera para empezar a modelar el diente que falta en el puente.",
+        "categoria": "Mecánica Dental"
+    },
+    {
+        "termino_formal": "Cofia",
+        "dominicanismo": "La cofia, el casquillo de metal",
+        "definicion": "",
+        "ejemplo_uso": "Prueba que el casquillo de metal le baje bien al paciente antes de ponerle la porcelana.",
+        "categoria": "Mecánica Dental"
+    },
+    {
+        "termino_formal": "Colado a la Cera Perdida",
+        "dominicanismo": "El colado, derretir el metal",
+        "definicion": "",
+        "ejemplo_uso": "Ya tengo los dientes en cera, ahora voy a ponerlos en el cilindro para hacer el colado.",
+        "categoria": "Mecánica Dental"
+    },
+    {
+        "termino_formal": "Corona",
+        "dominicanismo": "La funda",
+        "definicion": "",
+        "ejemplo_uso": "Doctor, después del tratamiento de canal, ¿cuándo me va a poner la funda de la muela?.",
+        "categoria": "Mecánica Dental"
+    },
+    {
+        "termino_formal": "Encerado Diagnóstico",
+        "dominicanismo": "El encerado, el modelo en cera",
+        "definicion": "",
+        "ejemplo_uso": "Hazme un encerado primero para que el paciente vea cómo le van a quedar los dientes.",
+        "categoria": "Mecánica Dental"
+    },
+    {
+        "termino_formal": "Esquelético",
+        "dominicanismo": "El esquelético, la placa de metal",
+        "definicion": "",
+        "ejemplo_uso": "El paciente quiere un esquelético porque dice que la placa de acrílico le da náuseas.",
+        "categoria": "Mecánica Dental"
+    },
+    {
+        "termino_formal": "Férula de Descarga",
+        "dominicanismo": "La placa de bruxismo, la placa de dormir",
+        "definicion": "",
+        "ejemplo_uso": "Estás gastando todos los dientes de tanto apretarlos, tienes que mandarte a hacer una placa de dormir.",
+        "categoria": "Mecánica Dental"
+    },
+    {
+        "termino_formal": "Impresión (Modelo)",
+        "dominicanismo": "La medida, el molde",
+        "definicion": "",
+        "ejemplo_uso": "Doctor, tiene que tomarle la medida de nuevo, que este molde no quedó bien.",
+        "categoria": "Mecánica Dental"
+    },
+    {
+        "termino_formal": "Muñón",
+        "dominicanismo": "El muñón, el diente tallado",
+        "definicion": "",
+        "ejemplo_uso": "El dentista dejó el diente como un muñoncito para que ahí se pueda cementar la funda.",
+        "categoria": "Mecánica Dental"
+    },
+    {
+        "termino_formal": "Oclusión",
+        "dominicanismo": "La mordida",
+        "definicion": "",
+        "ejemplo_uso": "Revísale bien la mordida con el papel azul para que la corona no le quede alta.",
+        "categoria": "Mecánica Dental"
+    },
+    {
+        "termino_formal": "Opaquer",
+        "dominicanismo": "El opaco",
+        "definicion": "",
+        "ejemplo_uso": "Ponle una buena capa de opaco al metal para que no se vea gris a través de la porcelana.",
+        "categoria": "Mecánica Dental"
+    },
+    {
+        "termino_formal": "Perno Muñón",
+        "dominicanismo": "El pin, el espigo, el perno",
+        "definicion": "",
+        "ejemplo_uso": "Como no queda casi nada de diente, hay que ponerle un pin en la raíz para poder agarrar la funda.",
+        "categoria": "Mecánica Dental"
+    },
+    {
+        "termino_formal": "Polimerización",
+        "dominicanismo": "Endurecer el acrílico, meterlo en la olla",
+        "definicion": "",
+        "ejemplo_uso": "Ya la plancha está empacada en acrílico, ahora falta meterla en la olla de presión para que endurezca.",
+        "categoria": "Mecánica Dental"
+    },
+    {
+        "termino_formal": "Póntico",
+        "dominicanismo": "El diente del medio, el diente falso",
+        "definicion": "",
+        "ejemplo_uso": "El diente del medio del puente tiene que verse como que está saliendo de la encía.",
+        "categoria": "Mecánica Dental"
+    },
+    {
+        "termino_formal": "Puente Fijo",
+        "dominicanismo": "El puente",
+        "definicion": "",
+        "ejemplo_uso": "Para tapar ese hoyo, te podemos hacer un puente agarrado de las dos muelas de los lados.",
+        "categoria": "Mecánica Dental"
+    },
+    {
+        "termino_formal": "Rebasado",
+        "dominicanismo": "El rebase, rellenar la plancha",
+        "definicion": "",
+        "ejemplo_uso": "La plancha completa le queda floja, tráigala para hacerle un rebase y que le ajuste de nuevo.",
+        "categoria": "Mecánica Dental"
+    },
+    {
+        "termino_formal": "Revestimiento",
+        "dominicanismo": "El revestimiento",
+        "definicion": "",
+        "ejemplo_uso": "Hay que mezclar bien el revestimiento, que si quedan burbujas se daña el colado.",
+        "categoria": "Mecánica Dental"
+    },
+    {
+        "termino_formal": "Yeso Dental",
+        "dominicanismo": "El yeso",
+        "definicion": "",
+        "ejemplo_uso": "Vacíale yeso a esa medida rápido, antes de que se deforme.",
+        "categoria": "Mecánica Dental"
+    },
+    {
+        "termino_formal": "Zirconio",
+        "dominicanismo": "El zirconio, porcelana sin metal",
+        "definicion": "",
+        "ejemplo_uso": "Yo quiero la funda en zirconio, que no quiero que se me vea una raya negra en la encía.",
+        "categoria": "Mecánica Dental"
+    },
+    {
+        "termino_formal": "Cubeta de Impresión",
+        "dominicanismo": "La cubeta, la cucharilla",
+        "definicion": "",
+        "ejemplo_uso": "Busca una cubeta más pequeña, que esa no le cabe al paciente en la boca.",
+        "categoria": "Mecánica Dental"
+    },
+    {
+        "termino_formal": "Gingiva Artificial",
+        "dominicanismo": "La encía rosada, el acrílico rosado",
+        "definicion": "",
+        "ejemplo_uso": "Agrégale un poco más de acrílico rosado a esa plancha para que imite mejor la encía.",
+        "categoria": "Mecánica Dental"
+    }
+]

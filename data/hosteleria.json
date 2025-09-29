@@ -1,0 +1,1042 @@
+[
+    {
+        "termino_formal": "Mise en place",
+        "dominicanismo": "Preparación previa",
+        "definicion": "Organización y preparación de todos los ingredientes y utensilios antes de comenzar a cocinar.",
+        "ejemplo_uso": "Antes de empezar el servicio, todos los cocineros deben tener lista su preparación previa.",
+        "categoria": "Gestión de Cocina"
+    },
+    {
+        "termino_formal": "Brigada de cocina",
+        "dominicanismo": "Equipo de cocina",
+        "definicion": "Organización jerárquica del personal de cocina en un restaurante.",
+        "ejemplo_uso": "El equipo de cocina trabaja muy bien coordinado durante las horas pico.",
+        "categoria": "Gestión de Cocina"
+    },
+    {
+        "termino_formal": "Emplatado",
+        "dominicanismo": "Montaje del plato",
+        "definicion": "Arte de presentar y decorar los alimentos en el plato de manera atractiva.",
+        "ejemplo_uso": "El chef es muy exigente con el montaje del plato, todo debe verse perfecto.",
+        "categoria": "Gestión de Cocina"
+    },
+    {
+        "termino_formal": "Inventario de existencias",
+        "dominicanismo": "Conteo de mercancía",
+        "definicion": "Control y registro de todos los productos disponibles en el almacén.",
+        "ejemplo_uso": "Cada semana hacemos el conteo de mercancía para saber qué hay que comprar.",
+        "categoria": "Gestión de Cocina"
+    },
+    {
+        "termino_formal": "Rotación de productos",
+        "dominicanismo": "Sistema PEPS",
+        "definicion": "Método de gestión donde se utilizan primero los productos que llegaron primero (PEPS o FIFO).",
+        "ejemplo_uso": "Con el sistema PEPS nos aseguramos de que no se venza nada en el almacén."
+    },
+    {
+        "termino_formal": "Análisis sensorial",
+        "dominicanismo": "Prueba de sabor",
+        "definicion": "Evaluación de las características organolépticas de los alimentos (sabor, olor, textura, etc.).",
+        "ejemplo_uso": "Antes de servir el plato nuevo, el chef hace una prueba de sabor con todo el equipo."
+    },
+    {
+        "termino_formal": "Protocolo HACCP",
+        "dominicanismo": "Control de higiene",
+        "definicion": "Sistema de gestión de seguridad alimentaria basado en el Análisis de Peligros y Puntos Críticos de Control.",
+        "ejemplo_uso": "Seguimos estrictamente el control de higiene para evitar contaminación de alimentos."
+    },
+    {
+        "termino_formal": "Servicio a la carta",
+        "dominicanismo": "Pedido individual",
+        "definicion": "Modalidad de servicio donde cada cliente elige individualmente sus platos de un menú.",
+        "ejemplo_uso": "En este restaurante trabajamos con pedido individual, no tenemos menú fijo.",
+        "categoria": "Gestión de Servicios de Alimentos y Bebidas (A&B)"
+    },
+    {
+        "categoria": "Gestión de Cocina",
+        "termino_formal": "A la Minuta",
+        "dominicanismo": "Al momento, fresco, ahí mismo",
+        "definicion": "Término culinario que se refiere a la preparación de un plato al momento de ser ordenado por el cliente, asegurando su frescura.",
+        "ejemplo_uso": "Aquí el pescado frito se hace al momento, por eso queda tan bueno y crujiente."
+    },
+    {
+        "categoria": "Gestión de Cocina",
+        "termino_formal": "AP/EP",
+        "dominicanismo": "Lo que se compra vs. lo que queda limpio",
+        "definicion": "Siglas para 'As Purchased' (Como se compra) y 'Edible Portion' (Porción Comestible), usadas para calcular el rendimiento real de un producto tras limpiarlo y prepararlo.",
+        "ejemplo_uso": "Tú compras 10 libras de yuca, pero después que la pelas te quedan como 7. ¡Hay que calcular eso!."
+    },
+    {
+        "categoria": "Gestión de Cocina",
+        "termino_formal": "Costo de Alimentos (Food Cost)",
+        "dominicanismo": "El costo, el food cost",
+        "definicion": "Porcentaje del costo de los ingredientes de un plato en relación con su precio de venta.",
+        "ejemplo_uso": "Hay que bajarle el costo a ese plato como sea, le están echando demasiado queso."
+    },
+    {
+        "categoria": "Gestión de Cocina",
+        "termino_formal": "Estandarización de Recetas",
+        "dominicanismo": "La receta estándar, hacerlo siempre igual",
+        "definicion": "Proceso de crear y seguir una receta fija para garantizar que un plato tenga siempre el mismo sabor, calidad y tamaño de porción.",
+        "ejemplo_uso": "Sigan la receta estándar del sancocho, no quiero que un día quede de una forma y otro día de otra."
+    },
+    {
+        "categoria": "Gestión de Cocina",
+        "termino_formal": "Escandallo",
+        "dominicanismo": "Sacarle el costo al plato",
+        "definicion": "Análisis detallado de los costos de cada ingrediente en una receta para determinar el costo total del plato.",
+        "ejemplo_uso": "Siéntate a sacarle el costo a cada plato del menú nuevo para poder ponerle el precio de venta."
+    },
+    {
+        "categoria": "Gestión de Cocina",
+        "termino_formal": "FIFO (First-In, First-Out)",
+        "dominicanismo": "FIFO, lo primero que entra, es lo primero que sale",
+        "definicion": "Método de gestión de inventario que consiste en usar primero los productos que entraron primero al almacén para asegurar la rotación y frescura.",
+        "ejemplo_uso": "¡Organicen esa nevera usando FIFO! Pongan los potes viejos alante y los nuevos atrás."
+    },
+    {
+        "categoria": "Gestión de Cocina",
+        "termino_formal": "HACCP",
+        "dominicanismo": "El HACCP (leído: já-sap), las reglas de higiene",
+        "definicion": "Sistema preventivo de gestión de la inocuidad alimentaria que identifica, evalúa y controla los peligros significativos para la seguridad de los alimentos.",
+        "ejemplo_uso": "Salud Pública va a venir a revisar si estamos cumpliendo con las reglas de higiene."
+    },
+    {
+        "categoria": "Gestión de Cocina",
+        "termino_formal": "Inventario",
+        "dominicanismo": "El inventario, contar la mercancía",
+        "definicion": "Proceso de contar y registrar físicamente todos los productos y existencias en el almacén y la cocina.",
+        "ejemplo_uso": "Hoy no podemos despachar nada más, que estamos fajados contando el inventario."
+    },
+    {
+        "categoria": "Gestión de Cocina",
+        "termino_formal": "Marge de Contribución",
+        "dominicanismo": "La ganancia del plato, lo que deja",
+        "definicion": "Diferencia entre el precio de venta de un plato y su costo de alimentos; representa la ganancia que genera para cubrir otros costos y obtener beneficios.",
+        "ejemplo_uso": "El chivo deja más ganancia que el pollo, aunque se venda menos."
+    },
+    {
+        "categoria": "Gestión de Cocina",
+        "termino_formal": "Merma",
+        "dominicanismo": "La merma, lo que se daña, lo que se bota",
+        "definicion": "Pérdida de producto que ocurre durante el almacenamiento, preparación o cocción, ya sea por deterioro, desperdicio o cocción excesiva.",
+        "ejemplo_uso": "Estamos perdiendo muchos cuartos en merma, se está dañando demasiado vegetal."
+    },
+    {
+        "categoria": "Gestión de Cocina",
+        "termino_formal": "Orden de Compra",
+        "dominicanismo": "La orden de compra, el pedido",
+        "definicion": "Documento formal enviado a un proveedor para solicitar la compra de bienes o servicios.",
+        "ejemplo_uso": "Pásale la orden de compra al suplidor del pollo, que ya casi no nos queda."
+    },
+    {
+        "categoria": "Gestión de Cocina",
+        "termino_formal": "Par Stock",
+        "dominicanismo": "El mínimo, lo que siempre tiene que haber",
+        "definicion": "Nivel mínimo de inventario que se debe mantener de un producto para asegurar que no se agote antes de la siguiente entrega.",
+        "ejemplo_uso": "El mínimo de arroz son 5 sacos; si ven que hay menos de ahí, avisen de una vez."
+    },
+    {
+        "categoria": "Gestión de Cocina",
+        "termino_formal": "Partida (Station)",
+        "dominicanismo": "La estación, tu área, tu puesto",
+        "definicion": "Área específica dentro de una cocina profesional donde un cocinero es responsable de una serie de platos o preparaciones concretas (ej. parrilla, frituras, ensaladas).",
+        "ejemplo_uso": "José, tú te encargas de la estación de la plancha, y que no se te queme nada."
+    },
+    {
+        "categoria": "Gestión de Cocina",
+        "termino_formal": "Punto Crítico de Control",
+        "dominicanismo": "El punto crítico, donde no se puede fallar",
+        "definicion": "Fase en el proceso de manipulación de alimentos en la que se puede aplicar un control para prevenir, eliminar o reducir un peligro para la inocuidad.",
+        "ejemplo_uso": "La temperatura del pollo es un punto crítico, si no se cocina bien podemos enfermar a alguien."
+    },
+    {
+        "categoria": "Gestión de Cocina",
+        "termino_formal": "Rendimiento",
+        "dominicanismo": "El rendimiento, cuánto rinde",
+        "definicion": "Cantidad de producto útil que se obtiene de un ingrediente después de haberlo limpiado, pelado y preparado.",
+        "ejemplo_uso": "Hay que comprar un plátano que dé buen rendimiento, que no haya que botarle la mitad."
+    },
+    {
+        "categoria": "Gestión de Cocina",
+        "termino_formal": "Servicio (Service)",
+        "dominicanismo": "El servicio, la hora del juidero",
+        "definicion": "Período durante el cual el restaurante está abierto y sirviendo comidas a los clientes.",
+        "ejemplo_uso": "¡Prepárense, que a las 12 del mediodía arranca la hora del juidero y esto se llena!."
+    },
+    {
+        "categoria": "Gestión de Cocina",
+        "termino_formal": "Sous Chef",
+        "dominicanismo": "El segundo, la mano derecha del chef",
+        "definicion": "Segundo al mando en la cocina, responsable de supervisar al personal y las operaciones diarias en ausencia del chef ejecutivo.",
+        "ejemplo_uso": "Si el chef no está, tienes que hablar con el segundo, que es el que resuelve."
+    },
+    {
+        "categoria": "Gestión de Cocina",
+        "termino_formal": "Stock (Caldo / Inventario)",
+        "dominicanismo": "El caldo o el fondo / El inventario o el stock",
+        "definicion": "Puede referirse a un caldo base hecho de huesos, carne o vegetales, o al inventario de productos disponibles.",
+        "ejemplo_uso": "Pon a hacer un buen fondo de res para la sopa. / Revisa el stock a ver si queda queso."
+    },
+    {
+        "categoria": "Gestión de Cocina",
+        "termino_formal": "Tabla de Picar por Colores",
+        "dominicanismo": "Las tablas de colores",
+        "definicion": "Sistema que asigna tablas de picar de diferentes colores a tipos específicos de alimentos (ej. rojo para carnes crudas, verde para vegetales) para prevenir la contaminación cruzada.",
+        "ejemplo_uso": "¡No me piques el pollo en la tabla verde, que esa es para los vegetales!."
+    },
+    {
+        "categoria": "Gestión de Cocina",
+        "termino_formal": "Termómetro de Sonda",
+        "dominicanismo": "El termómetro de pincho",
+        "definicion": "Utensilio de cocina con una punta metálica afilada que se inserta en los alimentos para medir su temperatura interna de manera precisa.",
+        "ejemplo_uso": "Métete el termómetro de pincho al pernil a ver si ya está cocido por dentro."
+    },
+    {
+        "categoria": "Gestión de Cocina",
+        "termino_formal": "Vida Útil (Shelf Life)",
+        "dominicanismo": "Lo que dura bueno, la fecha de vencimiento",
+        "definicion": "Período de tiempo durante el cual un producto alimenticio se mantiene seguro y de buena calidad para el consumo.",
+        "ejemplo_uso": "Revisa lo que dura buena esa carne después de que se descongela."
+    },
+    {
+        "categoria": "Gestión de Cocina",
+        "termino_formal": "Comanda",
+        "dominicanismo": "La comanda",
+        "definicion": "Pedido o nota que detalla la orden de un cliente para ser preparada en la cocina o el bar.",
+        "ejemplo_uso": "¡Cantaron una comanda de una bandera completa con aguacate y un mondongo!."
+    },
+    {
+        "categoria": "Gestión de Cocina",
+        "termino_formal": "Ficha Técnica de Producto",
+        "dominicanismo": "La ficha del producto, los detalles",
+        "definicion": "Documento que detalla las especificaciones de un producto, incluyendo ingredientes, alérgenos, origen y otra información relevante.",
+        "ejemplo_uso": "Pídele la ficha al suplidor, necesito saber si ese producto tiene algún alérgeno."
+    },
+    {
+        "categoria": "Panadería y Repostería",
+        "termino_formal": "Amasado",
+        "dominicanismo": "Sobar la masa",
+        "definicion": "Proceso de trabajar una masa, generalmente con las manos, para desarrollar el gluten y darle elasticidad y estructura.",
+        "ejemplo_uso": "Hay que sobar bien esa masa para el pan de agua, hasta que se despegue de las manos."
+    },
+    {
+        "categoria": "Panadería y Repostería",
+        "termino_formal": "Autólisis",
+        "dominicanismo": "Dejar la masa reposar",
+        "definicion": "Técnica de panadería que consiste en mezclar solo harina y agua y dejarla reposar antes de añadir la sal y la levadura, para mejorar la extensibilidad de la masa.",
+        "ejemplo_uso": "Mezcla la harina y el agua y déjala reposar un rato antes de echarle el resto de las cosas."
+    },
+    {
+        "categoria": "Panadería y Repostería",
+        "termino_formal": "Blanquear (Huevos)",
+        "dominicanismo": "Batir las yemas con azúcar",
+        "definicion": "Proceso de batir yemas de huevo con azúcar hasta que la mezcla se vuelva pálida, espesa y cremosa.",
+        "ejemplo_uso": "Bate bien las yemas con el azúcar para el bizcocho, hasta que se pongan blanquitas."
+    },
+    {
+        "categoria": "Panadería y Repostería",
+        "termino_formal": "Caramelización",
+        "dominicanismo": "Hacer el caramelo, quemar el azúcar",
+        "definicion": "Proceso de oxidación del azúcar al calentarlo, lo que produce un líquido de color marrón y sabor característico.",
+        "ejemplo_uso": "Ten cuidado haciendo el caramelo para el flan, que si se te quema se pone amargo."
+    },
+    {
+        "categoria": "Panadería y Repostería",
+        "termino_formal": "Coulis",
+        "dominicanismo": "Una salsita de frutas",
+        "definicion": "Salsa ligera hecha de puré de frutas o verduras, utilizada comúnmente en postres.",
+        "ejemplo_uso": "Sírvele el cheesecake con una salsita de chinola por arriba."
+    },
+    {
+        "categoria": "Panadería y Repostería",
+        "termino_formal": "Cremar",
+        "dominicanismo": "Batir la mantequilla con azúcar",
+        "definicion": "Técnica de repostería que consiste en batir mantequilla (a temperatura ambiente) y azúcar hasta obtener una mezcla suave, esponjosa y de color pálido.",
+        "ejemplo_uso": "El truco del bizcocho dominicano es batir la mantequilla con el azúcar hasta que quede como una cremita."
+    },
+    {
+        "categoria": "Panadería y Repostería",
+        "termino_formal": "Doblez (Pliegue)",
+        "dominicanismo": "Doblar la masa, darle una vuelta",
+        "definicion": "Técnica de panadería en la que se dobla la masa sobre sí misma durante la fermentación para desarrollar la estructura del gluten.",
+        "ejemplo_uso": "Cada media hora hay que sacarle el aire a la masa y darle una vuelta para que coja fuerza."
+    },
+    {
+        "categoria": "Panadería y Repostería",
+        "termino_formal": "Emulsión",
+        "dominicanismo": "La emulsión, unir la grasa con el agua",
+        "definicion": "Mezcla estable de dos líquidos que normalmente no se mezclan, como aceite y agua.",
+        "ejemplo_uso": "Para que el ganache quede brilloso, hay que lograr que se una bien la crema con el chocolate."
+    },
+    {
+        "categoria": "Panadería y Repostería",
+        "termino_formal": "Fermentación",
+        "dominicanismo": "Dejar crecer la masa, leudar",
+        "definicion": "Proceso en el cual las levaduras consumen los azúcares de la masa, produciendo dióxido de carbono que hace que la masa crezca.",
+        "ejemplo_uso": "Tapa la masa con un paño húmedo y ponla en un lugar tibio a que crezca por una hora."
+    },
+    {
+        "categoria": "Panadería y Repostería",
+        "termino_formal": "Ganache",
+        "dominicanismo": "El ganache, la crema de chocolate",
+        "definicion": "Crema suave y sedosa hecha de chocolate y crema de leche, utilizada como relleno o cobertura.",
+        "ejemplo_uso": "Voy a rellenar la torta con una crema de chocolate para que quede más jugosa."
+    },
+    {
+        "categoria": "Panadería y Repostería",
+        "termino_formal": "Gluten",
+        "dominicanismo": "El gluten, la liga de la masa",
+        "definicion": "Red de proteínas que se forma al mezclar harina con agua, responsable de la elasticidad y estructura de las masas.",
+        "ejemplo_uso": "Sigue sobandola, que mientras más la sobas, más liga coge la masa y mejor queda el pan."
+    },
+    {
+        "categoria": "Panadería y Repostería",
+        "termino_formal": "Hidratación",
+        "dominicanismo": "Qué tan aguada está la masa",
+        "definicion": "Porcentaje de agua en una masa en relación con la cantidad de harina.",
+        "ejemplo_uso": "Esa masa está muy aguada, la próxima vez échale un poco menos de agua."
+    },
+    {
+        "categoria": "Panadería y Repostería",
+        "termino_formal": "Laminado",
+        "dominicanismo": "Hacer las capas de hojaldre, laminar",
+        "definicion": "Proceso de crear finas capas alternas de masa y grasa (generalmente mantequilla) para elaborar masas como el hojaldre.",
+        "ejemplo_uso": "Hacer el pan de hojaldre es un lío, hay que pasar el día entero dándole vueltas a la masa con mantequilla."
+    },
+    {
+        "categoria": "Panadería y Repostería",
+        "termino_formal": "Levadura (Masa Madre)",
+        "dominicanismo": "La masa madre, la levadura de pan",
+        "definicion": "Fermento natural compuesto de harina y agua que contiene levaduras y bacterias salvajes, utilizado para hacer levar el pan.",
+        "ejemplo_uso": "Ese pan de masa madre tiene un sabor increíble, un poquito ácido."
+    },
+    {
+        "categoria": "Panadería y Repostería",
+        "termino_formal": "Macaronage",
+        "dominicanismo": "Mezclar los macarrones",
+        "definicion": "Técnica específica de mezclado de la masa de los macarrones franceses para lograr la consistencia correcta.",
+        "ejemplo_uso": "Ten cuidado al mezclar los macarrones, que si le sacas mucho el aire se dañan."
+    },
+    {
+        "categoria": "Panadería y Repostería",
+        "termino_formal": "Masa Madre",
+        "dominicanismo": "La masa madre",
+        "definicion": "Cultivo de levaduras y bacterias presentes de forma natural en la harina, que se utiliza para fermentar y levar el pan, aportando sabor y complejidad.",
+        "ejemplo_uso": "Para hacer pan con masa madre, tienes que alimentarla todos los días como si fuera una mascota."
+    },
+    {
+        "categoria": "Panadería y Repostería",
+        "termino_formal": "Merengue",
+        "dominicanismo": "El suspiro",
+        "definicion": "Dulce hecho batiendo claras de huevo con azúcar hasta obtener una espuma firme y brillante, que luego se hornea.",
+        "ejemplo_uso": "El bizcocho dominicano no está completo si no tiene una capa bien grande de suspiro por arriba."
+    },
+    {
+        "categoria": "Panadería y Repostería",
+        "termino_formal": "Miga",
+        "dominicanismo": "La masita de adentro, la miga",
+        "definicion": "Parte interior y blanda del pan, rodeada por la corteza.",
+        "ejemplo_uso": "A mí me gusta el pan de agua con la masita de adentro suavecita y la concha dura."
+    },
+    {
+        "categoria": "Panadería y Repostería",
+        "termino_formal": "Pâte à Choux (Masa Choux)",
+        "dominicanismo": "La masa de los profiteroles, masa choux",
+        "definicion": "Masa ligera cocida dos veces, utilizada para hacer profiteroles, éclairs y churros, que queda hueca por dentro al hornearse.",
+        "ejemplo_uso": "Con la masa de los profiteroles también se pueden hacer churros."
+    },
+    {
+        "categoria": "Panadería y Repostería",
+        "termino_formal": "Punto de Nieve",
+        "dominicanismo": "A punto de suspiro",
+        "definicion": "Estado que alcanzan las claras de huevo al batirlas enérgicamente, formando picos firmes que no se caen al voltear el recipiente.",
+        "ejemplo_uso": "Bate esas claras hasta que estén a punto de suspiro, que puedas voltear el bowl y no se caigan."
+    },
+    {
+        "categoria": "Panadería y Repostería",
+        "termino_formal": "Reacción de Maillard",
+        "dominicanismo": "Que se ponga doradito, coger color",
+        "definicion": "Reacción química entre aminoácidos y azúcares que ocurre al calentar los alimentos, responsable del color dorado y el sabor característico de muchos productos horneados y cocidos.",
+        "ejemplo_uso": "Déjalo un ratico más en el horno para que coja un colorcito doradito bien bonito."
+    },
+    {
+        "categoria": "Panadería y Repostería",
+        "termino_formal": "Retardado",
+        "dominicanismo": "Dejar la masa en la nevera",
+        "definicion": "Proceso de ralentizar la fermentación de una masa guardándola a baja temperatura (en la nevera) para desarrollar más sabor.",
+        "ejemplo_uso": "Voy a dejar la masa en la nevera toda la noche para que coja más sabor antes de hornearla."
+    },
+    {
+        "categoria": "Panadería y Repostería",
+        "termino_formal": "Temperar (Chocolate)",
+        "dominicanismo": "Templar el chocolate",
+        "definicion": "Proceso de calentar y enfriar el chocolate a temperaturas específicas para estabilizar los cristales de manteca de cacao, logrando un acabado brillante y crujiente.",
+        "ejemplo_uso": "Hay que templar bien el chocolate para que cuando hagas los bombones queden brillosos y duros."
+    },
+    {
+        "categoria": "Panadería y Repostería",
+        "termino_formal": "Corteza",
+        "dominicanismo": "La concha, el con-con del pan",
+        "definicion": "Capa exterior, dura y crujiente del pan, que se forma durante el horneado.",
+        "ejemplo_uso": "Lo mejor del pan sobao es la concha tostadita de las puntas."
+    },
+    {
+        "categoria": "Panadería y Repostería",
+        "termino_formal": "Baño María",
+        "dominicanismo": "Baño de María",
+        "definicion": "Método de cocción lenta y uniforme que consiste en colocar un recipiente con el alimento dentro de otro más grande con agua caliente, para aplicar calor indirecto.",
+        "ejemplo_uso": "Pon el flan en el horno en un baño de María para que se cocine al paso y no se queme."
+    },
+    {
+        "categoria": "Gestión de Servicios de Alimentos y Bebidas (A&B)",
+        "termino_formal": "Average Check",
+        "dominicanismo": "El consumo promedio, cuánto gasta cada gente",
+        "definicion": "Indicador que mide el gasto promedio por cliente en un restaurante, calculado dividiendo los ingresos totales por el número de clientes.",
+        "ejemplo_uso": "El consumo promedio está bajito, hay que motivar a los camareros para que vendan más postres."
+    },
+    {
+        "categoria": "Gestión de Servicios de Alimentos y Bebidas (A&B)",
+        "termino_formal": "Back of House (BOH)",
+        "dominicanismo": "La cocina, adentro",
+        "definicion": "Áreas del restaurante que no son visibles para los clientes, como la cocina, almacenes y oficinas, donde se realiza el trabajo operativo.",
+        "ejemplo_uso": "¡Cualquier problema se resuelve adentro, que los clientes no escuchen los gritos!."
+    },
+    {
+        "categoria": "Gestión de Servicios de Alimentos y Bebidas (A&B)",
+        "termino_formal": "Cost Controller",
+        "dominicanismo": "El controller, el de los costos",
+        "definicion": "Persona responsable de supervisar, analizar y controlar los costos de alimentos, bebidas y otros gastos del restaurante para asegurar la rentabilidad.",
+        "ejemplo_uso": "Pásale todas las facturas de los vegetales al controller para que actualice los gastos."
+    },
+    {
+        "categoria": "Gestión de Servicios de Alimentos y Bebidas (A&B)",
+        "termino_formal": "Cover",
+        "dominicanismo": "Un cliente, una persona, un cubierto",
+        "definicion": "Término utilizado para referirse a un cliente o comensal atendido en el restaurante.",
+        "ejemplo_uso": "Anoche fue un día bueno, hicimos 200 cubiertos en el servicio de la cena."
+    },
+    {
+        "categoria": "Gestión de Servicios de Alimentos y Bebidas (A&B)",
+        "termino_formal": "F&B Manager",
+        "dominicanismo": "El gerente de Alimentos y Bebidas",
+        "definicion": "Gerente responsable de toda la operación de alimentos y bebidas de un establecimiento, incluyendo la gestión de costos, personal y calidad del servicio.",
+        "ejemplo_uso": "Si el cliente se está quejando mucho de la comida, llama al gerente de Alimentos y Bebidas."
+    },
+    {
+        "categoria": "Gestión de Servicios de Alimentos y Bebidas (A&B)",
+        "termino_formal": "Front of House (FOH)",
+        "dominicanismo": "El salón, afuera con los clientes",
+        "definicion": "Todas las áreas del restaurante a las que los clientes tienen acceso, como el comedor, bar y recepción, y el personal que trabaja en ellas.",
+        "ejemplo_uso": "Todo el mundo con una sonrisa en el salón, los problemas personales se quedan afuera."
+    },
+    {
+        "categoria": "Gestión de Servicios de Alimentos y Bebidas (A&B)",
+        "termino_formal": "Gueridón",
+        "dominicanismo": "El carrito de servicio",
+        "definicion": "Pequeño carro o mesa auxiliar utilizado por el personal de sala para realizar preparaciones o emplatados frente al cliente.",
+        "ejemplo_uso": "Tráeme el carrito de servicio para flambearle los crêpes suzette a la mesa 10."
+    },
+    {
+        "categoria": "Gestión de Servicios de Alimentos y Bebidas (A&B)",
+        "termino_formal": "Host/Hostess",
+        "dominicanismo": "La host (leído: jost), la que recibe en la puerta",
+        "definicion": "Persona encargada de recibir, dar la bienvenida y sentar a los clientes en el restaurante, además de gestionar las reservas.",
+        "ejemplo_uso": "Dile a la host que hay una fila larga afuera, que vaya sentando a la gente más rápido."
+    },
+    {
+        "categoria": "Gestión de Servicios de Alimentos y Bebidas (A&B)",
+        "termino_formal": "Ingeniería de Menú",
+        "dominicanismo": "Analizar el menú, ver lo que más se vende",
+        "definicion": "Técnica de análisis del menú que evalúa la popularidad y rentabilidad de cada plato para optimizar la oferta y los precios.",
+        "ejemplo_uso": "Vamos a analizar el menú para quitar los platos que no se venden y subirle el precio a los populares."
+    },
+    {
+        "categoria": "Gestión de Servicios de Alimentos y Bebidas (A&B)",
+        "termino_formal": "Maitre d",
+        "dominicanismo": "El maitre (leído: metre), el jefe de salón",
+        "definicion": "Jefe de sala responsable de supervisar el servicio, coordinar al personal de comedor y garantizar la satisfacción del cliente.",
+        "ejemplo_uso": "Llama al maitre, que la mesa de la esquina tiene media hora esperando que le tomen la orden."
+    },
+    {
+        "categoria": "Gestión de Servicios de Alimentos y Bebidas (A&B)",
+        "termino_formal": "Mise en Place (Servicio)",
+        "dominicanismo": "Montar el salón, preparar el servicio",
+        "definicion": "Preparación y organización de todo lo necesario en el área de servicio (mesas, cubiertos, menús, etc.) antes de la llegada de los clientes.",
+        "ejemplo_uso": "Revisen que no falten servilletas ni cubiertos en las mesas, el mise en place tiene que estar perfecto."
+    },
+    {
+        "categoria": "Gestión de Servicios de Alimentos y Bebidas (A&B)",
+        "termino_formal": "POS/TPV (Punto de Venta)",
+        "dominicanismo": "El sistema, la caja, el verifon",
+        "definicion": "Sistema informático (Terminal Punto de Venta) utilizado para registrar pedidos, procesar pagos y gestionar las ventas del restaurante.",
+        "ejemplo_uso": "Se cayó el sistema y ahora hay que tirar las comandas a mano. ¡Qué lío!."
+    },
+    {
+        "categoria": "Gestión de Servicios de Alimentos y Bebidas (A&B)",
+        "termino_formal": "Rotación de Mesas",
+        "dominicanismo": "Rotar las mesas, mover las mesas",
+        "definicion": "Gestión del tiempo que los clientes ocupan una mesa para maximizar el número de clientes atendidos durante un servicio.",
+        "ejemplo_uso": "Los sábados en la noche hay que mover las mesas rápido para poder sentar a toda la gente que está esperando."
+    },
+    {
+        "categoria": "Gestión de Servicios de Alimentos y Bebidas (A&B)",
+        "termino_formal": "Sommelier",
+        "dominicanismo": "El sommelier (leído: somelié), el catador de vinos",
+        "definicion": "Experto en vinos encargado de recomendar maridajes, gestionar la bodega y servir el vino en un restaurante.",
+        "ejemplo_uso": "Pregúntale al sommelier qué vino es bueno para acompañar el chivo."
+    },
+    {
+        "categoria": "Gestión de Servicios de Alimentos y Bebidas (A&B)",
+        "termino_formal": "SOP",
+        "dominicanismo": "El procedimiento, el manualito",
+        "definicion": "Siglas de 'Standard Operating Procedure' (Procedimiento Operativo Estándar), un conjunto de instrucciones detalladas para realizar tareas de manera consistente.",
+        "ejemplo_uso": "El procedimiento dice que siempre hay que llevarle un vaso de agua al cliente tan pronto se sienta."
+    },
+    {
+        "categoria": "Gestión de Servicios de Alimentos y Bebidas (A&B)",
+        "termino_formal": "Station (en Servicio)",
+        "dominicanismo": "Tu estación, tus mesas, tu rango",
+        "definicion": "Conjunto de mesas o área del comedor asignada a un camarero específico para su atención durante el servicio.",
+        "ejemplo_uso": "Limpia bien tus mesas, que tu estación está hecha un desastre y ya van a llegar más clientes."
+    },
+    {
+        "categoria": "Gestión de Servicios de Alimentos y Bebidas (A&B)",
+        "termino_formal": "Up-selling",
+        "dominicanismo": "Venderle algo más caro, hacer un up-selling",
+        "definicion": "Técnica de venta que consiste en persuadir al cliente para que compre una versión más cara o mejorada del producto que pretendía comprar.",
+        "ejemplo_uso": "Si te piden un Brugal Añejo, ofrécele el Leyenda. Siempre trata de venderle algo más caro."
+    },
+    {
+        "categoria": "Gestión de Servicios de Alimentos y Bebidas (A&B)",
+        "termino_formal": "Cross-selling",
+        "dominicanismo": "Venderle algo extra, el cross-selling",
+        "definicion": "Técnica de venta que consiste en ofrecer al cliente productos complementarios al que ya ha decidido comprar.",
+        "ejemplo_uso": "Cuando te pidan el pescado frito, ofrécele de una vez los tostones y el aguacate."
+    },
+    {
+        "categoria": "Gestión de Servicios de Alimentos y Bebidas (A&B)",
+        "termino_formal": "Walk-in",
+        "dominicanismo": "Un cliente sin reserva, uno que llegó así",
+        "definicion": "Cliente que llega a un restaurante sin haber realizado una reserva previa.",
+        "ejemplo_uso": "Esa mesa no me la toques, guárdala por si llega un cliente importante sin reserva."
+    },
+    {
+        "categoria": "Gestión de Servicios de Alimentos y Bebidas (A&B)",
+        "termino_formal": "No-show",
+        "dominicanismo": "Un no-show, el que reservó y no vino",
+        "definicion": "Cliente que realiza una reserva pero no se presenta en el restaurante sin cancelarla.",
+        "ejemplo_uso": "Ponle una nota a ese cliente en el sistema, que es la segunda vez que reserva y no aparece."
+    },
+    {
+        "categoria": "Gestión de Servicios de Alimentos y Bebidas (A&B)",
+        "termino_formal": "Beverage Cost",
+        "dominicanismo": "El costo de la bebida",
+        "definicion": "Porcentaje del costo de las bebidas vendidas en relación con los ingresos generados por esas ventas.",
+        "ejemplo_uso": "El costo de la bebida está muy alto, están sirviendo los tragos demasiado cargados."
+    },
+    {
+        "categoria": "Gestión de Servicios de Alimentos y Bebidas (A&B)",
+        "termino_formal": "Inventario Físico",
+        "dominicanismo": "Hacer el inventario, contar botella por botella",
+        "definicion": "Proceso de contar manualmente todos los artículos de bebida en stock para determinar las existencias reales.",
+        "ejemplo_uso": "Esta noche nadie se va hasta que no terminemos de contar botella por botella para el inventario."
+    },
+    {
+        "categoria": "Gestión de Servicios de Alimentos y Bebidas (A&B)",
+        "termino_formal": "Par Stock (en Bar)",
+        "dominicanismo": "El par, lo que no puede faltar",
+        "definicion": "Cantidad mínima de cada tipo de bebida o insumo que debe estar disponible en el bar al inicio de cada servicio.",
+        "ejemplo_uso": "Revisa el par de la nevera. Si falta Presidente, pídela al almacén antes de que empiece el servicio."
+    },
+    {
+        "categoria": "Gestión de Servicios de Alimentos y Bebidas (A&B)",
+        "termino_formal": "Z-Report",
+        "dominicanismo": "El cierre Z, el reporte de la caja",
+        "definicion": "Informe detallado de ventas generado por la caja registradora o el sistema POS al final del día o turno, que pone a cero los contadores.",
+        "ejemplo_uso": "Tira el cierre Z de la caja para que me lo mandes por WhatsApp y ver cómo fueron las ventas."
+    },
+    {
+        "categoria": "Gestión de Servicios de Eventos y Viajes",
+        "termino_formal": "B2B (Business-to-Business)",
+        "dominicanismo": "B2B, venta a empresas",
+        "definicion": "Modelo de negocio donde las transacciones comerciales se realizan entre dos empresas, en lugar de entre una empresa y un consumidor final.",
+        "ejemplo_uso": "Nuestro mercado es B2B, le organizamos las convenciones anuales a los bancos y las telefónicas."
+    },
+    {
+        "categoria": "Gestión de Servicios de Eventos y Viajes",
+        "termino_formal": "B2C (Business-to-Consumer)",
+        "dominicanismo": "B2C, venta al público",
+        "definicion": "Modelo de negocio en el que una empresa vende productos o servicios directamente a los consumidores finales.",
+        "ejemplo_uso": "La agencia ahora se está enfocando en la venta al público, vendiendo paquetes de resort."
+    },
+    {
+        "categoria": "Gestión de Servicios de Eventos y Viajes",
+        "termino_formal": "Bloqueo de Habitaciones",
+        "dominicanismo": "Un bloqueo de habitaciones, separar las habitaciones",
+        "definicion": "Acción de reservar un grupo de habitaciones en un hotel para un evento, como una boda o conferencia, a menudo a una tarifa negociada.",
+        "ejemplo_uso": "Llama al hotel y dile que nos haga un bloqueo de 30 habitaciones para la boda de diciembre."
+    },
+    {
+        "categoria": "Gestión de Servicios de Eventos y Viajes",
+        "termino_formal": "DMC",
+        "dominicanismo": "Un DMC, el operador local, el que resuelve",
+        "definicion": "Siglas de 'Destination Management Company', una empresa local especializada en la planificación y ejecución de eventos, tours y logística de viajes en un destino específico.",
+        "ejemplo_uso": "Contrata un operador local en Punta Cana, que ellos se saben todos los trucos para conseguir de todo."
+    },
+    {
+        "categoria": "Gestión de Servicios de Eventos y Viajes",
+        "termino_formal": "Fam Trip",
+        "dominicanismo": "Un fam trip, un viaje de familiarización",
+        "definicion": "Viaje de familiarización organizado para agentes de viajes o medios de comunicación para que conozcan un destino, hotel o servicio turístico.",
+        "ejemplo_uso": "El hotel organizó un fam trip para que las agencias de viajes conozcan las remodelaciones."
+    },
+    {
+        "categoria": "Gestión de Servicios de Eventos y Viajes",
+        "termino_formal": "GDS",
+        "dominicanismo": "El GDS, el sistema de reservas",
+        "definicion": "Siglas de 'Global Distribution System', una red informática que permite a las agencias de viajes acceder y reservar vuelos, hoteles y otros servicios turísticos en tiempo real.",
+        "ejemplo_uso": "Búscame en el sistema de reservas a ver si quedan asientos baratos para Nueva York en Navidad."
+    },
+    {
+        "categoria": "Gestión de Servicios de Eventos y Viajes",
+        "termino_formal": "Incentivo (Viaje de)",
+        "dominicanismo": "Un viaje de incentivo",
+        "definicion": "Viaje ofrecido como premio o recompensa a empleados o clientes por alcanzar ciertos objetivos de rendimiento o ventas.",
+        "ejemplo_uso": "La empresa se va a llevar a los mejores vendedores a un viaje de incentivo para Punta Cana."
+    },
+    {
+        "categoria": "Gestión de Servicios de Eventos y Viajes",
+        "termino_formal": "Itinerario",
+        "dominicanismo": "El itinerario, el programa del viaje",
+        "definicion": "Plan detallado de un viaje que incluye horarios, destinos, actividades y otra información relevante.",
+        "ejemplo_uso": "Te voy a mandar el programa del viaje por WhatsApp con todas las horas de las excursiones."
+    },
+    {
+        "categoria": "Gestión de Servicios de Eventos y Viajes",
+        "termino_formal": "MICE",
+        "dominicanismo": "El turismo de congresos, MICE",
+        "definicion": "Acrónimo de 'Meetings, Incentives, Conferences, and Exhibitions', se refiere al segmento del turismo de negocios y eventos.",
+        "ejemplo_uso": "Estamos tratando de atraer más turismo de congresos a Santo Domingo."
+    },
+    {
+        "categoria": "Gestión de Servicios de Eventos y Viajes",
+        "termino_formal": "Operador Turístico",
+        "dominicanismo": "Un tour operador, un operador",
+        "definicion": "Empresa que diseña, organiza y vende paquetes turísticos completos, que incluyen transporte, alojamiento y actividades.",
+        "ejemplo_uso": "Estamos negociando una buena tarifa con un tour operador de Canadá que trae miles de turistas al año."
+    },
+    {
+        "categoria": "Gestión de Servicios de Eventos y Viajes",
+        "termino_formal": "Agencia de Viajes Minorista",
+        "dominicanismo": "Una agencia de viajes",
+        "definicion": "Empresa que vende productos y servicios turísticos (paquetes, vuelos, hoteles) directamente al consumidor final.",
+        "ejemplo_uso": "Ve a una agencia de viajes para que te armen el paquete completo y no tengas que preocuparte por nada."
+    },
+    {
+        "categoria": "Gestión de Servicios de Eventos y Viajes",
+        "termino_formal": "Overbooking",
+        "dominicanismo": "Sobreventa, overbooking",
+        "definicion": "Práctica de vender más plazas (en un vuelo, hotel, etc.) de las disponibles para asegurar la plena ocupación, previendo cancelaciones.",
+        "ejemplo_uso": "La aerolínea me tumbó el vuelo por una sobreventa. ¡Ahora me tienen que pagar un hotel!."
+    },
+    {
+        "categoria": "Gestión de Servicios de Eventos y Viajes",
+        "termino_formal": "PAX",
+        "dominicanismo": "Pax, pasajeros, gente",
+        "definicion": "Abreviatura comúnmente utilizada en la industria del turismo para referirse a pasajeros o personas.",
+        "ejemplo_uso": "La guagua que nos va a buscar al aeropuerto tiene capacidad para 25 pax con sus maletas."
+    },
+    {
+        "categoria": "Gestión de Servicios de Eventos y Viajes",
+        "termino_formal": "RFP (Request for Proposal)",
+        "dominicanismo": "Una solicitud de cotización, un RFP",
+        "definicion": "Documento que una empresa emite para solicitar propuestas y cotizaciones de varios proveedores para un proyecto o servicio específico.",
+        "ejemplo_uso": "Mándale una solicitud de cotización a tres hoteles a ver cuál nos da mejor precio para el evento."
+    },
+    {
+        "categoria": "Gestión de Servicios de Eventos y Viajes",
+        "termino_formal": "Tarifa Neta",
+        "dominicanismo": "La tarifa neta, el precio sin comisión",
+        "definicion": "Precio de un servicio turístico que el proveedor cobra a la agencia, sin incluir la comisión o el margen de beneficio de esta última.",
+        "ejemplo_uso": "El hotel me dio la tarifa neta, ahora yo tengo que ponerle mi comisión encima para venderla."
+    },
+    {
+        "categoria": "Gestión de Servicios de Eventos y Viajes",
+        "termino_formal": "Tarifa Comisionable",
+        "dominicanismo": "La tarifa comisionable",
+        "definicion": "Monto de la tarifa sobre el cual se calcula la comisión de la agencia de viajes.",
+        "ejemplo_uso": "La comisión es un 10% sobre la tarifa comisionable, que no incluye los impuestos."
+    },
+    {
+        "categoria": "Gestión de Servicios de Eventos y Viajes",
+        "termino_formal": "Voucher",
+        "dominicanismo": "El voucher (pronunciado: báucher)",
+        "definicion": "Documento o comprobante que acredita el pago y la reserva de un servicio turístico, como un hotel o una excursión.",
+        "ejemplo_uso": "No se te olvide imprimir el báucher del hotel para que lo entregues en la recepción cuando llegues."
+    },
+    {
+        "categoria": "Gestión de Servicios de Eventos y Viajes",
+        "termino_formal": "Yield Management",
+        "dominicanismo": "Jugar con los precios, manejo de tarifas",
+        "definicion": "Estrategia de precios variables que busca maximizar los ingresos ajustando las tarifas según la demanda y la oferta en un momento dado.",
+        "ejemplo_uso": "Los precios de los vuelos cambian a cada rato por el manejo de tarifas que hacen las aerolíneas."
+    },
+    {
+        "categoria": "Gestión de Servicios de Eventos y Viajes",
+        "termino_formal": "Charter",
+        "dominicanismo": "Un charter (pronunciado: chárter)",
+        "definicion": "Vuelo o transporte contratado para un grupo específico de personas, que no forma parte de las rutas y horarios regulares.",
+        "ejemplo_uso": "Vamos a alquilar un catamarán charter para ir a Saona, así vamos el grupo solo sin más nadie."
+    },
+    {
+        "categoria": "Gestión de Servicios de Eventos y Viajes",
+        "termino_formal": "Receptivo",
+        "dominicanismo": "El receptivo, el que recibe en el destino",
+        "definicion": "Agencia o proveedor de servicios turísticos en el destino que se encarga de atender a los viajeros a su llegada (transfers, tours, asistencia).",
+        "ejemplo_uso": "Nuestro receptivo los va a estar esperando en el aeropuerto con un letrero con sus nombres."
+    },
+    {
+        "categoria": "Gestión de Servicios de Eventos y Viajes",
+        "termino_formal": "Bed & Breakfast (B&B)",
+        "dominicanismo": "Un B&B (leído: bi-an-bí), una pensioncita",
+        "definicion": "Tipo de alojamiento, generalmente pequeño y familiar, que ofrece habitación y desayuno incluido en el precio.",
+        "ejemplo_uso": "Nos quedamos en una pensioncita en Las Terrenas que solo incluía el desayuno."
+    },
+    {
+        "categoria": "Gestión de Servicios de Eventos y Viajes",
+        "termino_formal": "All-Inclusive (Todo Incluido)",
+        "dominicanismo": "Un todo incluido, un ol inclusi",
+        "definicion": "Paquete de alojamiento que incluye en un único precio la habitación, todas las comidas, bebidas y, a menudo, otras actividades y servicios.",
+        "ejemplo_uso": "Este fin de semana nos vamos para un ol inclusi en Bávaro a comer y beber sin control."
+    },
+    {
+        "categoria": "Gestión de Servicios de Eventos y Viajes",
+        "termino_formal": "Layover (Escala)",
+        "dominicanismo": "Una escala",
+        "definicion": "Parada corta entre dos vuelos de conexión, durante la cual el pasajero generalmente no sale del aeropuerto.",
+        "ejemplo_uso": "El vuelo a Madrid no es directo, hace una escala de tres horas en Miami."
+    },
+    {
+        "categoria": "Gestión de Servicios de Eventos y Viajes",
+        "termino_formal": "Stopover",
+        "dominicanismo": "Una parada larga, un stopover",
+        "definicion": "Una escala de vuelo de más de 24 horas en una ciudad intermedia, que permite al viajero visitar ese destino antes de continuar a su destino final.",
+        "ejemplo_uso": "Aproveché que el vuelo hacía una parada larga en Panamá y me quedé dos días conociendo."
+    },
+    {
+        "categoria": "Gestión de Servicios de Eventos y Viajes",
+        "termino_formal": "Manifiesto",
+        "dominicanismo": "El manifiesto, la lista de pasajeros",
+        "definicion": "Documento oficial que contiene la lista completa de pasajeros o carga transportada en un barco, avión u otro medio de transporte.",
+        "ejemplo_uso": "Hay que pasarle la lista de pasajeros a la Marina antes de que el barco pueda salir del muelle."
+    },
+    {
+        "categoria": "Gestión de Información y Asistencia Turística",
+        "termino_formal": "Buró de Convenciones (CVB)",
+        "dominicanismo": "El buró de convenciones, la oficina de promoción",
+        "definicion": "Organización de marketing sin fines de lucro destinada a promover un destino para atraer convenciones, congresos y turismo de negocios.",
+        "ejemplo_uso": "El buró de convenciones está haciendo un buen trabajo para traer más congresos al país."
+    },
+    {
+        "categoria": "Gestión de Información y Asistencia Turística",
+        "termino_formal": "Centro de Información Turística",
+        "dominicanismo": "La caseta de turismo, la oficina de información",
+        "definicion": "Oficina o punto de atención diseñado para proporcionar información, mapas y asistencia a los turistas que visitan una zona.",
+        "ejemplo_uso": "Si no encuentras el museo, pregúntale a los muchachos de la caseta de turismo de la Calle El Conde."
+    },
+    {
+        "categoria": "Gestión de Información y Asistencia Turística",
+        "termino_formal": "City Tour",
+        "dominicanismo": "El city tour",
+        "definicion": "Recorrido turístico guiado por los principales puntos de interés de una ciudad.",
+        "ejemplo_uso": "El city tour de Santo Domingo te incluye un paseo por la Zona Colonial y una parada en el Malecón."
+    },
+    {
+        "categoria": "Gestión de Información y Asistencia Turística",
+        "termino_formal": "Guía de Sitio",
+        "dominicanismo": "El guía del lugar, el guía del museo",
+        "definicion": "Guía turístico especializado en un lugar específico, como un museo, un monumento o un parque arqueológico.",
+        "ejemplo_uso": "El guía del museo del Ámbar sabe muchísimo y explica muy bien."
+    },
+    {
+        "categoria": "Gestión de Información y Asistencia Turística",
+        "termino_formal": "Guía de Transfer",
+        "dominicanismo": "El guía del transfer, el que te busca en el aeropuerto",
+        "definicion": "Guía que acompaña a los turistas durante sus traslados, generalmente del aeropuerto al hotel, proporcionando información inicial sobre el destino.",
+        "ejemplo_uso": "El guía del transfer nos fue explicando par de cosas del país de camino al hotel."
+    },
+    {
+        "categoria": "Gestión de Información y Asistencia Turística",
+        "termino_formal": "Guion Turístico",
+        "dominicanismo": "El guion, lo que hay que decir, el libreto",
+        "definicion": "Texto estructurado con la información y los puntos clave que un guía turístico debe comunicar durante un recorrido.",
+        "ejemplo_uso": "Apréndete bien el guion de la excursión, que no quiero que estés inventando con las fechas."
+    },
+    {
+        "categoria": "Gestión de Información y Asistencia Turística",
+        "termino_formal": "Hoja de Ruta (Roadbook)",
+        "dominicanismo": "La hoja de ruta, el mapita",
+        "definicion": "Documento que detalla un itinerario o ruta con indicaciones, distancias y puntos de interés, especialmente para viajes por carretera.",
+        "ejemplo_uso": "Toma este mapita con la ruta marcada para que no te pierdas de camino a la playa."
+    },
+    {
+        "categoria": "Gestión de Información y Asistencia Turística",
+        "termino_formal": "Material Promocional",
+        "dominicanismo": "Los brochures (leído: broshúres), los folletos",
+        "definicion": "Conjunto de materiales impresos o digitales (folletos, catálogos, vídeos) utilizados para dar a conocer y promocionar un destino o servicio turístico.",
+        "ejemplo_uso": "Pasa por los hoteles y deja brochures de nuestras excursiones en el lobby."
+    },
+    {
+        "categoria": "Gestión de Información y Asistencia Turística",
+        "termino_formal": "Patrimonio Cultural",
+        "dominicanismo": "El patrimonio cultural, nuestra historia",
+        "definicion": "Conjunto de bienes, tangibles e intangibles, que constituyen la herencia histórica y artística de una comunidad o nación.",
+        "ejemplo_uso": "Tenemos que cuidar la Zona Colonial, que es Patrimonio de la Humanidad y parte de nuestra historia."
+    },
+    {
+        "categoria": "Gestión de Información y Asistencia Turística",
+        "termino_formal": "Patrimonio Natural",
+        "dominicanismo": "Nuestras bellezas naturales, el patrimonio natural",
+        "definicion": "Conjunto de monumentos, formaciones y lugares naturales con valor estético, científico o medioambiental excepcional.",
+        "ejemplo_uso": "Los Haitises es uno de nuestros patrimonios naturales más importantes, hay que protegerlo."
+    },
+    {
+        "categoria": "Gestión de Información y Asistencia Turística",
+        "termino_formal": "Punto de Encuentro",
+        "dominicanismo": "El punto de encuentro",
+        "definicion": "Lugar y hora designados para que un grupo de turistas se reúna antes de iniciar una actividad o excursión.",
+        "ejemplo_uso": "El punto de encuentro para la excursión a Saona es en la recepción del hotel a las 7:00 a.m.."
+    },
+    {
+        "categoria": "Gestión de Información y Asistencia Turística",
+        "termino_formal": "Recurso Turístico",
+        "dominicanismo": "Una atracción, un atractivo turístico",
+        "definicion": "Elemento natural, cultural o creado por el hombre que tiene el potencial de atraer visitantes.",
+        "ejemplo_uso": "El Salto del Limón es un atractivo turístico que trae muchísima gente a Samaná."
+    },
+    {
+        "categoria": "Gestión de Información y Asistencia Turística",
+        "termino_formal": "Producto Turístico",
+        "dominicanismo": "El paquete, la excursión completa",
+        "definicion": "Combinación de varios servicios (transporte, alojamiento, actividades) que se vende como un solo paquete a un precio único.",
+        "ejemplo_uso": "La excursión completa es el producto: incluye la guagua, el barco, la comida y el guía."
+    },
+    {
+        "categoria": "Gestión de Información y Asistencia Turística",
+        "termino_formal": "Señalización Turística",
+        "dominicanismo": "Los letreros, las señales de turismo",
+        "definicion": "Conjunto de señales y letreros diseñados para guiar e informar a los turistas sobre atracciones, servicios y rutas de interés.",
+        "ejemplo_uso": "Hace falta poner más letreros en la carretera para que los turistas lleguen más fácil a las playas."
+    },
+    {
+        "categoria": "Gestión de Información y Asistencia Turística",
+        "termino_formal": "Storytelling (en Turismo)",
+        "dominicanismo": "Echar el cuento, hacer la historia",
+        "definicion": "El arte de contar historias para conectar emocionalmente con los viajeros, transmitiendo la esencia de un destino o experiencia de una manera memorable.",
+        "ejemplo_uso": "Un buen guía no es el que más sabe, es el que mejor sabe echar el cuento y hacer la historia divertida."
+    },
+    {
+        "categoria": "Gestión de Información y Asistencia Turística",
+        "termino_formal": "Target (Público Objetivo)",
+        "dominicanismo": "El target, el público, el tipo de cliente",
+        "definicion": "Segmento específico de la población al que se dirige una campaña de marketing o un producto turístico.",
+        "ejemplo_uso": "Nuestro target para esta excursión de aventura son los turistas jóvenes, no las familias con niños."
+    },
+    {
+        "categoria": "Gestión de Información y Asistencia Turística",
+        "termino_formal": "Tipología de Turista",
+        "dominicanismo": "El tipo de turista",
+        "definicion": "Clasificación de los turistas según sus motivaciones, comportamientos, preferencias y características demográficas.",
+        "ejemplo_uso": "El tipo de turista que viene a Cabarete es diferente al que va a Punta Cana."
+    },
+    {
+        "categoria": "Gestión de Información y Asistencia Turística",
+        "termino_formal": "Tour Conductor / Tour Leader",
+        "dominicanismo": "El tour leader, el encargado del grupo",
+        "definicion": "Persona que acompaña y gestiona un grupo de turistas durante todo su itinerario, encargándose de la logística y el bienestar del grupo.",
+        "ejemplo_uso": "Yo soy el guía aquí en la capital, pero el tour leader es el que anda con el grupo desde Alemania."
+    },
+    {
+        "categoria": "Gestión de Información y Asistencia Turística",
+        "termino_formal": "Accesibilidad Universal",
+        "dominicanismo": "Acceso para todos, que puedan entrar los impedidos",
+        "definicion": "Condición que deben cumplir los entornos, productos y servicios para ser utilizables por todas las personas, independientemente de sus capacidades.",
+        "ejemplo_uso": "Este hotel nuevo tiene rampas y ascensores, tiene buen acceso para todo el mundo."
+    },
+    {
+        "categoria": "Gestión de Información y Asistencia Turística",
+        "termino_formal": "Capacidad de Carga Turística",
+        "dominicanismo": "Cuánta gente cabe, la capacidad del sitio",
+        "definicion": "Número máximo de visitantes que un destino puede soportar al mismo tiempo sin causar daños al medio ambiente, la cultura local y la calidad de la experiencia turística.",
+        "ejemplo_uso": "No podemos mandar más de 50 personas por día a esa cueva para no dañarla, esa es la capacidad."
+    },
+    {
+        "categoria": "Gestión de Información y Asistencia Turística",
+        "termino_formal": "Desestacionalización",
+        "dominicanismo": "Romper la temporada baja, traer turistas el año entero",
+        "definicion": "Estrategia para atraer turistas durante la temporada baja, reduciendo la dependencia de la temporada alta y distribuyendo la actividad turística a lo largo del año.",
+        "ejemplo_uso": "Hay que crear ofertas de golf y congresos para romper la temporada baja en septiembre y octubre."
+    },
+    {
+        "categoria": "Gestión de Información y Asistencia Turística",
+        "termino_formal": "Georreferenciación",
+        "dominicanismo": "Ponerle las coordenadas, ubicarlo en el mapa",
+        "definicion": "Técnica de asignar coordenadas geográficas a un punto de interés para localizarlo con precisión en un mapa digital.",
+        "ejemplo_uso": "Vamos a ponerle las coordenadas a todas las playas escondidas para que la gente las encuentre con Google Maps."
+    },
+    {
+        "categoria": "Gestión de Información y Asistencia Turística",
+        "termino_formal": "Infraestructura Turística",
+        "dominicanismo": "La infraestructura, carreteras, aeropuertos...",
+        "definicion": "Conjunto de instalaciones y servicios básicos (aeropuertos, carreteras, telecomunicaciones) necesarios para el desarrollo de la actividad turística en una zona.",
+        "ejemplo_uso": "Gracias a la carretera nueva, la infraestructura para llegar a Miches ha mejorado muchísimo."
+    },
+    {
+        "categoria": "Gestión de Información y Asistencia Turística",
+        "termino_formal": "Planta Turística",
+        "dominicanismo": "La oferta hotelera, todos los hoteles y restaurantes",
+        "definicion": "Conjunto de todos los equipamientos y servicios de un destino destinados al turista, como hoteles, restaurantes, agencias y atracciones.",
+        "ejemplo_uso": "La oferta hotelera de Punta Cana es la más grande de todo el Caribe, hay de todo."
+    },
+    {
+        "categoria": "Gestión de Recepción y Reservación en Alojamiento",
+        "termino_formal": "ADR (Tarifa Diaria Promedio)",
+        "dominicanismo": "El ADR (leído: a-de-erre), la tarifa promedio",
+        "definicion": "Siglas de 'Average Daily Rate', un indicador que calcula el ingreso promedio por habitación ocupada en un período determinado.",
+        "ejemplo_uso": "El ADR de este fin de semana largo estuvo altísimo, ¡hicimos buen dinero!."
+    },
+    {
+        "categoria": "Gestión de Recepción y Reservación en Alojamiento",
+        "termino_formal": "Allotment (Cupo)",
+        "dominicanismo": "El cupo, el bloqueo de habitaciones",
+        "definicion": "Número de habitaciones que un hotel cede a un tour operador o agencia para que las venda durante un período determinado.",
+        "ejemplo_uso": "Revisa si todavía nos quedan habitaciones del cupo que le dimos al tour operador de Canadá."
+    },
+    {
+        "categoria": "Gestión de Recepción y Reservación en Alojamiento",
+        "termino_formal": "Amenities",
+        "dominicanismo": "Las amenidades, las cositas del baño",
+        "definicion": "Artículos de cortesía que un hotel pone a disposición de los huéspedes en la habitación, como jabón, champú o café.",
+        "ejemplo_uso": "Súbele a la suite un kit de amenidades VIP, con el jaboncito y el champú de los buenos."
+    },
+    {
+        "categoria": "Gestión de Recepción y Reservación en Alojamiento",
+        "termino_formal": "Check-in",
+        "dominicanismo": "El check-in (leído: che-kín)",
+        "definicion": "Proceso de registro de un huésped a su llegada al hotel, donde se verifica su reserva, se toman sus datos y se le entrega la llave de la habitación.",
+        "ejemplo_uso": "La hora pico del check-in es a las 3 de la tarde, ahí es que se arma el juidero en recepción."
+    },
+    {
+        "categoria": "Gestión de Recepción y Reservación en Alojamiento",
+        "termino_formal": "Check-out",
+        "dominicanismo": "El check-out (leído: che-káut)",
+        "definicion": "Proceso de salida de un huésped del hotel, que incluye la devolución de la llave y el pago de cualquier cargo pendiente en su cuenta.",
+        "ejemplo_uso": "Tenemos 10 check-outs antes de las 12, así que necesito a alguien que ayude con las maletas."
+    },
+    {
+        "categoria": "Gestión de Recepción y Reservación en Alojamiento",
+        "termino_formal": "Concierge",
+        "dominicanismo": "El concierge (leído: consiersh)",
+        "definicion": "Empleado del hotel encargado de asistir a los huéspedes con reservas en restaurantes, compra de entradas, transporte y otras solicitudes especiales.",
+        "ejemplo_uso": "Dile al concierge que le consiga una reservación para esta noche en el mejor restaurante de la zona."
+    },
+    {
+        "categoria": "Gestión de Recepción y Reservación en Alojamiento",
+        "termino_formal": "CRS (Sistema Central)",
+        "dominicanismo": "El sistema central de reservas, el CRS",
+        "definicion": "Siglas de 'Central Reservation System', sistema utilizado por los hoteles para gestionar la información sobre disponibilidad y tarifas de las habitaciones en todos los canales de distribución.",
+        "ejemplo_uso": "La reserva entró por el sistema central, parece que la hicieron por la página web de la cadena."
+    },
+    {
+        "categoria": "Gestión de Recepción y Reservación en Alojamiento",
+        "termino_formal": "Discrepancia",
+        "dominicanismo": "Una discrepancia, un descuadre",
+        "definicion": "Inconsistencia entre el estado de una habitación según el sistema de recepción y el reporte del departamento de ama de llaves (ej. el sistema la muestra ocupada pero está vacía).",
+        "ejemplo_uso": "Hay una discrepancia: recepción dice que la 201 está ocupada, pero Ama de Llaves dice que está limpia y vacía."
+    },
+    {
+        "categoria": "Gestión de Recepción y Reservación en Alojamiento",
+        "termino_formal": "Early Check-in",
+        "dominicanismo": "Un early check-in, entrar más temprano",
+        "definicion": "Permiso para que un huésped ocupe su habitación antes de la hora oficial de check-in, sujeto a disponibilidad.",
+        "ejemplo_uso": "El huésped llegó a las 10 a.m., si la habitación está lista, dale un early check-in sin cobrarle."
+    },
+    {
+        "categoria": "Gestión de Recepción y Reservación en Alojamiento",
+        "termino_formal": "Folio",
+        "dominicanismo": "El folio, la cuenta del huésped",
+        "definicion": "Registro detallado de todos los cargos y créditos de un huésped durante su estancia en el hotel.",
+        "ejemplo_uso": "No te olvides de cargarle la cena y las bebidas al folio de la habitación 305."
+    },
+    {
+        "categoria": "Gestión de Recepción y Reservación en Alojamiento",
+        "termino_formal": "Full Board (Pensión Completa)",
+        "dominicanismo": "Pensión completa, el plan de 3 comidas",
+        "definicion": "Plan de alojamiento que incluye las tres comidas principales (desayuno, almuerzo y cena) en el precio de la habitación.",
+        "ejemplo_uso": "Ese paquete es con pensión completa, le incluye desayuno, almuerzo y cena, pero no las bebidas."
+    },
+    {
+        "categoria": "Gestión de Recepción y Reservación en Alojamiento",
+        "termino_formal": "Half Board (Media Pensión)",
+        "dominicanismo": "Media pensión, el plan con desayuno y cena",
+        "definicion": "Plan de alojamiento que incluye el desayuno y una comida principal (generalmente la cena) en el precio de la habitación.",
+        "ejemplo_uso": "El plan de media pensión es bueno para los que se pasan el día entero en la calle de excursión."
+    },
+    {
+        "categoria": "Gestión de Recepción y Reservación en Alojamiento",
+        "termino_formal": "Late Check-out",
+        "dominicanismo": "Un late check-out, salir más tarde",
+        "definicion": "Permiso para que un huésped permanezca en su habitación más allá de la hora oficial de check-out, a menudo con un cargo adicional.",
+        "ejemplo_uso": "El cliente de la suite quiere un late check-out hasta las 4 de la tarde. Cóbrale medio día."
+    },
+    {
+        "categoria": "Gestión de Recepción y Reservación en Alojamiento",
+        "termino_formal": "PMS (Sistema de Gestión)",
+        "dominicanismo": "El sistema, el PMS",
+        "definicion": "Siglas de 'Property Management System', el software principal de un hotel para gestionar reservas, check-in/out, facturación y operaciones diarias.",
+        "ejemplo_uso": "Se cayó el sistema, ahora hay que hacer todos los check-ins a mano hasta que el de cómputos resuelva."
+    },
+    {
+        "categoria": "Gestión de Recepción y Reservación en Alojamiento",
+        "termino_formal": "Rack Rate",
+        "dominicanismo": "La tarifa rack, la tarifa llena, la tarifa de vitrina",
+        "definicion": "Tarifa oficial o máxima de una habitación de hotel, sin aplicar ningún descuento.",
+        "ejemplo_uso": "A ese cliente que llegó sin reserva cóbrale la tarifa llena, sin ningún tipo de descuento."
+    },
+    {
+        "categoria": "Gestión de Recepción y Reservación en Alojamiento",
+        "termino_formal": "RevPAR",
+        "dominicanismo": "El RevPAR (leído: rev-par), el ingreso por habitación",
+        "definicion": "Siglas de 'Revenue Per Available Room', es un indicador clave que mide los ingresos generados por cada habitación disponible, ocupada o no.",
+        "ejemplo_uso": "El gerente general siempre está encima del RevPAR para ver qué tan rentable va el hotel."
+    },
+    {
+        "categoria": "Gestión de Recepción y Reservación en Alojamiento",
+        "termino_formal": "Room Service",
+        "dominicanismo": "Room service (leído: run sérvis)",
+        "definicion": "Servicio que permite a los huéspedes solicitar comida y bebida para ser entregada directamente en su habitación.",
+        "ejemplo_uso": "Un huésped está pidiendo un mangú con los tres golpes por room service a las 11 de la noche."
+    },
+    {
+        "categoria": "Gestión de Recepción y Reservación en Alojamiento",
+        "termino_formal": "Skip",
+        "dominicanismo": "Un skipper, uno que se fue sin pagar",
+        "definicion": "Término para un huésped que abandona el hotel sin realizar el check-out y sin pagar su cuenta.",
+        "ejemplo_uso": "¡Seguridad, el de la 102 se fue sin pagar! ¡Revisen las cámaras, es un skipper!."
+    },
+    {
+        "categoria": "Gestión de Recepción y Reservación en Alojamiento",
+        "termino_formal": "Stay Over",
+        "dominicanismo": "Un stay over, el que se queda",
+        "definicion": "Huésped que continúa su estancia en el hotel por una o más noches después de la fecha de salida originalmente prevista.",
+        "ejemplo_uso": "El huésped de la 401 es un stay over, confirmó que se queda hasta el domingo."
+    },
+    {
+        "categoria": "Gestión de Recepción y Reservación en Alojamiento",
+        "termino_formal": "Upgrade",
+        "dominicanismo": "Un upgrade (leído: opgréid)",
+        "definicion": "Asignar a un huésped una habitación de categoría superior a la que reservó y pagó, generalmente como cortesía o para mejorar su experiencia.",
+        "ejemplo_uso": "Como es su aniversario, vamos a darle un upgrade a una habitación con vista al mar."
+    }
+]
