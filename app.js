@@ -41,8 +41,7 @@ class SearchEngine {
             // Search across termino_formal, dominicanismo, and definicion fields
             const searchFields = [
                 this.normalizeText(term.termino_formal || ''),
-                this.normalizeText(term.dominicanismo || ''),
-                this.normalizeText(term.definicion || '')
+                this.normalizeText(term.dominicanismo || '')
             ];
 
             return searchFields.some(field => 
