@@ -244,15 +244,23 @@ class DataLoader {
             return false;
         }
 
-        const requiredFields = ['termino_formal', 'dominicanismo', 'definicion', 'ejemplo_uso'];
-        
+        const requiredFields = ['termino_formal', 'dominicanismo', 'ejemplo_uso'];
+        const optionalFields = ['definicion'];
+
         for (const field of requiredFields) {
-            if (!term.hasOwnProperty(field) || 
-                typeof term[field] !== 'string' || 
+            if (!term.hasOwnProperty(field) ||
+                typeof term[field] !== 'string' ||
                 term[field].trim().length === 0) {
                 return false;
             }
         }
+
+        for (const field of optionalFields) {
+            if (term.hasOwnProperty(field) && typeof term[field] !== 'string') {
+                return false;
+            }
+        }
+
 
         return true;
     }
